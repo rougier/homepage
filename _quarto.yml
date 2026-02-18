@@ -22,6 +22,15 @@ website:
         text: ARTWORK
       - href: https://github.com/rougier
         text: CODE
+    tools:
+      - icon: envelope
+        href: mailto:nicolas.rougier@inria.fr
+      - icon: mastodon
+        href: https://toot.aquilenet.fr/@rougier
+      - icon: reddit
+        href: https://www.reddit.com/user/Nicolas-Rougier
+      - icon: github
+        href: https://github.com/rougier
         
   page-footer:
      background: light
