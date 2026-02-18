@@ -1,0 +1,380 @@
+---
+title: "Resume"
+toc-depth: 4
+---
+
+Team leader of the computational neuroscience team at the institute of
+neurodegenerative diseases. Co‐founder and editor in chief of
+[ReScience C] and [Rescience X], editor for [PeerJ Computer Science],
+review editor for [Frontiers in Neurobotics], [Frontiers in
+Neuroscience], [Frontiers in Psychology], member of the [COSO
+Logiciel] (Software and Source Codes College), member of the [COFIS]
+(Ofis Advisory Board), co-funder and member of the [FRRN] (French National
+Reproducibility Network) advisory board.
+
+Former elected member of the national Inria evaluation committee,
+vice‐head of the Mnemosyne project, member of the Open Access
+Scholarly Publishers Association. I have directed 156 Phd Students, 4
+post‐docs, 4 enginerrs, ≈30 master students, reviewed and examined ≈40
+PhD thesis and participated in more than 20 hiring committees (tenured
+position). I'm regularly teaching cognitive science, computational
+neuroscience, numerical computation and scientific visualization at
+university, doctoral schools and summer schools. I've also published
+several resources about scientific computation, scientific
+visualization and machine learning.
+
+
+### History
+
+::: {.history}
++---------------+--------------------------------------------------------------+
+| 2021 - ...    | Director of Research at ([Inria])<br>                        |
+|               | Vice-head of the [Hypermondes] association                   |
++---------------+--------------------------------------------------------------+
+| 2020 - ...    | Head of the Computational Neuroscience team ([IMN])<br>      |
+|               | Vice-head of the [Mnemosyne] team-project ([Inria BSO])<br>  |
+|               | Member of the DART team ([LaBRI])                            |
++---------------+--------------------------------------------------------------+
+| 2013 - 2020   | Researcher (tenured) at [Inria Bordeaux Sud-Ouest]<br>       |
+|               | Vice-head of the [Mnemosyne] team-project<br>                |
+|               | Member of the [Institute of Neurodegenerative Diseases]<br>  |
+|               | Member of the [LaBRI] laboratory                             |
++---------------+--------------------------------------------------------------+
+| 2011          | Habilitation, Université Nancy 2<br>                         |
+|               | *Fondements biologiques pour le calcul distribué*            |
++---------------+--------------------------------------------------------------+
+| 2002 - 2013   | Researcher (tenured) at [Inria Nancy Grand-Est]<br>          |
+|               | Member of the Cortex team-project<br>                        |
+|               | Member of the [Loria] laboratory                             |
++---------------+--------------------------------------------------------------+
+| 2000 - 2002   | Associate Researcher at [Colorado University, Boulder]<br>   |
+|               | Member of the O’Reilly [Cognitive Psychology laboratory]<br> |
++---------------+--------------------------------------------------------------+
+| 1997 - 2000   | Ph.D. in Computer Science, Université Henri Poincaré<br>     |
+|               | *Modèles de mémoires pour la navigation autonome*            |
++---------------+--------------------------------------------------------------+
+| *(1996-1997)* | *Military service in the naval air force*                    |
++---------------+--------------------------------------------------------------+
+| 1993 - 1996   | Engineer Telecom Nancy (ex ESIAL) <br>                       |
+|               | DEA (Master) in Computer Science, Université Nancy 1         |
++---------------+--------------------------------------------------------------+
+:::
+
+
+
+<!-- ## Main collaborators -->
+
+<!-- [Thomas Boraud](https://www.bordeaux-neurocampus.fr/en/staff/thomas-boraud/) -->
+<!--   (Institute of Neurodegenerative Diseases, Bordeaux)   -->
+<!-- [Arthur Leblois](https://www.bordeaux-neurocampus.fr/staff/arthur-leblois/) -->
+<!--   (Institute of Neurodegenerative Diseases, Bordeaux)    -->
+<!-- [Konrad Hinsen](http://khinsen.net/) -->
+<!--   (Centre de Biophysique Moléculaire, Orléans)   -->
+<!-- [Etienne Roesch](http://etienneroes.ch/) -->
+<!--   (University of Reading, Reading, UK)   -->
+<!-- [Frédéric Alexandre](http://www.labri.fr/perso/falexand/) -->
+<!--   (Inria Bordeaux Sud-Ouest)   -->
+
+## People
+
+### PhD students {.visually-hidden}
+### Post-doc and engineers {.visually-hidden}
+
+::: {layout-ncol=2}
+
+### PhD students
+
+**Yousra Ouazzani Touhami** 2025-2028  
+**Mélanie Romano** 2025-2028  
+**Maeva Andriantsoamberomanga** 2022-2025  
+[Naomi Chaix-Echel](https://theses.hal.science/tel-04849313v1) (PhD) 2021-2024  
+[Nikolaos Vardalakis](https://theses.fr/2024BORD0055) (PhD) 2020-2024  
+[Fjola Hyseni](https://theses.fr/2023BORD0351) (PhD,MD) 2020-2023    
+[Snighda Dagar](https://www.theses.fr/2023BORD0106) (PhD) 2019-2023  
+[Remya Sankar](https://www.theses.fr/2022BORD0441) (PhD) 2018-2022  
+[Anthony Strock](https://www.theses.fr/2020BORD0195) (PhD) 2017-2020  
+[Ikram Chraibi Kaadoud](https://www.theses.fr/2018BORD0032) (PhD) 2015-1018  
+[Aurélien Nioche](https://www.theses.fr/2018SORUS361) (PhD) 2014-2018  
+[Meropi Topalidou](https://www.theses.fr/2016BORD0174) (PhD) 2013-2016  
+[Georgios Detorakis](https://www.theses.fr/2013LORR0140) (PhD) 2010-2013  
+[Wahiba Taouali](https://www.theses.fr/2012LORR0105) (PhD) 2009-2012  
+[Jérémy Fix](https://www.theses.fr/2008NAN10052) (PhD) 2005-2008  
+[Julien Vitay](https://www.theses.fr/2006NAN10052) (PhD) 2002-2006  
+
+### Post-doc and engineers
+
+[Roshni Borse](https://www.linkedin.com/in/rborse) 2024-2025  
+[Fabien Benureau](https://fabien.benureau.com/) 2016-1017  
+[Zhor Ramdane-Cherif](https://dev-dcac.univ-lorraine.fr/fr/ramdane-cherif-zhor) 2005-2006  
+[Rémi Coulom](https://www.kayufu.com/) 2003-2004  
+Alistair Bray 1998-2000  
+
+:::
+
+### Interns
+
+**Yves Apriou** (2025, Bordeaux)
+**Héloise Troublé** (2024, ENS Rennes)
+**Pierre Schmittbuhl** (2024, ENS Lyon)
+**Gautham Venugopal** (2023, IIIT Hyderabad, India)
+**Victor Leroy** (2022, ENST, Bordeaux)
+**Rebecca Lafont** (2022, Bordeaux INP)
+**Bhushan Rugbursing** (2021, Médecine/Science, Bordeaux),
+**Karen Sobriel** (2021, Université de Nantes),
+**Quentin Lanneau** (2021, ENSEIRB, Bordeaux),
+**Kepa Labescau** (2020, Médecine/Science, Bordeaux),
+**Dimitri Lerévérend** (2020, ENS Rennes),
+**Nicolas Thou** (2020, ENSEIRB, Bordeaux),
+**Adrien Tétar** (2019, ESIEE, Paris),
+**Gabriel Gouraud** (2019, Polytechnique, Saclay),
+**Théophile Boraud** (2018, Univ. Warwick, UK),
+**Edwige Cyffers** (2018, ENS, Lyon),
+**Basile Garcia** (2018, Univ. Bordeaux, Bordeaux),
+**Remya Sankar** (2017, IIIT Hyderabad, India),
+**Anthony Strock** (2017, ENS, Rennes),
+**Sabyasachi Shivkumar** (2016, IIIT Madras, India),
+**Barghav teja Nallapu** (2015, IIIT Hyderabad, Indoa),
+**Aurélien Marie** (2015, Univ. Bordeaux, Bordeaux),
+**Hima Mehta** (2014, IIIT Hyderabad, Inde),
+**Meropi Topalidou** (2013, Univ. Crete, Greece),
+**Zoé Barbanneau** (2011, Ecole Estienne, Paris),
+**Wahiba Taouali** (2009, Ecole des Mines, Nancy),
+**Andrew Szabados** (2008, Univ. Jussieu, Paris),
+**Johnatan Gall** (2006, Supélec, Metz),
+**Jérémy Fix** (2003, Supélec, Metz),
+**Yoann Dieu** (2003, Univ. Strasbourg, Strasbourg),
+**Julien Vitay** (2002, Supélec, Rennes).
+
+## Activities
+
+### Braincraft (since 2026)
+
+Brain research has made tremendous progress over the last few decades
+in nearly all areas of investigation and yet, the comprehension of cognition still
+eludes us because most high-level functions, such as decision making, results from
+the complex and dynamic interaction between several structures. On the one hand
+we have a fragmented collection of computational models whose unification is out
+of reach, on the other hand we have holistic approaches whose complexity oblit-
+erates any hope of comprehension. Our project proposes to build the foundations
+of a research program in neuroscience in order to explain how cognition devel-
+oped in most vertebrates, supported by an epistemological framework for taming
+the inherent complexity and a transcription into operational models of the evolu-
+tionary, developmental and ecological constraints. Informed by neuroscience and
+guided by philosophy, we propose to define and build a series of computational,
+embodied and intelligible models along the phylogenetic and ontogenetic axes,
+with the parallel study of their biological counterparts.
+
+
+<!--
+### REWIRE (Horizon Widera)
+
+**(2026-2029)** REWIRE rolls out a practical computational
+reproducibility toolkit comprising Reproducibility Management Plans
+(RMPs) implemented in ARGOS, RO-Crates to describe machine actionable
+DMPs, and package data/code/workflows with metadata and provenance for
+comparison, sharing, publishing, the use of GNU Guix for coding in
+reproducible environments linked to Software Heritage via for
+archiving SWHID (Software Hash Identifier) to ensure long term
+archiving, and capacity building & communities (role-specific
+training, Train-the-Trainer, clinics and an on-ramp prioritising
+widening countries). Objectives are phased to: (1) set up and start
+deployments, (2) widen adoption, (3) synthesise evidence for policy,
+and (4) secure stewardship and continuity. Detailed validation
+approaches are provided in the Methodology; below we state only what
+will be produced and how progress will be evidenced at a high level.
+
+-->
+
+<!--
+**Scientific Python (2019-2021)** A series of three volumes on Scientific
+Python: Scientific Computation (Numpy), Scientific Visualization (Matplotlib) &
+Scientific Modelling (Scipy).
+-->
+
+<!--
+**Ecomob (Regional grant 2019-2022)** A joint project between University of La
+Rochelle, University of Bordeaux and Inria for the study of eco-mobility and
+the modelling of multi-criteria decision.
+-->
+
+<!--
+**SOMA (ANR/FNSNF 2018-2021)** This project is a unique collaboration between neuro-hardware, cellular computing, reconfigurable computing and neuroscience that aims at defining a new computational paradigm: a self-organizing and adaptive architecture with the design of an experimental hardware chip.
+-->
+
+### Observatoire de la surveillance en démocratie (since 2024)
+
+At the crossroads of various scientific disciplines, such as law,
+computer science, information and communication sciences, sociology,
+history, economics, and political science, the [Observatoire de la
+surveillance en démocratie
+(OSD)](https://observatoire-surveillance-democratie.fr/) aims to
+promote multidisciplinary research and expertise on surveillance
+phenomena in democracy. In particular, the OSD aims to take stock of
+the techniques used by private and public actors whose goal—or
+effect—is to monitor part or all of the population.  Following my many
+interventions about AI, I've decided to join the observatory from the
+start in order to study the the impact of latest AI techniques on
+democracy. This requires a true multi-disciplinary approach because
+the problem is complex and requires expertise from several
+disciplines, including computer science.
+
+
+### French Network for Reproducible Research (since 2021)
+
+The [French Reproducible Research
+Network](https://www.recherche-reproductible.fr/) is a national
+initiative bringing together scientists engaged in the study of
+factors promoting reproducibility in research. Although the challenges
+of reproducibility vary across disciplines, they concern all
+scientific fields. The network therefore strives to represent a rich
+and balanced disciplinary diversity. The network has approximately 350
+members registered, holding a variety of positions and come from
+numerous institutions throughout France. At least 30 different
+disciplines are represented. This diversity is a fundamental element
+of the network, which aims to promote the exchange of best practices
+and stimulate discussion around common procedures in different
+disciplines.
+
+I've co-funded the network in 2020 with Sarah Cohen-Boulakia, Frédéric
+Lemoire and Arnaud Legrand, following my interest in reproducibility
+for more than a decade. We organized the first conference in 2022 at
+Institut Pasteur and the network has grown to more than 400 members.
+We are about to join the [global
+federation](https://reproducibility.global/) that we helped to shape.
+
+::: {layout-ncol=5}
+
+[![](thumbnails/2026-Nature.png){.pixel-border}](https://www.nature.com/articles/d41586-025-03196-0)
+
+[![](thumbnails/2020-TYRC.png)](https://www.nature.com/articles/d41586-020-02462-7)
+
+[![](thumbnails/vers_une_recherche_reproductible.png){.pixel-border}](https://rr-france.github.io/bookrr/)
+
+[![](thumbnails/ReScience.png){.pixel-border}](https://rescience.github.io/)
+
+[![](thumbnails/2015-HCERES.png)](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2015.00030/full)
+
+:::
+
+<!--
+**[Hyperhum@in]((https://www.mshbx.fr/en/brain-machine-model-analogy-identity-neuroscience-and-artificial-intelligence-in-hyperhuman-mirror/)) (Inria / Université Bordeaux-Montaigne 2023-2024)** The Hyperhum@in research program brings together a core group of researchers in HSS and life sciences committed to questioning exploratory engineering projects “at the frontiers of the human”.  The second part, entitled “brain-machine: analogy, model, identity”, proposes to take a combined look at Artificial Intelligence and cognitive neuroscience which have today become inseparable in their mutual quest for intelligibility of the functioning of the human brain.
+-->
+
+### Hypermondes (since 2020)
+
+[Hypermondes](http://hypermondes.fr) is an annual cultural event based
+in the Nouvelle-Aquitaine region of France, specifically dedicated to
+Science and Fiction (including science fiction, fantasy, and the
+fantastic). The festival was co-founded by Natacha Vas-Deyres, a
+teacher and researcher specializing in science fiction and speculative
+fiction, Fabrice Carré, computer scientist and president of SO Games,
+astrophysicist Franck Selsis, publisher André-François Ruaud, and a
+collective of authors, booksellers, communication professionals, and
+researchers.
+
+The festival is held every third week of September in the city of
+Mérignac. What distinguishes Hypermondes from traditional literary
+fairs is its commitment to an interdisciplinary approach. The festival
+serves as a bridge between creative arts and rigorous scientific
+inquiry, inviting a diverse range of participants that includes
+authors, illustrators, filmmakers, and research scientists. By
+fostering a dialogue between sciences and speculative fiction, the
+event seeks to explore how imagined futures can be grounded in
+contemporary scientific reality.
+
+I've been serving as vice-president of the association since 2021 and
+help organizing the festival as well as the life of the association.
+
+::: {layout-ncol=5}
+
+![](images/2025-Hypermondes-Voyages.webp){.pixel-border}
+
+![](images/2024-Hypermondes-Planetes.webp){.pixel-border}
+
+![](images/2023-Hypermondes-Monstres.webp){.pixel-border}
+
+![](images/2022-Hypermondes-Utopies.webp){.pixel-border}
+
+![](images/2021-Hypermondes-Robots.webp){.pixel-border}
+
+:::
+
+### Psyphine (since 2010)
+
+[Psyphine](https://psyphine.hypotheses.org/) is a multidisciplinary
+lab (computer science, philosophy, psychology, neuroscience,
+linguistic, ethnology) that studies cognition from a theoretical and
+experimental perspective, centered around our relationship with
+manufactured objects. This relationship has been disrupted in recent
+years by the emergence of objects in our homes that are capable of
+acting and perceiving, such as autonomous vacuum cleaners, artificial
+companions and artificial assistants. While these objects offer
+varying degrees of complexity, their main characteristic is their
+ability to interact with the environment and people. However,
+understanding and analyzing these interactions requires the
+interweaving of numerous hypotheses, conditions, and parameters that
+are ultimately very difficult to assess within a single scientific
+discipline. Anthropology, philosophy, psychology, neuroscience,
+robotics, computer science, sociolinguistics, art, design: all these
+disciplines, whether scientific or not, have something to contribute
+to the subject and to teach other disciplines.
+
+To study these issues, the Psyphine group brings together researchers
+from various disciplines (anthropology, computer science,
+neuroscience, philosophy, psychology, sociolinguistics) from different
+laboratories at the University of Lorraine (ATILF, Interpsy, LORIA,
+AHP-Prest), the Institute of Neurodegenerative Diseases in Bordeaux,
+the Jean Nicod Institute in Paris, and the EHESS Social Anthropology
+Laboratory. In the meantime, we're also trying to gather a community
+around these questions and so far, we've organised [3 conferences, 6
+workshops, one Summer school and one hackathon](https://psyphine.hypotheses.org/rencontrer-psyphine).
+
+::: {layout-ncol=5}
+
+![](thumbnails/2026-Psyphine-Hackathon.png){.pixel-border}
+
+[![](thumbnails/2025-DoDo.jpg){}](images/2025-DoDo.pdf)
+
+![](thumbnails/2023-Apertures.png){}
+
+[![](thumbnails/2023-DoDo.png){}](images/psyphine-2023.pdf)
+
+[![](thumbnails/2022-Psyphine.png){}](images/psyphine-2022.pdf)
+
+[![](images/psyphine-2020.png){}](images/psyphine-2020.pdf)
+
+[![](images/psyphine-2017.png)](images/psyphine-2017.pdf)
+
+[![](images/psyphine-2016.png){}](images/psyphine-2016.pdf)
+
+[![](images/psyphine-2015.png){}](images/psyphine-2015.pdf)
+
+[![](thumbnails/CorpsEtRobots-2012.png){.pixel-border}](images/CorpsEtRobots.pdf)
+
+:::
+
+
+[Inria]: https://www.inria.fr/en/
+[Hypermondes]: https://hypermondes.fr
+[Institute of Neurodegenerative Diseases]: http://www.imn-bordeaux.org/en/
+[Inria Bordeaux Sud‐Ouest]: http://www.inria.fr/en/centre/bordeaux
+[Inria BSO]: http://www.inria.fr/en/centre/bordeaux
+[Mnemosyne]: https://www.inria.fr/equipes/mnemosyne
+[Inria Nancy Grand‐Est]: http://www.inria.fr/en/centre/nancy
+[LaBRI]: http://www.labri.fr/
+[Loria]: http://www.loria.fr/en
+[Institute of Neurodegenerative Diseases]: http://www.imn-bordeaux.org/en/
+[IMN]: http://www.imn-bordeaux.org/en/
+[University of Bordeaux]: http://www.u-bordeaux.com
+[Colorado University, Boulder]: https://www.colorado.edu
+[Labex Brain]: https://brain.labex.u-bordeaux.fr/
+[Cognitive Psychology laboratory]: https://www.colorado.edu/faculty/oreilly/
+[ReScience C]: https://rescience.github.io
+[ReScience X]: http://rescience.org/x
+[PeerJ Computer Science]: https://peerj.com/
+[Frontiers in Neurobotics]: https://www.frontiersin.org/journals/neurorobotics#
+[Frontiers in Neuroscience]: https://www.frontiersin.org/journals/neuroscience#
+[Frontiers in Psychology]: https://www.frontiersin.org/journals/psychology#
+[COSO Logiciel]: https://www.ouvrirlascience.fr/college-codes-sources-et-logiciels/
+[COFIS]: https://www.ofis-france.fr/ofis-advisory-board/
+[FRRN]: http://www.recherche-reproductible.fr/

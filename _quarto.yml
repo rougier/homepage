@@ -1,0 +1,40 @@
+project:
+  type: website
+
+website:
+  favicon: data/gravatar-black.png
+  page-navigation: true
+  navbar:
+    logo: data/gravatar-white.png
+    left:
+      - href: index.qmd
+        text: HOME
+      - href: resume.qmd
+        text: RESUME
+      - href: contributions.qmd
+        text: CONTRIBUTIONS
+      - href: news.qmd
+        text: NEWS
+      - href: artwork.qmd
+        text: ARTWORK
+      - href: https://github.com/rougier
+        text: CODE
+        
+  page-footer:
+     background: light
+     center: |
+       Made with Quarto (sketchy theme).<br>
+       Last updated: {{< meta date-modified >}}
+
+format:
+  html:
+    date-modified: last-modified
+    title-block-style: none
+    theme:
+      - sketchy
+    css: styles.css
+    toc: true
+
+
+
+

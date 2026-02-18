@@ -1,0 +1,117 @@
+---
+title: "Artwork"
+---
+
+
+Some artworks I designed for conferences and events I organized or
+co-organized over the years.
+
+## Conference posters
+
+There are some posters I designed for event or conferences I organized
+or co-organized. They are in [pages (OSX)](https://www.apple.com/pages/)
+format. Feel free to re-use them for designing your own (if you like them)..
+Some sources are available on the
+[GitHub repositorty](https://github.com/rougier/conference-posters).
+
+All posters are licensed under a [CC-BY International
+4.0](https://creativecommons.org/licenses/by/4.0/) license.
+
+
+::: {layout-ncol=4}
+
+[![](thumbnails/2026-Psyphine-Hackathon.png){.pixel-border}](images/2026-Psyphine-Hackathon.pdf)
+
+[![](thumbnails/ROBNA-2024.png){.pixel-border}](images/ROBNA-2024.pdf)
+
+[![](thumbnails/SFN-2024.png){.pixel-border}](images/SFN-2024.pdf)
+
+[![](thumbnails/URFIST-2024.png){.pixel-border}](images/URFIST-2024.pdf)
+
+[![](thumbnails/2023-rr-days.png){.pixel-border}](images/2023-rr-days.pdf)
+
+[![](thumbnails/psyphine-2023.png){.pixel-border}](images/psyphine-2023.pdf)
+
+[![](thumbnails/IES.png){.pixel-border}](images/IES.pdf)
+
+![](thumbnails/2023-Apertures.png)
+
+[![](thumbnails/psyphine-2022.png){.pixel-border}](images/psyphine-2022.pdf)
+
+[![](thumbnails/Hypermondes-Inria.png){.pixel-border}](images/Hypermondes-Inria.pdf)
+
+[![](thumbnails/ten-years-challenge.png){.pixel-border}](images/ten-years-challenge.pdf)
+
+[![](thumbnails/psyphine-2020.png){.pixel-border}](images/psyphine-2020.pdf)
+
+![](thumbnails/2020-Barba.png)
+
+[![](thumbnails/2019-CompNeuro.png){.pixel-border}](images/2019-CompNeuro.pdf)
+
+[![](thumbnails/2019-URFIST.png){.pixel-border}](images/2019-URFIST.pdf)
+
+[![](thumbnails/psyphine-2017.png){.pixel-border}](images/psyphine-2017.pdf)
+
+[![](thumbnails/psyphine-2016.png){.pixel-border}](images/psyphine-2016.pdf)
+
+[![](thumbnails/psyphine-2015.png){.pixel-border}](images/psyphine-2015.pdf)
+
+[![](thumbnails/CorpsEtRobots-2012.png){.pixel-border}](images/CorpsEtRobots-2012.pdf)
+
+[![](thumbnails/SBDM-2017.png){.pixel-border}](images/SBDM-2017.pdf)
+
+[![](thumbnails/Poster-CapScience-Calculer.png){.pixel-border}](images/Poster-CapScience-Calculer.pdf)
+
+[![](thumbnails/Poster-CapScience-Comprendre.png){.pixel-border}](images/Poster-CapScience-Comprendre.pdf)
+
+[![](thumbnails/scipy-lecture-notes.png){.pixel-border}](http://scipy-lectures.org)
+
+[![](thumbnails/Bodyware.png){.pixel-border}](images/Bodyware.pdf)
+
+![](thumbnails/euroscipy-2013.png){.pixel-border}
+
+![](thumbnails/cap-2012.png){.pixel-border}
+
+![](thumbnails/euroscipy-2012.png){.pixel-border}
+
+![](thumbnails/neurocomp-2011.png){.pixel-border}
+
+[![](thumbnails/GnuTuxSoftRevolution-v2.png){.pixel-border}](images/GnuTuxSoftRevolution-v2-Big.pdf)
+
+:::
+
+
+## Scientific posters
+
+There are some posters I designed for event or conferences I participated
+in. They are either in [pages (OSX)](https://www.apple.com/pages/) or
+[ComicLife (OSX)](https://plasq.com/apps/comiclife/macwin/) formats.
+Feel free to re-use for designing your own. Some sources are available on the
+[GitHub repositorty](https://github.com/rougier/scientific-posters).
+
+All posters are licensed under a [CC-BY International 4.0](https://creativecommons.org/licenses/by/4.0/) license.
+
+
+::: {layout-ncol=4}
+
+![](thumbnails/2015-Euroscipy.png)
+
+![](thumbnails/2015-SBDM.png)
+
+![](thumbnails/2019-iBAGS.png)
+
+![](thumbnails/2015-HCERES.png)
+
+![](thumbnails/2016-Calculer.png)
+
+![](thumbnails/2023-iBAGS.png)
+
+![](thumbnails/2015-RLDM.png)
+
+![](thumbnails/2016-Comprendre.png)
+
+:::
+
+## Miscellanous
+
+Some of my old artwork is available on [Wikimedia](https://commons.wikimedia.org/wiki/Category:Nicolas_P._Rougier).

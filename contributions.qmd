@@ -1,0 +1,210 @@
+---
+title: "Contributions"
+toc-depth: 4
+bibliography:
+  academic-articles: _bibliography/rougier-academic-articles.bib
+  academic-conferences: _bibliography/rougier-academic-conferences.bib
+  academic-chapters: _bibliography/rougier-academic-chapters.bib
+  academic-lectures: _bibliography/rougier-academic-lectures.bib
+  academic-tutorials: _bibliography/rougier-academic-tutorials.bib
+  academic-thesis: _bibliography/rougier-academic-thesis.bib
+  academic-invited-int: _bibliography/rougier-academic-invited-int.bib
+  academic-invited-nat: _bibliography/rougier-academic-invited-nat.bib
+  academic-books: _bibliography/rougier-academic-books.bib
+  academic-correspondences: _bibliography/rougier-academic-correspondences.bib
+  academic-preprints: _bibliography/rougier-academic-preprints.bib
+  media-coverage: _bibliography/rougier-media-coverage.bib
+  media-podcasts: _bibliography/rougier-media-podcasts.bib
+  media-interviews: _bibliography/rougier-media-interviews.bib
+  outreach-shows: _bibliography/rougier-outreach-shows.bib
+  outreach-articles: _bibliography/rougier-outreach-articles.bib
+  outreach-conferences: _bibliography/rougier-outreach-conferences.bib
+filters:
+  - multibib
+  - scripts/bib-ordinal.lua
+  - scripts/bib-button.lua
+metadata:
+  keep-tex-metadata: true
+  indent: true
+citeproc: true
+csl: data/rougier.csl
+validate-yaml: false
+nocite: |
+  @*
+---
+
+## Academic Research
+
+I appear (in general) as the first author when I have done the work prior to
+writing (design, modeling, implementation and/or analysis) and as the last
+author (or penultimate for some collaborations) when I have directly supervised
+or initiated the work (student, doctoral student, post-doctoral fellow). On the
+whole of my bibliography, I have about 275 co-authors and my scientific
+spectrum is mainly included in neurosciences and machine learning with however
+notable contributions in computer graphics, open and reproducible science and
+scientific visualization.
+
+::: {.callout-note collapse="true"}
+## List of co-authors (n=276)
+
+J. Abramatic, C. Acharian, M. Alarcon, K. Albert, G. Alberts,
+F. Alexandre, P. Alliez, T. Arildsen, M. Arotcarena, I. Astic,
+P. Aubert, A. Aussel, S. Ballesta, L. Barba, F. Benureau, D. Le Berre,
+G. Berry, E. Bezard, I. Blanc, S. Bohic, S. Boldo, Y. Boniface,
+T. Boraud, M. Bourdenx, S. Bourgeois-Gironde, P. Bourne, M. Bover,
+K. Bradley, T. Braver, C. Brown, C. Brun, R. Buckley, C. Burns, P. de
+Buyl, O. Caglayan, L. Calderan, L. Campagnola, S. Camus, N. Carrillo,
+F. Carré, A. Chabreuil, A. Chaillet, N. Chaix-Eichel, V. Chakravarthy,
+A. Chauve, I. Chraibi-Kaadoud, R. Cimrman, D. Clipsham, E. Cochrane,
+J. Cohen, M. Collin, C. Combelles, M. Comte, M. Coris, R. Cornus,
+R. Di Cosmo, S. Dagar, I. Damas, A. Darnaud, E. Darquie, A. Davison,
+M. Deffains, B. Dehay, M. Delsuc, P. Derkinderen, L. Desquilbet,
+G. Detorakis, A. Diem, P. Dominey, M. Dorémus, E. Doudnikoff,
+S. Dovero, G. Dowek, D. Drix, M. Droettboom, M. Droin, F. Dufour,
+J. Dumont, L. Duplouy, S. Edgar, Editors, J. Ehrel, O. El-Agnaf,
+M. Enard, P. Enel, B. Esfahbod, A. Espaze, C. Estrada, M. Ezquerro,
+C. Farge, A. Favrot, A. Fischer, J. Fix, H. Frezza-Buet, A. Frédéric,
+L. Féjoz, B. Garcia, P. Gaussier, M. Gharsallah, B. Girard, B. Girau,
+M. Giraud, A. Girault, I. Gnaedig, C. Godin, L. Goffart, B. Goglin,
+M. Goillandeau, R. Gommers, E. Gouillart, S. Granger, J. Greenberg,
+B. Guedj, B. Guerry, O. Guest, L. Guilhemsang, L. Guion, P. Guitton,
+M. Hacid, V. Haenel, M. Hall, B. Hejblum, R. Henriques, X. Hinaut,
+M. Hinchey, K. Hinsen, C. Holik, N. Hong, N. Howe, M. Hutson, A. Hutt,
+F. Hyseni, I. Illina, P. Inverardi, V. Issarny, K. Jaron,
+Z. Jedrzejewski-Szmek, J. Jongwane, N. Jullien, D. Kase, E. Kerrien,
+L. Khacef, M. Khamassi, C. Kirchner, A. Klein, L. Kovacic, N. Kruse,
+N. Lacaux, F. Laferriere, Q. Lanneau, S. Laurent, A. Leblois,
+G. Lefebvre, S. Lefebvre, A. Legrand, C. Leininger, V. Leroy,
+T. Leste-Lasserre, V. Louvet, V. Lucchese, O. Ly, P. Madhavan,
+S. Maheo, N. Mallet, T. Manninen, P. Marchesi, F. Marzano,
+F. Masseglia, C. Maumet, C. Maurice, D. McGlinn, C. Metzner,
+B. Miramond, G. Miura, B. Mollenhauer, R. Monat, M. Morari, P. Moreau,
+B. Nallapu, E. Nardelli, F. Neyret, A. Nioche, D. Noelle, S. Novello,
+P. O'Donohue, R. O'Reilly, J. Obeso, M. Ogouchi, M. Olivi, J. Palm,
+P. Paradinas, F. Pedregosa, F. Pellegrini, T. Perelmuter, C. Perier,
+J. Perkel, P. Pernot, O. Petchey, P. Peterlongo, S. Phipps, C. Piana,
+D. Pinte, C. Piron, H. Plesser, V. Poirel, T. Poisot, G. Porras,
+A. Prigent, D. Pucheu, S. De Quatrebarbes, L. Queyssi, M. Quinson,
+Y. Ram, K. Ram, P. Rambert, Z. Ramdane-Cherif, A. Recasens, L. Redaud,
+D. Rives, H. Robak, E. Roesch, C. Rossant, V. Rostami, N. Rouger,
+A. Rousseau, N. Roussel, C. Sandt, R. Sankar, M. Sassi, D. Sch\"uller,
+A. Seles, A. Shifman, S. Shivkumar, L. Shustek, A. Smith, K. Sobriel,
+J. Spector, J. Stachelek, T. Stafford, M. Stimberg, F. Stollmeier,
+A. Strock, B. Surampudi, W. Taouali, M. Thiolat, B. Thompson, N. Thou,
+J. Timmer, M. Topalidou, N. Trouvain, A. Upegui, C. Vadel, F. Vaggi,
+O. Vahtras, N. Vaikath, S. Vandermeersch, F. Vannel, N. Vardalakis,
+G. Varoquaux, N. Vas-Deyres, G. Venugopal, G. Viejo, L. Viennot,
+P. Virtanen, J. Vitay, T. Viéville, A. Vostinar, M. Vulliez,
+F. Wagner, M. Webb, P. Wheatley, C. Woolston, S. Wyber, H. Xypas,
+R. Yurchak, T. Zito
+:::
+
+### Preprints
+::: {#refs-academic-preprints}
+:::
+
+### Articles 
+::: {#refs-academic-articles}
+:::
+
+### Conferences
+::: {#refs-academic-conferences}
+:::
+
+### Thesis
+::: {#refs-academic-thesis}
+:::
+
+### Books
+::: {#refs-academic-books}
+:::
+
+### Chapters
+::: {#refs-academic-chapters}
+:::
+
+### Tutorials
+::: {#refs-academic-tutorials}
+:::
+
+## Scientific Communication
+
+### Media Coverage
+::: {#refs-media-coverage}
+:::
+
+### Correspondences
+::: {#refs-academic-correspondences}
+:::
+
+### Keynotes & Talks
+::: {#refs-academic-invited-int}
+:::
+
+### Invited Lectures
+::: {#refs-academic-lectures}
+:::
+
+### Invited talks (national)
+::: {#refs-academic-invited-nat}
+:::
+
+### Podcasts
+::: {#refs-media-podcasts}
+:::
+
+
+## Software
+
+### Academic 
+
+[Vispy](https://vispy.org/) is VisPy is a high-performance interactive
+2D/3D data visualization library leveraging the computational power of
+modern Graphics Processing Units (GPUs) through the OpenGL library to
+display very large datasets.
+
+[Glumpy](https://glumpy.github.io/) is a python library for scientific
+visualization that is both fast, scalable and beautiful. Glumpy offers an
+intuitive interface between numpy and modern OpenGL.
+
+[Freetype-GL](https://github.com/rougier/freetype-gl) is a C library for
+displaying text in OpenGL using one vertex buffer, one texture and the Freetype
+librart with flawless rendering quality in orthographic mode.
+
+[Machine learning recipes](https://github.com/rougier/ML-Recipes) is a
+collection of stand-alone examples of machine learning algorithms in Python
+covering multi-armed bandits, artificial neural networks and Markod decision
+Processes.
+
+[DANA](https://github.com/rougier/dana) is a Python library for distributed
+asynchronous numerical and adaptive computing. The computational paradigm
+supporting the dana framework is grounded on the notion of a unit that is a set
+of arbitrary values that can vary along time under the influence of other units
+and learning.
+
+### Open Source
+
+See my [GitHub page](https://github.com/rougier/) for more open source
+software, including Emacs, Freetype, Matplotlib, Numpy & Dataviz.
+
+## Science Outreach
+
+I'm doint a lot of Science Outreach but this is only recently I tried
+to keep track of my interventions. These lists are thus far from
+complete.
+
+### Books & Articles
+::: {#refs-outreach-articles}
+:::
+
+### Conferences and Panels
+::: {#refs-outreach-conferences}
+:::
+
+### Interviews
+::: {#refs-media-interviews}
+:::
+
+### Shows
+::: {#refs-outreach-shows}
+:::

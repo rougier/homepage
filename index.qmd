@@ -1,0 +1,53 @@
+---
+title: <span class='fw-light'>Nicolas P.</span> <span>Rougier</span>
+---
+
+![](data/gravatar.png){style="float: left; margin-right: 15px;" width="200"}
+
+I'm a senior researcher in computational cognitive neuroscience at
+[Inria] and the [Institute of Neurodegenerative Diseases] (Bordeaux,
+France). I'm investigating decision making, learning and cognition
+using computational models of the brain and distributed, numerical and
+adaptive computing, a.k.a. artificial neural networks and machine
+learning. My research aims to irrigate the fields of philosophy with
+regard to the mind-body problem, medicine to account for the normal
+and pathological functioning of the brain and the digital sciences to
+offer alternative computing paradigms.
+
+Beside neuroscience and philosophy, I'm also interested in open and
+reproducible science, scientific visualization, science outreach
+and computer graphics (especially digital typography).
+
+**Keywords:** Neuroscience, Cognition, Enaction, Behavior, Embodiment,
+              Learning, Model, Decision Making, Distributed Computing, Neural
+              Networks, Machine Learning, Artificial Intelligence, Scientific
+              Computation, Scientific Visualization, Scientific Modelling, Open
+              Science, Reproducible Science.
+
+::: {layout-ncol=2}
+
+### Main office
+Institut des Maladies Neurodégénératives  
+Centre Broca Nouvelle-Aquitaine  
+146 rue Léo Saignat - CS 61292 - Case 28  
+33076 Bordeaux cedex
+
+### Alternative office
+Centre Inria de l'Université de Bordeaux
+200 Avenue de la Vieille Tour  
+33405 Talence  
+
+:::
+
+
+[Inria]: https://www.inria.fr/en/
+[Institute of Neurodegenerative Diseases]: http://www.imn-bordeaux.org/en/
+[ReScience C]: https://rescience.github.io
+[Konrad Hinsen]: http://khinsen.net/
+[Transforming Code into Scientific Contribution]: https://www.frontiersin.org/articles/10.3389/fninf.2017.00069/full
+[glumpy]: https://glumpy.github.io
+[VisPy]: http://vispy.org
+[Ten Simple Rules for Better Figures]: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833
+[The Conversation]: https://theconversation.com/silicon-soul-the-vain-dream-of-electronic-immortality-52368
+[digital typography]: https://fr.slideshare.net/NicolasRougier1/siggraph-2018-digital-typography
+

@@ -1,0 +1,94 @@
+/* css styles */
+
+/* Create a counter for the bibliography entries */
+.references {
+  counter-reset: bib-counter;
+}
+
+.csl-entry {
+  counter-increment: bib-counter;
+  position: relative;
+  padding-left: 2.5em;
+}
+
+.csl-entry::before {
+  content: "" counter(bib-counter) ".";
+  position: absolute;
+  left: 0;
+  font-weight: normal;
+  color: #999;
+}
+
+/* Target the title using the smallcaps class hook */
+.csl-entry .smallcaps {
+    color: #000088;
+    font-weight: 400 !important;
+    font-variant: normal !important;
+    text-transform: none !important; 
+    font-style: normal; 
+}
+
+/* Bibliography links */
+.btn-bib { color: #000088;
+           font-weight: bold;
+           text-decoration: none;
+         }
+.btn-doi { color: rgb(220, 53, 69)}
+
+
+/* ARTWORK */
+.pixel-border {
+  border: 1px solid #333333;
+  padding: 0px; /* Optional: adds a tiny gap between image and border */
+}
+.quarto-layout-cell {
+    padding: 0;
+    margin: 0;
+    padding-bottom: .1em;
+}
+
+.text-danger {
+    font-weight: bold;
+}
+
+/* Professional history table */
+/* -------------------------- */
+.history table, 
+.history tr, 
+.history td, 
+.history th, 
+.history thead {
+  border: none !important;
+}
+
+/* Ensure the first column (Dates) is bold and doesn't wrap */
+.history td:first-child {
+  font-weight: bold;
+  white-space: nowrap;
+  width: 150px; /* Adjust width as needed */
+  vertical-align: top;
+}
+
+/* Style the second column (Roles) */
+.history td:last-child {
+  vertical-align: top;
+}
+
+/* Hide the empty header row created by Markdown syntax */
+.history thead {
+  display: none;
+}
+
+/* Increase the logo height */
+.navbar-brand img {
+  max-height: 50px; /* Adjust this value as needed */
+  width: auto;      /* Keeps the aspect ratio */
+  margin-top: -5px; /* Optional: nudge it up/down to center it */
+}
+
+/* Optional: If the logo makes the navbar too tall, 
+   you can adjust the navbar padding */
+.navbar {
+  padding-top: 0.8rem;
+  padding-bottom: 0.8rem;
+}

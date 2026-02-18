@@ -1,0 +1,8 @@
+external
+_site
+_bibliography
+_extensions
+.quarto
+*.DS_Store
+/.quarto/
+**/*.quarto_ipynb
