@@ -1,6 +1,9 @@
 project:
   type: website
 
+execute:
+  freeze: auto
+  
 website:
   favicon: data/gravatar-black.png
   page-navigation: true

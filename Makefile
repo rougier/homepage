@@ -35,7 +35,7 @@ $(BIBSTAMP): $(BIBFILE) $(PYTHON_SCRIPT)
 
 render: $(BIBSTAMP) $(BIBSTYLE)
 	@echo "Rendering website"
-	@quarto render
+	@quarto render --incremental
 	@cd _site && ln -sf ../external/* . || true
 	@cd _site && ln -sf ../images/* images/ 2> /dev/null || true
 #       The commands take care of linking old material in the new website
