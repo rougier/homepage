@@ -33,7 +33,7 @@ Centre Broca Nouvelle-Aquitaine
 33076 Bordeaux cedex
 
 ### Alternative office
-Centre Inria de l'Université de Bordeaux
+Centre Inria de l'Université de Bordeaux  
 200 Avenue de la Vieille Tour  
 33405 Talence  
 

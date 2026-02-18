@@ -14,12 +14,14 @@ website:
         text: HOME
       - href: resume.qmd
         text: RESUME
+      - href: activities.qmd
+        text: ACTIVITIES
       - href: contributions.qmd
         text: CONTRIBUTIONS
-      - href: news.qmd
-        text: NEWS
       - href: artwork.qmd
         text: ARTWORK
+      - href: news.qmd
+        text: NEWS
       - href: https://github.com/rougier
         text: CODE
     tools:

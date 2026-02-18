@@ -13,7 +13,7 @@ MOUNT_PATH = /Volumes/nrougier
 
 all: render
 
-publish: 
+publish: render
 	@if ! mount | grep -q "on $(MOUNT_PATH) "; then \
 		@echo "Target not mounted. Attempting to mount $(REMOTE_URL)..."; \
 		@open "nodevice://$(REMOTE_URL)" || open "$(REMOTE_URL)"; \
