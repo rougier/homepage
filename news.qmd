@@ -9,6 +9,7 @@ Trying to keep track of my activities. A kind of external memory.
 
 ### February 2026
 
+- **February 18, 2026** Brand new website (you're reading it, sources available at [GitHub](https://github.com/rougier/homepage). [#CODE]{.text-danger}
 - **February 17, 2026** Our MEDUSA project about journalism and surveillance has passed first selection step (ANR). [#GRANT]{.text-danger}
 - **February 6, 2026** I'll be at the "Institut de sciences criminelles et de la Justice" [13th afterwork session](https://iscj.u-bordeaux.fr/evenements/garantir-la-confiance-dans-les-medias-la-sanction-de-desinformation) about law and AI. [#TALK]{.text-danger}
 - **February 1, 2026** Just released [Emacs agenda](https://github.com/rougier/agenda) providing Emacs with plain text agenda. [#CODE]{.text-danger} 
