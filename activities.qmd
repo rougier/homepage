@@ -1,0 +1,235 @@
+---
+title: "Activities"
+---
+
+## Braincraft (since 2026)
+
+Brain research has made tremendous progress over the last few decades
+in nearly all areas of investigation and yet, the comprehension of cognition still
+eludes us because most high-level functions, such as decision making, results from
+the complex and dynamic interaction between several structures. On the one hand
+we have a fragmented collection of computational models whose unification is out
+of reach, on the other hand we have holistic approaches whose complexity oblit-
+erates any hope of comprehension. Our project proposes to build the foundations
+of a research program in neuroscience in order to explain how cognition devel-
+oped in most vertebrates, supported by an epistemological framework for taming
+the inherent complexity and a transcription into operational models of the evolu-
+tionary, developmental and ecological constraints. Informed by neuroscience and
+guided by philosophy, we propose to define and build a series of computational,
+embodied and intelligible models along the phylogenetic and ontogenetic axes,
+with the parallel study of their biological counterparts.
+
+
+<!--
+## REWIRE (Horizon Widera)
+
+**(2026-2029)** REWIRE rolls out a practical computational
+reproducibility toolkit comprising Reproducibility Management Plans
+(RMPs) implemented in ARGOS, RO-Crates to describe machine actionable
+DMPs, and package data/code/workflows with metadata and provenance for
+comparison, sharing, publishing, the use of GNU Guix for coding in
+reproducible environments linked to Software Heritage via for
+archiving SWHID (Software Hash Identifier) to ensure long term
+archiving, and capacity building & communities (role-specific
+training, Train-the-Trainer, clinics and an on-ramp prioritising
+widening countries). Objectives are phased to: (1) set up and start
+deployments, (2) widen adoption, (3) synthesise evidence for policy,
+and (4) secure stewardship and continuity. Detailed validation
+approaches are provided in the Methodology; below we state only what
+will be produced and how progress will be evidenced at a high level.
+
+-->
+
+<!--
+**Scientific Python (2019-2021)** A series of three volumes on Scientific
+Python: Scientific Computation (Numpy), Scientific Visualization (Matplotlib) &
+Scientific Modelling (Scipy).
+-->
+
+<!--
+**Ecomob (Regional grant 2019-2022)** A joint project between University of La
+Rochelle, University of Bordeaux and Inria for the study of eco-mobility and
+the modelling of multi-criteria decision.
+-->
+
+<!--
+**SOMA (ANR/FNSNF 2018-2021)** This project is a unique collaboration between neuro-hardware, cellular computing, reconfigurable computing and neuroscience that aims at defining a new computational paradigm: a self-organizing and adaptive architecture with the design of an experimental hardware chip.
+-->
+
+## Observatoire de la surveillance en démocratie (since 2024)
+
+At the crossroads of various scientific disciplines, such as law,
+computer science, information and communication sciences, sociology,
+history, economics, and political science, the [Observatoire de la
+surveillance en démocratie
+(OSD)](https://observatoire-surveillance-democratie.fr/) aims to
+promote multidisciplinary research and expertise on surveillance
+phenomena in democracy. In particular, the OSD aims to take stock of
+the techniques used by private and public actors whose goal—or
+effect—is to monitor part or all of the population.  Following my many
+interventions about AI, I've decided to join the observatory from the
+start in order to study the the impact of latest AI techniques on
+democracy. This requires a true multi-disciplinary approach because
+the problem is complex and requires expertise from several
+disciplines, including computer science.
+
+
+## French Network for Reproducible Research (since 2021)
+
+The [French Reproducible Research
+Network](https://www.recherche-reproductible.fr/) is a national
+initiative bringing together scientists engaged in the study of
+factors promoting reproducibility in research. Although the challenges
+of reproducibility vary across disciplines, they concern all
+scientific fields. The network therefore strives to represent a rich
+and balanced disciplinary diversity. The network has approximately 350
+members registered, holding a variety of positions and come from
+numerous institutions throughout France. At least 30 different
+disciplines are represented. This diversity is a fundamental element
+of the network, which aims to promote the exchange of best practices
+and stimulate discussion around common procedures in different
+disciplines.
+
+I've co-funded the network in 2020 with Sarah Cohen-Boulakia, Frédéric
+Lemoire and Arnaud Legrand, following my interest in reproducibility
+for more than a decade. We organized the first conference in 2022 at
+Institut Pasteur and the network has grown to more than 400 members.
+We are about to join the [global
+federation](https://reproducibility.global/) that we helped to shape.
+
+::: {layout-ncol=5}
+
+[![](thumbnails/2026-Nature.png){.pixel-border}](https://www.nature.com/articles/d41586-025-03196-0)
+
+[![](thumbnails/2020-TYRC.png)](https://www.nature.com/articles/d41586-020-02462-7)
+
+[![](thumbnails/vers_une_recherche_reproductible.png){.pixel-border}](https://rr-france.github.io/bookrr/)
+
+[![](thumbnails/ReScience.png){.pixel-border}](https://rescience.github.io/)
+
+[![](thumbnails/2015-HCERES.png)](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2015.00030/full)
+
+:::
+
+<!--
+**[Hyperhum@in]((https://www.mshbx.fr/en/brain-machine-model-analogy-identity-neuroscience-and-artificial-intelligence-in-hyperhuman-mirror/)) (Inria / Université Bordeaux-Montaigne 2023-2024)** The Hyperhum@in research program brings together a core group of researchers in HSS and life sciences committed to questioning exploratory engineering projects “at the frontiers of the human”.  The second part, entitled “brain-machine: analogy, model, identity”, proposes to take a combined look at Artificial Intelligence and cognitive neuroscience which have today become inseparable in their mutual quest for intelligibility of the functioning of the human brain.
+-->
+
+## Hypermondes (since 2020)
+
+[Hypermondes](http://hypermondes.fr) is an annual cultural event based
+in the Nouvelle-Aquitaine region of France, specifically dedicated to
+Science and Fiction (including science fiction, fantasy, and the
+fantastic). The festival was co-founded by Natacha Vas-Deyres, a
+teacher and researcher specializing in science fiction and speculative
+fiction, Fabrice Carré, computer scientist and president of SO Games,
+astrophysicist Franck Selsis, publisher André-François Ruaud, and a
+collective of authors, booksellers, communication professionals, and
+researchers.
+
+The festival is held every third week of September in the city of
+Mérignac. What distinguishes Hypermondes from traditional literary
+fairs is its commitment to an interdisciplinary approach. The festival
+serves as a bridge between creative arts and rigorous scientific
+inquiry, inviting a diverse range of participants that includes
+authors, illustrators, filmmakers, and research scientists. By
+fostering a dialogue between sciences and speculative fiction, the
+event seeks to explore how imagined futures can be grounded in
+contemporary scientific reality.
+
+I've been serving as vice-president of the association since 2021 and
+help organizing the festival as well as the life of the association.
+
+::: {layout-ncol=5}
+
+[![](thumbnails2025-Hypermondes-Voyages.png){.pixel-border}](https://hypermondes.fr/archives-festival-2025/)
+
+[![](thumbnails2024-Hypermondes-Planetes.png){.pixel-border}](https://hypermondes.fr/archives-festival-2024/)
+
+[![](thumbnails2023-Hypermondes-Monstres.png){.pixel-border}](https://hypermondes.fr/archives-festival-2023/)
+
+[![](thumbnails2022-Hypermondes-Utopies.png){.pixel-border}](https://hypermondes.fr/archives-festival-2022/)
+
+[![](thumbnails2021-Hypermondes-Robots.png){.pixel-border}](https://hypermondes.fr/archives-festival-2021/)
+
+:::
+
+## Psyphine (since 2010)
+
+[Psyphine](https://psyphine.hypotheses.org/) is a multidisciplinary
+lab (computer science, philosophy, psychology, neuroscience,
+linguistic, ethnology) that studies cognition from a theoretical and
+experimental perspective, centered around our relationship with
+manufactured objects. This relationship has been disrupted in recent
+years by the emergence of objects in our homes that are capable of
+acting and perceiving, such as autonomous vacuum cleaners, artificial
+companions and artificial assistants. While these objects offer
+varying degrees of complexity, their main characteristic is their
+ability to interact with the environment and people. However,
+understanding and analyzing these interactions requires the
+interweaving of numerous hypotheses, conditions, and parameters that
+are ultimately very difficult to assess within a single scientific
+discipline. Anthropology, philosophy, psychology, neuroscience,
+robotics, computer science, sociolinguistics, art, design: all these
+disciplines, whether scientific or not, have something to contribute
+to the subject and to teach other disciplines.
+
+To study these issues, the Psyphine group brings together researchers
+from various disciplines (anthropology, computer science,
+neuroscience, philosophy, psychology, sociolinguistics) from different
+laboratories at the University of Lorraine (ATILF, Interpsy, LORIA,
+AHP-Prest), the Institute of Neurodegenerative Diseases in Bordeaux,
+the Jean Nicod Institute in Paris, and the EHESS Social Anthropology
+Laboratory. In the meantime, we're also trying to gather a community
+around these questions and so far, we've organised [3 conferences, 6
+workshops, one Summer school and one hackathon](https://psyphine.hypotheses.org/rencontrer-psyphine).
+
+::: {layout-ncol=5}
+
+![](thumbnails/2026-Psyphine-Hackathon.png){.pixel-border}
+
+[![](thumbnails/2025-DoDo.jpg){}](images/2025-DoDo.pdf)
+
+![](thumbnails/2023-Apertures.png){}
+
+[![](thumbnails/2023-DoDo.png){}](images/psyphine-2023.pdf)
+
+[![](thumbnails/2022-Psyphine.png){}](images/psyphine-2022.pdf)
+
+[![](thumbnails/2020-Psyphine.png){}](images/psyphine-2020.pdf)
+
+[![](thumbnails/2017-Psyphine.png)](images/psyphine-2017.pdf)
+
+[![](thumbnails/2016-Psyphine.png){}](images/psyphine-2016.pdf)
+
+[![](thumbnails/2015-Psyphine.png){}](images/psyphine-2015.pdf)
+
+[![](thumbnails/CorpsEtRobots-2012.png){.pixel-border}](images/CorpsEtRobots.pdf)
+
+:::
+
+
+[Inria]: https://www.inria.fr/en/
+[Hypermondes]: https://hypermondes.fr
+[Institute of Neurodegenerative Diseases]: http://www.imn-bordeaux.org/en/
+[Inria Bordeaux Sud‐Ouest]: http://www.inria.fr/en/centre/bordeaux
+[Inria BSO]: http://www.inria.fr/en/centre/bordeaux
+[Mnemosyne]: https://www.inria.fr/equipes/mnemosyne
+[Inria Nancy Grand‐Est]: http://www.inria.fr/en/centre/nancy
+[LaBRI]: http://www.labri.fr/
+[Loria]: http://www.loria.fr/en
+[Institute of Neurodegenerative Diseases]: http://www.imn-bordeaux.org/en/
+[IMN]: http://www.imn-bordeaux.org/en/
+[University of Bordeaux]: http://www.u-bordeaux.com
+[Colorado University, Boulder]: https://www.colorado.edu
+[Labex Brain]: https://brain.labex.u-bordeaux.fr/
+[Cognitive Psychology laboratory]: https://www.colorado.edu/faculty/oreilly/
+[ReScience C]: https://rescience.github.io
+[ReScience X]: http://rescience.org/x
+[PeerJ Computer Science]: https://peerj.com/
+[Frontiers in Neurobotics]: https://www.frontiersin.org/journals/neurorobotics#
+[Frontiers in Neuroscience]: https://www.frontiersin.org/journals/neuroscience#
+[Frontiers in Psychology]: https://www.frontiersin.org/journals/psychology#
+[COSO Logiciel]: https://www.ouvrirlascience.fr/college-codes-sources-et-logiciels/
+[COFIS]: https://www.ofis-france.fr/ofis-advisory-board/
+[FRRN]: http://www.recherche-reproductible.fr/
