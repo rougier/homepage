@@ -35,7 +35,7 @@ website:
         href: https://github.com/rougier
         
   page-footer:
-     background: light
+     background: primary
      center: |
        Made with Quarto (sketchy theme).<br>
        Last updated: {{< meta date-modified >}}

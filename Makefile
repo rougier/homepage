@@ -15,13 +15,7 @@ all: render
 
 publish: render
 	@if ! mount | grep -q "on $(MOUNT_PATH) "; then \
-		@echo "Target not mounted. Attempting to mount $(REMOTE_URL)..."; \
-		@open "nodevice://$(REMOTE_URL)" || open "$(REMOTE_URL)"; \
-		@echo "Waiting for mount to settle..."; \
-		@sleep 5; \
-	fi
-	@if [ ! -d $(MOUNT_PATH) ]; then \
-		@echo "Error: Could not mount $(MOUNT_PATH). Please mount manually."; \
+		@echo "Target not mounted."; \
 		exit 1; \
 	fi
 	@echo "Uploading..."; \
