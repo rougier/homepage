@@ -6,7 +6,6 @@ BIBFILE = data/$(BIBNAME).bib
 BIBDIR = _bibliography
 BIBSTAMP = $(BIBDIR)/.last-update
 BIBSTYLE = data/rougier.csl
-
 # Variables for webdav mount
 REMOTE_URL = https://webdav.labri.fr/perso/nrougier
 MOUNT_PATH = /Volumes/nrougier
@@ -29,7 +28,7 @@ $(BIBSTAMP): $(BIBFILE) $(PYTHON_SCRIPT)
 
 render: $(BIBSTAMP) $(BIBSTYLE)
 	@echo "Rendering website"
-	@quarto render --incremental
+	@quarto render 
 	@cd _site && ln -sf ../external/* . || true
 	@cd _site && ln -sf ../images/* images/ 2> /dev/null || true
 #       The commands take care of linking old material in the new website
