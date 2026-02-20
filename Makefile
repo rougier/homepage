@@ -7,23 +7,23 @@ BIBDIR = _bibliography
 BIBSTAMP = $(BIBDIR)/.last-update
 BIBSTYLE = data/rougier.csl
 # Variables for webdav mount
-REMOTE_URL = https://webdav.labri.fr/perso/nrougier
-MOUNT_PATH = /Volumes/nrougier
+WEBDAV_REMOTE = https://webdav.labri.fr/perso/nrougier
+WEBDAV_LOCAL = /Volumes/nrougier
 
 all: render
 
-publish: render
-	@if ! mount | grep -q "on $(MOUNT_PATH) "; then \
-		@echo -n "Target not mounted. Trying to mount... "; \
-		@osascript -e 'mount volume "https://webdav.labri.fr/perso/nrougier"'
-		@if ! mount | grep -q "on $(MOUNT_PATH) "; then \
-			@echo "Failed to mount $(REMOVE_URL)."; \
-			exit 1; \
-		fi
+publish: 
+	@if ! mount | grep -q "on $(WEBDAV_LOCAL) "; then          \
+		echo -n "Target not mounted. Trying to mount... "; \
+		osascript -e 'mount volume "$(WEBDAV_REMOTE)"';    \
+		if ! mount | grep -q "on $(WEBDAV_LOCAL) "; then   \
+			echo "Failed to mount $(WEBDAV_REMOTE).";  \
+			exit 1;                                    \
+		fi;                                                \
+		echo "Success!";                                   \
 	fi
-	@echo "Success!"
-	@echo -n "Uploading website..."; \
-	rsync --recursive --copy-links --verbose --inplace --update --delete --delete-after --delete-excluded --exclude-from=data/rsync-exclude.txt _site/ $(MOUNT_PATH)/
+	@echo "Uploading website..."; 
+	@rsync --recursive --copy-links --info=progress2 --inplace --update --delete --delete-after --delete-excluded --exclude-from=data/rsync-exclude.txt _site/ $(WEBDAV_LOCAL)/
 	@echo "Done!"
 
 $(BIBSTAMP): $(BIBFILE) $(PYTHON_SCRIPT)
