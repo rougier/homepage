@@ -2,7 +2,7 @@
 title: "Activities"
 ---
 
-## Braincraft (since 2026)
+### Braincraft (2026…)
 
 Brain research has made tremendous progress over the last few decades
 in nearly all areas of investigation and yet, the comprehension of cognition still
@@ -56,13 +56,13 @@ the modelling of multi-criteria decision.
 **SOMA (ANR/FNSNF 2018-2021)** This project is a unique collaboration between neuro-hardware, cellular computing, reconfigurable computing and neuroscience that aims at defining a new computational paradigm: a self-organizing and adaptive architecture with the design of an experimental hardware chip.
 -->
 
-## Observatoire de la surveillance en démocratie (since 2024)
+### Surveillance (2024…)
 
 At the crossroads of various scientific disciplines, such as law,
 computer science, information and communication sciences, sociology,
 history, economics, and political science, the [Observatoire de la
-surveillance en démocratie
-(OSD)](https://observatoire-surveillance-democratie.fr/) aims to
+surveillance en démocratie (Observatory on Surveillance in Democracy,
+OSD)](https://observatoire-surveillance-democratie.fr/) aims to
 promote multidisciplinary research and expertise on surveillance
 phenomena in democracy. In particular, the OSD aims to take stock of
 the techniques used by private and public actors whose goal—or
@@ -74,7 +74,7 @@ the problem is complex and requires expertise from several
 disciplines, including computer science.
 
 
-## French Network for Reproducible Research (since 2021)
+### Reproducibility (2015…)
 
 The [French Reproducible Research
 Network](https://www.recherche-reproductible.fr/) is a national
@@ -115,7 +115,7 @@ federation](https://reproducibility.global/) that we helped to shape.
 **[Hyperhum@in]((https://www.mshbx.fr/en/brain-machine-model-analogy-identity-neuroscience-and-artificial-intelligence-in-hyperhuman-mirror/)) (Inria / Université Bordeaux-Montaigne 2023-2024)** The Hyperhum@in research program brings together a core group of researchers in HSS and life sciences committed to questioning exploratory engineering projects “at the frontiers of the human”.  The second part, entitled “brain-machine: analogy, model, identity”, proposes to take a combined look at Artificial Intelligence and cognitive neuroscience which have today become inseparable in their mutual quest for intelligibility of the functioning of the human brain.
 -->
 
-## Hypermondes (since 2020)
+### Hypermondes (2020…)
 
 [Hypermondes](http://hypermondes.fr) is an annual cultural event based
 in the Nouvelle-Aquitaine region of France, specifically dedicated to
@@ -142,30 +142,30 @@ help organizing the festival as well as the life of the association.
 
 ::: {layout-ncol=5}
 
-[![](thumbnails2025-Hypermondes-Voyages.png){.pixel-border}](https://hypermondes.fr/archives-festival-2025/)
+[![](thumbnails/2025-Hypermondes-Voyages.png){.pixel-border}](https://hypermondes.fr/archives-festival-2025/)
 
-[![](thumbnails2024-Hypermondes-Planetes.png){.pixel-border}](https://hypermondes.fr/archives-festival-2024/)
+[![](thumbnails/2024-Hypermondes-Planetes.png){.pixel-border}](https://hypermondes.fr/archives-festival-2024/)
 
-[![](thumbnails2023-Hypermondes-Monstres.png){.pixel-border}](https://hypermondes.fr/archives-festival-2023/)
+[![](thumbnails/2023-Hypermondes-Monstres.png){.pixel-border}](https://hypermondes.fr/archives-festival-2023/)
 
-[![](thumbnails2022-Hypermondes-Utopies.png){.pixel-border}](https://hypermondes.fr/archives-festival-2022/)
+[![](thumbnails/2022-Hypermondes-Utopies.png){.pixel-border}](https://hypermondes.fr/archives-festival-2022/)
 
-[![](thumbnails2021-Hypermondes-Robots.png){.pixel-border}](https://hypermondes.fr/archives-festival-2021/)
+[![](thumbnails/2021-Hypermondes-Robots.png){.pixel-border}](https://hypermondes.fr/archives-festival-2021/)
 
 :::
 
-## Psyphine (since 2010)
+### Psyphine (2010…)
 
 [Psyphine](https://psyphine.hypotheses.org/) is a multidisciplinary
 lab (computer science, philosophy, psychology, neuroscience,
-linguistic, ethnology) that studies cognition from a theoretical and
-experimental perspective, centered around our relationship with
-manufactured objects. This relationship has been disrupted in recent
-years by the emergence of objects in our homes that are capable of
-acting and perceiving, such as autonomous vacuum cleaners, artificial
-companions and artificial assistants. While these objects offer
-varying degrees of complexity, their main characteristic is their
-ability to interact with the environment and people. However,
+linguistic, ethnology) funded in 2010 that studies cognition from a
+theoretical and experimental perspective, centered around our
+relationship with manufactured objects. This relationship has been
+disrupted in recent years by the emergence of objects in our homes
+that are capable of acting and perceiving, such as autonomous vacuum
+cleaners, artificial companions and artificial assistants. While these
+objects offer varying degrees of complexity, their main characteristic
+is their ability to interact with the environment and people. However,
 understanding and analyzing these interactions requires the
 interweaving of numerous hypotheses, conditions, and parameters that
 are ultimately very difficult to assess within a single scientific
@@ -196,7 +196,7 @@ workshops, one Summer school and one hackathon](https://psyphine.hypotheses.org/
 
 [![](thumbnails/2022-Psyphine.png){}](images/psyphine-2022.pdf)
 
-[![](thumbnails/2020-Psyphine.png){}](images/psyphine-2020.pdf)
+[![](thumbnails/psyphine-2020.png){}](images/psyphine-2020.pdf)
 
 [![](thumbnails/2017-Psyphine.png)](images/psyphine-2017.pdf)
 

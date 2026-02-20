@@ -5,6 +5,9 @@ execute:
   freeze: auto
   
 website:
+
+  site-url: https://www.labri.fr/perso/nrougier
+  description: "Nicolas P. Rougier posts"  
   favicon: data/gravatar-black.png
   page-navigation: true
   navbar:
@@ -22,6 +25,8 @@ website:
         text: ARTWORK
       - href: news.qmd
         text: NEWS
+      - href: blog.qmd
+        text: BLOG
       - href: https://github.com/rougier
         text: CODE
     tools:
@@ -33,6 +38,8 @@ website:
         href: https://www.reddit.com/user/Nicolas-Rougier
       - icon: github
         href: https://github.com/rougier
+      - icon: rss
+        href: blog.xml
         
   page-footer:
      background: primary

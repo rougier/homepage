@@ -14,7 +14,7 @@ Reproducibility Network) advisory board.
 
 Former elected member of the national Inria evaluation committee,
 vice‐head of the Mnemosyne project, member of the Open Access
-Scholarly Publishers Association. I have directed 156 Phd Students, 4
+Scholarly Publishers Association. I have directed 16 Phd Students, 4
 post‐docs, 4 enginerrs, ≈30 master students, reviewed and examined ≈40
 PhD thesis and participated in more than 20 hiring committees (tenured
 position). I'm regularly teaching cognitive science, computational
@@ -27,39 +27,68 @@ visualization and machine learning.
 ### History
 
 ::: {.history}
-+---------------+--------------------------------------------------------------+
-| 2021 - ...    | Director of Research at ([Inria])<br>                        |
-|               | Vice-head of the [Hypermondes] association                   |
-+---------------+--------------------------------------------------------------+
-| 2020 - ...    | Head of the Computational Neuroscience team ([IMN])<br>      |
-|               | Vice-head of the [Mnemosyne] team-project ([Inria BSO])<br>  |
-|               | Member of the DART team ([LaBRI])                            |
-+---------------+--------------------------------------------------------------+
-| 2013 - 2020   | Researcher (tenured) at [Inria Bordeaux Sud-Ouest]<br>       |
-|               | Vice-head of the [Mnemosyne] team-project<br>                |
-|               | Member of the [Institute of Neurodegenerative Diseases]<br>  |
-|               | Member of the [LaBRI] laboratory                             |
-+---------------+--------------------------------------------------------------+
-| 2011          | Habilitation, Université Nancy 2<br>                         |
-|               | *Fondements biologiques pour le calcul distribué*            |
-+---------------+--------------------------------------------------------------+
-| 2002 - 2013   | Researcher (tenured) at [Inria Nancy Grand-Est]<br>          |
-|               | Member of the Cortex team-project<br>                        |
-|               | Member of the [Loria] laboratory                             |
-+---------------+--------------------------------------------------------------+
-| 2000 - 2002   | Associate Researcher at [Colorado University, Boulder]<br>   |
-|               | Member of the O’Reilly [Cognitive Psychology laboratory]<br> |
-+---------------+--------------------------------------------------------------+
-| 1997 - 2000   | Ph.D. in Computer Science, Université Henri Poincaré<br>     |
-|               | *Modèles de mémoires pour la navigation autonome*            |
-+---------------+--------------------------------------------------------------+
-| *(1996-1997)* | *Military service in the naval air force*                    |
-+---------------+--------------------------------------------------------------+
-| 1993 - 1996   | Engineer Telecom Nancy (ex ESIAL) <br>                       |
-|               | DEA (Master) in Computer Science, Université Nancy 1         |
-+---------------+--------------------------------------------------------------+
++---------------+-------------------------------------------------------------------+
+| 2021 - ...    | Director of Research at ([Inria])<br>                             |
+|               | Vice-head of the [Hypermondes] association                        |
++---------------+-------------------------------------------------------------------+
+| 2020 - ...    | Head of the Computational Neuroscience team ([IMN])<br>           |
+|               | Vice-head of the [Mnemosyne] team-project ([Inria Bordeaux])<br>  |
+|               | Member of the DART team ([LaBRI])                                 |
++---------------+-------------------------------------------------------------------+
+| 2013 - 2020   | Researcher (tenured) at [Inria Bordeaux] <br>                     |
+|               | Vice-head of the [Mnemosyne] team-project<br>                     |
+|               | Member of the [Institute of Neurodegenerative Diseases]<br>       |
+|               | Member of the [LaBRI] laboratory                                  |
++---------------+-------------------------------------------------------------------+
+| 2011          | Habilitation, [Université Nancy 2] <br>                           |
+|               | *Fondements biologiques pour le calcul distribué*                 |
++---------------+-------------------------------------------------------------------+
+| 2002 - 2013   | Researcher (tenured) at [Inria Nancy]<br>                         |
+|               | Member of the Cortex team-project<br>                             |
+|               | Member of the [Loria] laboratory                                  |
++---------------+-------------------------------------------------------------------+
+| 2000 - 2002   | Associate Researcher at [Colorado University, Boulder]<br>        |
+|               | Member of the O’Reilly [Cognitive Psychology laboratory]<br>      |
++---------------+-------------------------------------------------------------------+
+| 1997 - 2000   | Ph.D. in Computer Science, [Université Henri Poincaré]<br>        |
+|               | *Modèles de mémoires pour la navigation autonome*                 |
++---------------+-------------------------------------------------------------------+
+| *(1996-1997)* | *Military service in the naval air force*                         |
++---------------+-------------------------------------------------------------------+
+| 1993 - 1996   | Engineer [Telecom Nancy] (ex ESIAL) <br>                          |
+|               | DEA (Master) in Computer Science, [Université Nancy 1]            |
++---------------+-------------------------------------------------------------------+
 :::
 
+[Inria]: https://www.inria.fr/en/
+[Inria Nancy]: https://www.inria.fr/en/inria-centre-universite-lorraine
+[Inria Bordeaux]: http://www.inria.fr/en/centre/bordeaux
+
+[Université Henri Poincaré]: https://www.univ-lorraine.fr/
+[Telecom Nancy]: https://telecomnancy.univ-lorraine.fr/
+[Université Nancy 1]: https://www.univ-lorraine.fr/
+[Université Nancy 2]: https://www.univ-lorraine.fr/
+[Hypermondes]: https://hypermondes.fr
+[Institute of Neurodegenerative Diseases]: http://www.imn-bordeaux.org/en/
+[Mnemosyne]: https://www.inria.fr/equipes/mnemosyne
+[Inria Nancy Grand‐Est]: http://www.inria.fr/en/centre/nancy
+[LaBRI]: http://www.labri.fr/
+[Loria]: http://www.loria.fr/en
+[Institute of Neurodegenerative Diseases]: http://www.imn-bordeaux.org/en/
+[IMN]: http://www.imn-bordeaux.org/en/
+[University of Bordeaux]: http://www.u-bordeaux.com
+[Colorado University, Boulder]: https://www.colorado.edu
+[Labex Brain]: https://brain.labex.u-bordeaux.fr/
+[Cognitive Psychology laboratory]: https://www.colorado.edu/faculty/oreilly/
+[ReScience C]: https://rescience.github.io
+[ReScience X]: http://rescience.org/x
+[PeerJ Computer Science]: https://peerj.com/
+[Frontiers in Neurobotics]: https://www.frontiersin.org/journals/neurorobotics#
+[Frontiers in Neuroscience]: https://www.frontiersin.org/journals/neuroscience#
+[Frontiers in Psychology]: https://www.frontiersin.org/journals/psychology#
+[COSO Logiciel]: https://www.ouvrirlascience.fr/college-codes-sources-et-logiciels/
+[COFIS]: https://www.ofis-france.fr/ofis-advisory-board/
+[FRRN]: http://www.recherche-reproductible.fr/
 
 
 <!-- ## Main collaborators -->
@@ -146,27 +175,3 @@ Alistair Bray 1998-2000
 **Julien Vitay** (2002, Supélec, Rennes).
 
 
-[Inria]: https://www.inria.fr/en/
-[Hypermondes]: https://hypermondes.fr
-[Institute of Neurodegenerative Diseases]: http://www.imn-bordeaux.org/en/
-[Inria Bordeaux Sud‐Ouest]: http://www.inria.fr/en/centre/bordeaux
-[Inria BSO]: http://www.inria.fr/en/centre/bordeaux
-[Mnemosyne]: https://www.inria.fr/equipes/mnemosyne
-[Inria Nancy Grand‐Est]: http://www.inria.fr/en/centre/nancy
-[LaBRI]: http://www.labri.fr/
-[Loria]: http://www.loria.fr/en
-[Institute of Neurodegenerative Diseases]: http://www.imn-bordeaux.org/en/
-[IMN]: http://www.imn-bordeaux.org/en/
-[University of Bordeaux]: http://www.u-bordeaux.com
-[Colorado University, Boulder]: https://www.colorado.edu
-[Labex Brain]: https://brain.labex.u-bordeaux.fr/
-[Cognitive Psychology laboratory]: https://www.colorado.edu/faculty/oreilly/
-[ReScience C]: https://rescience.github.io
-[ReScience X]: http://rescience.org/x
-[PeerJ Computer Science]: https://peerj.com/
-[Frontiers in Neurobotics]: https://www.frontiersin.org/journals/neurorobotics#
-[Frontiers in Neuroscience]: https://www.frontiersin.org/journals/neuroscience#
-[Frontiers in Psychology]: https://www.frontiersin.org/journals/psychology#
-[COSO Logiciel]: https://www.ouvrirlascience.fr/college-codes-sources-et-logiciels/
-[COFIS]: https://www.ofis-france.fr/ofis-advisory-board/
-[FRRN]: http://www.recherche-reproductible.fr/
