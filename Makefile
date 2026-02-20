@@ -12,7 +12,7 @@ WEBDAV_LOCAL = /Volumes/nrougier
 
 all: render
 
-publish: 
+publish: render
 	@if ! mount | grep -q "on $(WEBDAV_LOCAL) "; then          \
 		echo -n "Target not mounted. Trying to mount... "; \
 		osascript -e 'mount volume "$(WEBDAV_REMOTE)"';    \

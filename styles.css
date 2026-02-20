@@ -79,16 +79,8 @@
   display: none;
 }
 
-/* Increase the logo height */
+/* Navbar logo size */
 .navbar-brand img {
-  max-height: 50px; /* Adjust this value as needed */
-  width: auto;      /* Keeps the aspect ratio */
-  margin-top: -5px; /* Optional: nudge it up/down to center it */
-}
-
-/* Optional: If the logo makes the navbar too tall, 
-   you can adjust the navbar padding */
-.navbar {
-  padding-top: 0.8rem;
-  padding-bottom: 0.8rem;
+  max-height: 40px;
+  width: auto;     
 }

@@ -5,12 +5,13 @@ execute:
   freeze: auto
   
 website:
-
+  title: Nicolas P. Rougier
   site-url: https://www.labri.fr/perso/nrougier
   description: "Nicolas P. Rougier posts"  
   favicon: data/gravatar-black.png
   page-navigation: true
   navbar:
+    title: false 
     logo: data/gravatar-white.png
     left:
       - href: index.qmd

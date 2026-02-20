@@ -175,6 +175,6 @@ Alistair Bray 1998-2000
 **Julien Vitay** (2002, Supélec, Rennes).
 
 
-### Grants
+## Grants
 
 I've some but I don't see the point of listing them. 

@@ -5,19 +5,22 @@ title: "Activities"
 ### Braincraft (2026…)
 
 Brain research has made tremendous progress over the last few decades
-in nearly all areas of investigation and yet, the comprehension of cognition still
-eludes us because most high-level functions, such as decision making, results from
-the complex and dynamic interaction between several structures. On the one hand
-we have a fragmented collection of computational models whose unification is out
-of reach, on the other hand we have holistic approaches whose complexity oblit-
-erates any hope of comprehension. Our project proposes to build the foundations
-of a research program in neuroscience in order to explain how cognition devel-
-oped in most vertebrates, supported by an epistemological framework for taming
-the inherent complexity and a transcription into operational models of the evolu-
-tionary, developmental and ecological constraints. Informed by neuroscience and
-guided by philosophy, we propose to define and build a series of computational,
-embodied and intelligible models along the phylogenetic and ontogenetic axes,
-with the parallel study of their biological counterparts.
+in nearly all areas of investigation and yet, the comprehension of
+cognition still eludes us because most high-level functions, such as
+decision making, results from the complex and dynamic interaction
+between several structures. On the one hand we have a fragmented
+collection of computational models whose unification is out of reach,
+on the other hand we have holistic approaches whose complexity
+obliterates any hope of comprehension. Our project proposes to build
+the foundations of a research program in neuroscience in order to
+explain how cognition developed in most vertebrates, supported by an
+epistemological framework for taming the inherent complexity and a
+transcription into operational models of the evolutionary,
+developmental and ecological constraints. Informed by neuroscience and
+guided by philosophy, we propose to define and build a series of
+computational, embodied and intelligible models along the phylogenetic
+and ontogenetic axes, with the parallel study of their biological
+counterparts.
 
 
 <!--
