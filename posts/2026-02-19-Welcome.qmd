@@ -1,0 +1,14 @@
+---
+title: "Welcome"
+description: "Blog experiment on my website"
+author: "Nicolas Rougier"
+date: "2026-02-19"
+draft: false
+---
+
+## Welcome to my first blog ever!
+
+I've never written any blog and since I've rebuild my website using
+Quarto, it is maybe a good time to start writing a blog. I'm not sure
+at all that it'll be populated regularly or beyond this first post.
+Time will say. Stay tuned.
