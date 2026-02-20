@@ -1,6 +1,5 @@
 ---
 title: "News"
-toc-depth: 3
 ---
 
 Trying to keep track of my activities. A kind of external memory.

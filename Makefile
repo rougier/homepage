@@ -14,12 +14,17 @@ all: render
 
 publish: render
 	@if ! mount | grep -q "on $(MOUNT_PATH) "; then \
-		@echo "Target not mounted."; \
-		exit 1; \
+		@echo -n "Target not mounted. Trying to mount... "; \
+		@osascript -e 'mount volume "https://webdav.labri.fr/perso/nrougier"'
+		@if ! mount | grep -q "on $(MOUNT_PATH) "; then \
+			@echo "Failed to mount $(REMOVE_URL)."; \
+			exit 1; \
+		fi
 	fi
-	@echo "Uploading..."; \
+	@echo "Success!"
+	@echo -n "Uploading website..."; \
 	rsync --recursive --copy-links --verbose --inplace --update --delete --delete-after --delete-excluded --exclude-from=data/rsync-exclude.txt _site/ $(MOUNT_PATH)/
-
+	@echo "Done!"
 
 $(BIBSTAMP): $(BIBFILE) $(PYTHON_SCRIPT)
 	@echo "Processing bibliography"
