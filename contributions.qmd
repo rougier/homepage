@@ -35,14 +35,17 @@ nocite: |
 
 ## Academic Research
 
-I appear (in general) as the first author when I have done the work prior to
-writing (design, modeling, implementation and/or analysis) and as the last
-author (or penultimate for some collaborations) when I have directly supervised
-or initiated the work (student, doctoral student, post-doctoral fellow). On the
-whole of my bibliography, I have about 275 co-authors and my scientific
-spectrum is mainly included in neurosciences and machine learning with however
-notable contributions in computer graphics, open and reproducible science and
-scientific visualization.
+I appear (in general) as the first author when I have done the work
+prior to writing (design, modeling, implementation and/or analysis)
+and as the last author (or penultimate for some collaborations) when I
+have directly supervised or initiated the work (student, doctoral
+student, post-doctoral fellow). On the whole of my bibliography, I
+have about 275 co-authors and my scientific spectrum is mainly
+included in neurosciences and machine learning with however notable
+contributions in computer graphics, open and reproducible science and
+scientific visualization. I'm also an adept of [slow
+science](https://www.slow-science.com/).
+
 
 ::: {.callout-note collapse="true"}
 ## List of co-authors (n=276)
