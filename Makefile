@@ -12,7 +12,7 @@ WEBDAV_LOCAL = /Volumes/nrougier
 
 all: render
 
-publish: render
+publish: 
 	@if ! mount | grep -q "on $(WEBDAV_LOCAL) "; then          \
 		echo -n "Target not mounted. Trying to mount... "; \
 		osascript -e 'mount volume "$(WEBDAV_REMOTE)"';    \
@@ -23,7 +23,7 @@ publish: render
 		echo "Success!";                                   \
 	fi
 	@echo "Uploading website..."; 
-	@rsync --recursive --copy-links --info=progress2 --inplace --update --delete --delete-after --delete-excluded --exclude-from=data/rsync-exclude.txt _site/ $(WEBDAV_LOCAL)/
+	@rsync --recursive --copy-links --verbose --size-only --update --delete --delete-after --delete-excluded --exclude-from=data/rsync-exclude.txt _site/ $(WEBDAV_LOCAL)/
 	@echo "Done!"
 
 $(BIBSTAMP): $(BIBFILE) $(PYTHON_SCRIPT)
