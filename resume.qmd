@@ -174,7 +174,3 @@ Alistair Bray 1998-2000
 **Yoann Dieu** (2003, Univ. Strasbourg, Strasbourg),
 **Julien Vitay** (2002, Supélec, Rennes).
 
-
-## Grants
-
-I've some but I don't see the point of listing them. 

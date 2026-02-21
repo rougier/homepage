@@ -5,6 +5,12 @@ import bibtexparser
 from bibtexparser.bwriter import BibTexWriter
 from bibtexparser.bibdatabase import BibDatabase
 
+def get_year(entry):
+    """Extracts a 4-digit year from the entry; returns 'XXXX' if not found."""
+    year_val = entry.get('year', '')
+    year_match = re.search(r'\d{4}', str(year_val))
+    return year_match.group() if year_match else 'XXX'
+
 def get_sort_key(entry):
     # Extract year, default to 0 if missing
     # We use regex to extract digits in case year is "{2024}" or "2024ish"
@@ -13,7 +19,46 @@ def get_sort_key(entry):
     year = int(year_match.group()) if year_match else 0
     return year
 
-def split_bib(input_file, output_dir):
+def split_bib_by_year(input_file, output_dir):
+    base_prefix = os.path.splitext(os.path.basename(input_file))[0]
+    
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+    
+    with open(input_file, encoding='utf-8') as bibtex_file:
+        db = bibtexparser.load(bibtex_file)
+
+    # Dictionary to hold lists of entries grouped by year
+    # e.g., {"2024": [...], "2023": [...]}
+    results = {}
+
+    for entry in db.entries:
+        year = get_year(entry)
+        if year not in results:
+            results[year] = []
+        results[year].append(entry)
+
+    writer = BibTexWriter()
+    writer.indent = '  '
+    
+    # Sort years descending (newest first) for the file generation
+    sorted_years = sorted(results.keys(), reverse=True)
+
+    for year in sorted_years:
+        entries = results[year]
+        # Optional: Sort entries within the year alphabetically by ID or author
+        entries.sort(key=lambda x: x.get('ID', ''))
+        
+        out_db = BibDatabase()
+        out_db.entries = entries
+        
+        output_filename = os.path.join(output_dir, f"{base_prefix}-{year}.bib")
+        
+        with open(output_filename, 'w', encoding='utf-8') as f:
+            f.write(writer.write(out_db))
+        # print(f"Generated: {output_filename} ({len(entries)} entries)")
+        
+def split_bib_by_type(input_file, output_dir):
     base_prefix = os.path.splitext(os.path.basename(input_file))[0]
     
     # Ensure the directory exists
@@ -75,9 +120,11 @@ def split_bib(input_file, output_dir):
             output_filename = os.path.join(output_dir, f"{base_prefix}-{name}.bib")
             with open(output_filename, 'w', encoding='utf-8') as f:
                 f.write(writer.write(out_db))
-
+            # print(f"Generated: {output_filename} ({len(entries)} entries)")
+        
 if __name__ == "__main__":
     if len(sys.argv) < 3:
         print("Usage: python3 split-bibliography.py <input.bib> <output_dir>")
     else:
-        split_bib(sys.argv[1], sys.argv[2])
+        split_bib_by_type(sys.argv[1], sys.argv[2])
+        split_bib_by_year(sys.argv[1], sys.argv[2])

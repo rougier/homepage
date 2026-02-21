@@ -44,7 +44,8 @@ have about 275 co-authors and my scientific spectrum is mainly
 included in neurosciences and machine learning with however notable
 contributions in computer graphics, open and reproducible science and
 scientific visualization. I'm also an adept of [slow
-science](https://www.slow-science.com/).
+science](https://www.slow-science.com/). Contributions by year is
+available [here](contributions-year.html).
 
 
 ::: {.callout-note collapse="true"}

@@ -1,0 +1,167 @@
+---
+title: "Contributions by year"
+bibliography:
+  rougier-2026: _bibliography/rougier-2026.bib
+  rougier-2025: _bibliography/rougier-2025.bib
+  rougier-2024: _bibliography/rougier-2024.bib
+  rougier-2023: _bibliography/rougier-2023.bib
+  rougier-2022: _bibliography/rougier-2022.bib
+  rougier-2021: _bibliography/rougier-2021.bib
+  rougier-2020: _bibliography/rougier-2020.bib
+  rougier-2019: _bibliography/rougier-2019.bib
+  rougier-2018: _bibliography/rougier-2018.bib
+  rougier-2017: _bibliography/rougier-2017.bib
+  rougier-2016: _bibliography/rougier-2016.bib
+  rougier-2015: _bibliography/rougier-2015.bib
+  rougier-2014: _bibliography/rougier-2014.bib
+  rougier-2013: _bibliography/rougier-2013.bib
+  rougier-2012: _bibliography/rougier-2012.bib
+  rougier-2011: _bibliography/rougier-2011.bib
+  rougier-2010: _bibliography/rougier-2010.bib
+  rougier-2009: _bibliography/rougier-2009.bib
+  rougier-2008: _bibliography/rougier-2008.bib
+  rougier-2007: _bibliography/rougier-2007.bib
+  rougier-2006: _bibliography/rougier-2006.bib
+  rougier-2005: _bibliography/rougier-2005.bib
+  rougier-2004: _bibliography/rougier-2004.bib
+  rougier-2003: _bibliography/rougier-2003.bib
+  rougier-2002: _bibliography/rougier-2002.bib
+  rougier-2001: _bibliography/rougier-2001.bib
+  rougier-2000: _bibliography/rougier-2000.bib
+  rougier-1999: _bibliography/rougier-1999.bib
+filters:
+  - multibib
+  - scripts/bib-ordinal.lua
+  - scripts/bib-button.lua
+metadata:
+  keep-tex-metadata: true
+  indent: true
+citeproc: true
+csl: data/rougier.csl
+validate-yaml: false
+nocite: |
+  @*
+---
+
+Here is a chronological view of my various contributions over the year.
+
+## Bordeaux (since 2014)
+
+### 2026
+::: {#refs-rougier-2026}
+:::
+
+### 2025
+::: {#refs-rougier-2025}
+:::
+
+### 2024
+::: {#refs-rougier-2024}
+:::
+
+### 2023
+::: {#refs-rougier-2023}
+:::
+
+### 2022
+::: {#refs-rougier-2022}
+:::
+
+### 2021
+::: {#refs-rougier-2021}
+:::
+
+### 2020
+::: {#refs-rougier-2020}
+:::
+
+### 2019
+::: {#refs-rougier-2019}
+:::
+
+### 2018
+::: {#refs-rougier-2018}
+:::
+
+### 2017
+::: {#refs-rougier-2017}
+:::
+
+### 2016
+::: {#refs-rougier-2016}
+:::
+
+### 2015
+::: {#refs-rougier-2015}
+:::
+
+## Nancy (2002 - 2014)
+
+### 2014
+::: {#refs-rougier-2014}
+:::
+
+### 2013
+::: {#refs-rougier-2013}
+:::
+
+### 2012
+::: {#refs-rougier-2012}
+:::
+
+### 2011
+::: {#refs-rougier-2011}
+:::
+
+### 2010
+::: {#refs-rougier-2010}
+:::
+
+### 2009
+::: {#refs-rougier-2009}
+:::
+
+### 2008
+::: {#refs-rougier-2008}
+:::
+
+### 2007
+::: {#refs-rougier-2007}
+:::
+
+### 2006
+::: {#refs-rougier-2006}
+:::
+
+### 2005
+::: {#refs-rougier-2005}
+:::
+
+### 2004
+::: {#refs-rougier-2004}
+:::
+
+### 2003
+::: {#refs-rougier-2003}
+:::
+
+## Boulder, USA (2000-2002)
+
+### 2002
+::: {#refs-rougier-2002}
+:::
+
+### 2001
+::: {#refs-rougier-2001}
+:::
+
+## Nancy (1997-2000)
+
+### 2000
+::: {#refs-rougier-2000}
+:::
+
+### 1999
+::: {#refs-rougier-1999}
+:::
+
