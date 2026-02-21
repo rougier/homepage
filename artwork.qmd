@@ -93,23 +93,27 @@ All posters are licensed under a [CC-BY International 4.0](https://creativecommo
 
 
 ::: {layout-ncol=4}
+[![](thumbnails/2023-ENRIO.png){.pixel-border}](images/2023-ENRIO.pdf)
 
-![](thumbnails/2015-Euroscipy.png)
+[![](thumbnails/2023-SBDM.png){.pixel-border}](images/2023-SBDM.pdf)
 
-![](thumbnails/2015-SBDM.png)
+[![](thumbnails/2021-WACAI.png){.pixel-border}](images/2021-WACAI.pdf)
 
-![](thumbnails/2019-iBAGS.png)
+[![](thumbnails/2019-iBAGS.png)](images/2019-iBAGS.pdf)
 
-![](thumbnails/2015-HCERES.png)
+[![](thumbnails/2016-Calculer.png)](images/2016-Cacluler.pdf)
 
-![](thumbnails/2016-Calculer.png)
+[![](thumbnails/2016-Comprendre.png)](images/2016-Comprendre.pdf)
 
-![](thumbnails/2023-iBAGS.png)
+[![](thumbnails/2015-Euroscipy.png)](images/2015-Euroscipy.pdf)
 
-![](thumbnails/2015-RLDM.png)
+[![](thumbnails/2015-SBDM.png)](images/2015-SBDM.pdf)
 
-![](thumbnails/2016-Comprendre.png)
+[![](thumbnails/2015-HCERES.png)](images/2015-HCERES.pdf)
 
+[![](thumbnails/2023-iBAGS.png)](images/2019-iBAGS.pdf)
+
+[![](thumbnails/2015-RLDM.png)](images/2015-RLDM.pdf)
 :::
 
 ## Miscellanous

@@ -43,7 +43,9 @@ nocite: |
   @*
 ---
 
-Here is a chronological view of my various contributions over the year.
+Here is a chronological view of my various contributions over the
+year, including academic research, scientific communication and
+science outreach.
 
 ## Bordeaux (since 2014)
 
