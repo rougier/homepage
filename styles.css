@@ -27,6 +27,16 @@
     text-transform: none !important; 
     font-style: normal; 
 }
+.csl-entry:has(strong)::before {
+  content: "★";
+  color: rgb(220, 53, 69);
+}
+
+/* Navbar logo size */
+.navbar-brand img {
+  max-height: 40px;
+  width: auto;     
+}
 
 /* Bibliography links */
 .btn-bib { color: #000088;
@@ -51,6 +61,7 @@
     font-weight: bold;
 }
 
+
 /* Professional history table */
 /* -------------------------- */
 .history table, 
@@ -65,22 +76,12 @@
 .history td:first-child {
   font-weight: bold;
   white-space: nowrap;
-  width: 150px; /* Adjust width as needed */
+  width: 150px; 
   vertical-align: top;
 }
-
-/* Style the second column (Roles) */
 .history td:last-child {
   vertical-align: top;
 }
-
-/* Hide the empty header row created by Markdown syntax */
 .history thead {
   display: none;
-}
-
-/* Navbar logo size */
-.navbar-brand img {
-  max-height: 40px;
-  width: auto;     
 }
