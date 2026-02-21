@@ -27,10 +27,6 @@
     text-transform: none !important; 
     font-style: normal; 
 }
-.csl-entry:has(strong)::before {
-  content: "★";
-  color: rgb(220, 53, 69);
-}
 
 /* Navbar logo size */
 .navbar-brand img {
