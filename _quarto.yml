@@ -24,6 +24,8 @@ website:
         text: CONTRIBUTIONS
       - href: artwork.qmd
         text: ARTWORK
+      - href: talks.qmd
+        text: TALKS
       - href: news.qmd
         text: NEWS
       - href: blog.qmd
