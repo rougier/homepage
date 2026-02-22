@@ -1,0 +1,396 @@
+---
+title: "Recorded talks"
+---
+
+I've searched on YouTube for recorded talks. Here is the temporay list until I
+move them to [PeerTube](https://peertube.tv/).
+
+
+## The art of text (rendering)
+**#39C3** (2025, 38:30, [Watch on YouTube](https://www.youtube.com/watch?v=XTgIJUwmz0Q))
+
+::: {.columns}
+
+::: {.column width="40%"}
+[![The art of text (rendering)](https://i.ytimg.com/vi/XTgIJUwmz0Q/mqdefault.jpg)](https://www.youtube.com/watch?v=XTgIJUwmz0Q)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+**Abstract:** Typography is the art of arranging type to make written language legible, readable, and appealing when displayed. However, for the neophyte, typography is mostly apprehended as the juxtaposition of characters displayed on the screen while for the expert, typography means typeface, scripts, unicode, glyphs, ascender, descender, tracking, hinting, kerning, shaping, weigth, slant, etc. Typography is actually much more than the mere rendering of glyphs and involves many different concepts. If glyph rendering is an important part of the rendering pipeline, it is nonetheless important to have a basic understanding of typography or there’s a known risk at rendering garbage on screen, as it has been seen many times in games, software and operating systems.
+:::
+:::
+
+## Promesses et limites des IA génératives
+**Petite Université Libre et Populaire (PULP)** (2025, 1:34:07, [Watch on YouTube](https://www.youtube.com/watch?v=cTqwSLLmq-w))
+
+::: {.columns}
+
+::: {.column width="40%"}
+[![Promesses et limites des IA génératives](https://i.ytimg.com/vi/cTqwSLLmq-w/mqdefault.jpg)](https://www.youtube.com/watch?v=cTqwSLLmq-w)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+**Abstract :** Dans cette conférence du cycle "PULP", Nicolas Rougier propose une analyse critique et technique de l'intelligence artificielle. Il retrace l'histoire du domaine depuis 1956, rappelant que l'IA a connu plusieurs "hivers" après des promesses non tenues. Il détaille le fonctionnement des LLM, qualifiés de "perroquets stochastiques" qui prédisent le mot suivant sans compréhension réelle. Il souligne les limites structurelles de ces systèmes, notamment leur absence de corps et d'ancrage dans le monde réel, contrairement au développement cognitif humain. La session aborde également les enjeux éthiques et sociétaux : biais algorithmiques, coût énergétique insoutenable, surveillance automatisée et risques de manipulation de masse.
+:::
+:::
+
+## Déclencher les émotions
+**Le LAB des Écoles Créatives** (2025, 13:15, [Watch on YouTube](https://www.youtube.com/watch?v=xMrDgQIE-Vk))
+
+::: {.columns}
+
+::: {.column width="40%"}
+[![Déclencher les émotions](https://i.ytimg.com/vi/xMrDgQIE-Vk/mqdefault.jpg)](https://www.youtube.com/watch?v=xMrDgQIE-Vk)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+**Abstract:** Cette table ronde explore les liens entre émotions, sciences et création technologique. **Nicolas Rougier** (Inria) y explique les bases neurologiques des émotions, notamment le rôle de l'amygdale dans la mémoire et l'apprentissage. L'artiste **Olga Kisseleva** présente son projet de capture des "émotions" des arbres via des capteurs mathématiques, tandis que le socio-anthropologue **Jean-Paul Fourmentraux** aborde la codification historique des expressions faciales. Les intervenants analysent également notre propension à l'anthropomorphisme — projeter des émotions sur des objets comme la lampe de Pixar — et s'interrogent sur la persistance du choc esthétique à l'ère de l'image de synthèse.
+:::
+:::
+
+
+## Déclencher les émotions 
+**Le LAB des Écoles Créatives** (2025, 1:50:56, [Watch on YouTube](https://www.youtube.com/watch?v=KjMv-nhi60w))
+
+::: {.columns}
+
+::: {.column width="40%"}
+[![Déclencher les émotions](https://i.ytimg.com/vi/KjMv-nhi60w/mqdefault.jpg)](https://www.youtube.com/watch?v=KjMv-nhi60w)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+**Abstract:** Cette table ronde réunit l'artiste Olga Kisseleva, le socio-anthropologue Jean-Paul Fourmentraux et le chercheur en neurosciences Nicolas Rougier pour explorer les liens entre création, technologie et affects. Nicolas Rougier y explique les mécanismes cérébraux de l'émotion, notamment le rôle de l'amygdale dans l'ancrage des souvenirs et l'apprentissage. Jean-Paul Fourmentraux analyse l'histoire technique de la codification des visages et les enjeux de la reconnaissance faciale par l'IA, tandis qu'Olga Kisseleva présente ses travaux sur la captation des "émotions" et communications végétales. Le débat interroge la capacité des machines à simuler ou capturer l'intime, tout en soulignant l'importance de revenir parfois à des outils rudimentaires pour préserver un contact direct avec la racine de l'émotion artistique.
+:::
+:::
+
+
+
+## L’expérience sensible du monde
+**TEDxQuartierLatin** (2024, 12:29, [Watch on YouTube](https://www.youtube.com/watch?v=6yl_j5g9Mj8))
+
+::: {.columns}
+
+::: {.column width="40%"}
+[![L’expérience sensible du monde](https://i.ytimg.com/vi/6yl_j5g9Mj8/mqdefault.jpg)](https://www.youtube.com/watch?v=6yl_j5g9Mj8)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+**Abstract:** Researcher Nicolas Rougier discusses the limitations of AI by emphasizing the "sensitive experience of the world." He explains that while AI like ChatGPT can manipulate symbols, it lacks the physical embodiment and sensory interaction necessary for true conceptual understanding.
+:::
+:::
+
+
+## IA - Images & Nouvelles Ecritures
+**Le LAB des Écoles Créatives** (2024, 2:13:33, [Regarder sur YouTube](https://www.youtube.com/watch?v=rpWozNI9Xd4))
+
+::: {.columns}
+
+::: {.column width="40%"}
+[![IA - Images & Nouvelles Ecritures](https://i.ytimg.com/vi/rpWozNI9Xd4/mqdefault.jpg)](https://www.youtube.com/watch?v=rpWozNI9Xd4)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+**Abstract:** Cette table ronde réunit Alexandre Geffen (CNRS), Maurice Benayoun (artiste) et Nicolas Rougier (Inria) pour explorer l'impact de l'IA générative sur la création visuelle. Nicolas Rougier replace l'IA dans sa perspective historique depuis 1956, expliquant les "hivers de l'IA" et le saut technologique récent lié à la puissance de calcul et à l'abondance des données. Alexandre Geffen rappelle que le fantasme d'une machine créatrice autonome remonte à l'Antiquité et à l'art moderne. Les intervenants discutent de l'IA comme extension de l'intelligence humaine, tout en alertant sur la matérialité souvent oubliée de ces systèmes (centres de calcul, consommation de ressources). Le débat conclut sur la nécessité pour les créateurs de demain de naviguer entre aide algorithmique et régime de vérité.
+:::
+:::
+
+
+## IA : et si on arrêtait de raconter n'importe quoi ?
+**Cap Sciences** (2024, 1:04:34, [Watch on YouTube](https://www.youtube.com/watch?v=EC6UdThW2Qs))
+
+::: {.columns}
+
+::: {.column width="40%"}
+[![IA : et si on arrêtait de raconter n'importe quoi ?](https://i.ytimg.com/vi/EC6UdThW2Qs/mqdefault.jpg)](https://www.youtube.com/watch?v=EC6UdThW2Qs)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+**Abstract :** Lors de cette conférence "Happy Hour", Nicolas Rougier déconstruit les mythes actuels entourant l'intelligence artificielle. Il revient sur l'histoire de l'IA, marquée par des "hivers" successifs et l'évolution de la puissance de calcul. L'intervenant explique le fonctionnement des IA génératives comme ChatGPT, qu'il qualifie de "perroquets stochastiques" ne comprenant rien au sens de leurs productions. La discussion aborde les dangers concrets et immédiats : les biais algorithmiques, les hallucinations, le coût écologique colossal en eau et énergie, ainsi que les enjeux de surveillance liés aux caméras intelligentes pour les JO. Un plaidoyer pour une approche rationnelle loin de la "singularité" fantasmée.
+:::
+:::
+
+
+
+
+## Techno utopies et autres métavers
+**Les Hypermondes** (2023, 1:01:59, [Watch on YouTube](https://www.youtube.com/watch?v=d9cR_mlZfiM))
+
+::: {.columns}
+
+::: {.column width="40%"}
+[![Techno utopies et autres métavers](https://i.ytimg.com/vi/d9cR_mlZfiM/mqdefault.jpg)](https://www.youtube.com/watch?v=d9cR_mlZfiM)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+**Abstract:** L'utopie technologique est fondée sur l'idée que les progrès de la science et de la technologie peuvent (et doivent) déboucher sur une réalité idéale. Si la techno-utopie a eu ses heures de gloire au 19e siècle et à la fin du 20e, la technologie est aujourd'hui plus volontiers associée aux dystopies. Mais qu'en est-il vraiment ? Nous verrons avec les intervenants quelles sont les nouvelles promesses de la technologie et pour quelles utopies.
+:::
+:::
+
+
+
+
+## Ten Simple Rules for Better Figures
+**Open Planetary Lunch** (2022, 41:05, [Watch on YouTube](https://www.youtube.com/watch?v=edHDmfLMBWI))
+
+::: {.columns}
+
+::: {.column width="40%"}
+[![Ten Simple Rules for Better Figures](https://i.ytimg.com/vi/edHDmfLMBWI/mqdefault.jpg)](https://www.youtube.com/watch?v=edHDmfLMBWI)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+**Abstract:** In this talk, Nicolas Rougier details the fundamental principles for designing effective scientific figures. Based on his influential article, he demonstrates the power of visualization using Anscombe's Quartet and explains how visual perception (Gestalt theory) influences data interpretation. The presentation covers ten essential rules, from identifying the core message and target audience to the rigorous use of color—specifically warning against the "Jet/Rainbow" colormaps. He also addresses how to avoid misleading graphics and "chart junk", while showcasing the Python ecosystem (Matplotlib, Seaborn, Datashader) for moving beyond default settings to professional-grade scientific visuals.
+:::
+:::
+
+
+## Table Ronde - Lex Robotica
+**Les Hypermondes** (2022, 37:14, [Regarder sur YouTube](https://www.youtube.com/watch?v=WN9pcpJpcGA))
+
+::: {.columns}
+
+::: {.column width="40%"}
+[![Table Ronde - Lex Robotica](https://i.ytimg.com/vi/WN9pcpJpcGA/mqdefault.jpg)](https://www.youtube.com/watch?v=WN9pcpJpcGA)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+**Abstract:** Cette table ronde, animée par Nicolas Rougier, Catherine Dufour, Marie Coris et Jean-Claude Dunyach, explore les frontières entre le droit, l'intelligence artificielle et la science-fiction. Le débat s'ouvre sur le concept de "Lex Robotica", abordant les défis juridiques actuels tels que la responsabilité en cas d'accident de voiture autonome ou la possibilité pour une IA de détenir des brevets. Les intervenants comparent la "boîte noire" algorithmique à l'opacité du cerveau humain à travers l'exemple d'une mise en scène de procès d'IA. La discussion s'étend ensuite aux robots militaires et à l'éthique de la guerre automatisée, tout en analysant pourquoi nos fictions projettent souvent une vision dystopique où les machines finissent par se révolter contre leur condition d'esclaves technologiques.
+:::
+:::
+
+
+
+## On the design of text editors
+**Emacs Conference** (2021, 06:37, [Watch on YouTube](https://www.youtube.com/watch?v=7OTe26RZH9A))
+
+::: {.columns}
+
+::: {.column width="40%"}
+[![On the design of text editors](https://i.ytimg.com/vi/7OTe26RZH9A/mqdefault.jpg)](https://www.youtube.com/watch?v=7OTe26RZH9A)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+**Abstract:** Nicolas Rougier critiques the design of modern text editors (such as VS Code and Sublime Text), arguing that they suffer from wasted space—often dedicating only 35% of the window to actual text. He identifies issues with information redundancy, "Christmas tree" syntax highlighting, and cognitive overload caused by excessive sidebars and toolbars. To solve this, he presents **Nano Emacs**, a minimalist framework based on design principles like large margins, a restricted number of faces, and a simplified mode line to keep the focus strictly on the data.
+:::
+:::
+
+
+
+## Une brève histoire de l'IA
+**Initiation IA** (2019, 01:01:36, [Watch on YouTube](https://www.youtube.com/watch?v=N1OiczpDH34))
+
+::: {.columns}
+
+::: {.column width="40%"}
+[![Initiation IA](https://i.ytimg.com/vi/N1OiczpDH34/mqdefault.jpg)](https://www.youtube.com/watch?v=N1OiczpDH34)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+**Abstract:** Cette conférence pédagogique propose une "brève histoire de l'IA", de la conférence de Dartmouth en 1956 aux succès récents du Deep Learning. Nicolas Rougier y détaille les grandes étapes : l'âge d'or des systèmes experts, les "hivers de l'IA" dus aux promesses non tenues, et le renouveau actuel porté par la puissance de calcul. Il aborde des sujets variés comme la reconnaissance faciale, la traduction automatique, les voitures autonomes et les jeux (échecs, Go, Poker). Enfin, il déconstruit les mythes de la singularité et du "Terminator" en rappelant les limites physiques et conceptuelles de l'IA actuelle.
+:::
+:::
+
+
+## Intelligence artificielle, que dire en classe ?
+**Inria - Médiation Scientifique** (2018, 50:18, [Watch on YouTube](https://www.youtube.com/watch?v=LPZL4gbG7lw))
+
+::: {.columns}
+
+::: {.column width="40%"}
+[![Intelligence artificielle, que dire en classe ?](https://i.ytimg.com/vi/LPZL4gbG7lw/mqdefault.jpg)](https://www.youtube.com/watch?v=LPZL4gbG7lw)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+**Abstract:** Dans cet entretien pédagogique, Nicolas Rougier démystifie l'intelligence artificielle en la comparant à l'intelligence biologique. Il explique les fondements des réseaux de neurones artificiels, inspirés du cerveau mais simplifiés à l'extrême, et souligne les deux piliers qui font le succès actuel de l'IA : la puissance de calcul et l'accès massif aux données. Il rappelle cependant que l'IA reste spécialisée et dépourvue de la capacité de généralisation extrême de l'être humain, dont l'intelligence est indissociable de son corps (cognition incarnée).
+:::
+:::
+
+
+
+## Démistifyer l'Intelligence Artificielle
+**Inria - Médiation Scientifique** (2018, 09:37, [Watch on YouTube](https://www.youtube.com/watch?v=PLMy3V8oCWA))
+
+::: {.columns}
+
+::: {.column width="40%"}
+[![Démystifyer l'In telligence Artificielle](https://i.ytimg.com/vi/PLMy3V8oCWA/mqdefault.jpg)](https://www.youtube.com/watch?v=PLMy3V8oCWA)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+**Abstract:** Nicolas Rougier retrace l'histoire de l'IA depuis sa naissance en 1956, opposant le courant symbolique (manipulation de symboles, jeux d'échecs) au courant numérique (modélisation du cerveau, réseaux de neurones). Il explique pourquoi, malgré les succès spectaculaires aux échecs ou au Go, l'IA reste "spécifique" et loin d'une intelligence générale. Il introduit également le concept de cognition incarnée, suggérant que la véritable intelligence nécessite un corps en interaction avec son environnement pour percevoir des notions comme la souplesse ou les intentions d'autrui.
+:::
+:::
+
+
+
+## Une brève histoire de l'intelligence artificielle
+**Geekfest / BGF Makers** (2017, 33:03, [Watch on YouTube](https://www.youtube.com/watch?v=PL39uJiolbM))
+
+::: {.columns}
+
+::: {.column width="40%"}
+[![Une brève histoire de l'intelligence artificielle](https://i.ytimg.com/vi/PL39uJiolbM/mqdefault.jpg)](https://www.youtube.com/watch?v=PL39uJiolbM)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+**Abstract:** Lors de cette conférence au Bordeaux Geekfest, Nicolas Rougier retrace l'évolution de l'IA depuis sa fondation en 1956 à Dartmouth. Il décrit l'âge d'or des systèmes experts et des premiers programmes de jeux, suivi des "hivers de l'IA" provoqués par des promesses non tenues. L'exposé met en lumière les succès récents comme la victoire d'AlphaGo et les progrès de la reconnaissance d'image, tout en soulignant les limites persistantes : l'absence d'intelligence "générale", la vulnérabilité aux biais (ex: lunettes de camouflage) et la difficulté de la robotique incarnée par rapport aux jeux abstraits. Enfin, il désamorce les fantasmes liés à la "singularité" en rappelant la nature purement algorithmique des systèmes actuels.
+:::
+:::
+
+
+
+## Aux racines du mouvement de l’Open Science : définition & mutations
+**ADA Week** (2016, 1:17:41, [Watch on YouTube](https://www.youtube.com/watch?v=iDUsKEFjMVQ))
+
+::: {.columns}
+
+::: {.column width="40%"}
+[![Aux racines du mouvement de l’Open Science : définition & mutations"](https://i.ytimg.com/vi/iDUsKEFjMVQ/mqdefault.jpg)](https://www.youtube.com/watch?v=iDUsKEFjMVQ)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+**Abstract :** L’Open science est un mouvement créé par une communauté de chercheu•r•ses. Né d’un constat, celui des difficultés et des obstacles quotidiens que rencontre la communauté scientifique, l’Open science tente d’apporter des solutions aux failles du système de recherche actuel. Si l’Open science s’inscrit donc dans un contexte bien précis et actuel, il ne s’agit pas, cependant, d’un phénomène nouveau. Les notions de patrimoine, de dissémination du savoir et de communauté scientifique sont anciennes. Toutefois, ce phénomène connaît une résurgence certaine grâce au développement des technologies d’information et de communication (TIC). Le numérique permet en effet de faire émerger de nouvelles possibilités en terme de communication, d’échanges entre les chercheur•es•s et de créer de nouveaux modèles de recherche collective et collaborative inclusifs.
+:::
+:::
+
+
+
+
+## IA: État des lieux et défis
+**Digital Aquitaine** (2018, 1:01:02, [Regarder sur YouTube](https://www.youtube.com/watch?v=CMjIg9t9dJo))
+
+::: {.columns}
+
+::: {.column width="40%"}
+[![IA: État des lieux et défis](https://i.ytimg.com/vi/CMjIg9t9dJo/mqdefault.jpg)](https://www.youtube.com/watch?v=CMjIg9t9dJo)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+**Abstract:** Cet atelier réunit des experts de l'Inria et de l'Université de Bordeaux pour démystifier l'IA auprès des entrepreneurs. Laurent Simon (Labri) rappelle que malgré les succès spectaculaires aux jeux (Go, Échecs), l'IA reste un outil spécialisé, loin de l'intelligence générale, et souligne les risques de surestimation à court terme. Nicolas Rougier (Inria) détaille les mécanismes d'apprentissage (supervisé, par renforcement, non supervisé) en insistant sur le rôle crucial et chronophage de la préparation des données. Enfin, Lionel Clément présente les défis du traitement automatique des langues (NLP), expliquant pourquoi la compréhension sémantique profonde et l'intention de communication restent des obstacles majeurs pour les agents conversationnels.
+:::
+:::
+
+## Matplotlib for Beginners
+**SciPy 2016 Tutorial** (2016, 2:59:29, [Watch on YouTube](https://www.youtube.com/watch?v=p7Mj-4kASmI))
+
+::: {.columns}
+
+::: {.column width="40%"}
+[![Matplotlib for Beginners](https://i.ytimg.com/vi/p7Mj-4kASmI/mqdefault.jpg)](https://www.youtube.com/watch?v=p7Mj-4kASmI)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+**Abstract:** In this comprehensive SciPy 2016 tutorial, Nicolas Rougier guides beginners through the fundamentals of Matplotlib, Python's standard plotting library. The session begins with data generation using NumPy before introducing the `pyplot` interface to create basic sine and cosine plots. Nicolas Rougier details how to customize figure aesthetics, including adjusting axis limits, personalizing ticks with LaTeX support for mathematical symbols like π, and managing legends and line styles. The tutorial concludes with a review of complementary tools for image processing  and techniques for producing high-quality, publication-ready figures for scientific journals.
+:::
+:::
+
+
+## ReScience Initiative
+**EuroSciPy 2015** (2015, 15:30, [Watch on YouTube](https://www.youtube.com/watch?v=orLYVhSrOwk))
+
+::: {.columns}
+
+::: {.column width="40%"}
+[![ReScience Initiative](https://i.ytimg.com/vi/orLYVhSrOwk/mqdefault.jpg)](https://www.youtube.com/watch?v=orLYVhSrOwk)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+
+**Abstract:** Nicolas Rougier introduces **ReScience**, a peer-reviewed journal hosted on GitHub dedicated to the replication of computational research. He highlights the "reproducibility crisis" in science, where ambiguous paper descriptions and inaccessible source code (often in obsolete languages) make it nearly impossible to verify results.
+:::
+:::
+
+
+
+## Modern and Interactive Scientific Visualization
+**X.Org Foundation** (2014, 22:20, [Watch on YouTube](https://www.youtube.com/watch?v=Ms3i5hAvOY0))
+
+::: {.columns}
+
+::: {.column width="40%"}
+[![Modern and Interactive Scientific Visualization](https://i.ytimg.com/vi/Ms3i5hAvOY0/mqdefault.jpg)](https://www.youtube.com/watch?v=Ms3i5hAvOY0)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+**Abstract:** Nicolas Rougier presents his work on bridging the gap between high-quality scientific plotting (like Matplotlib) and high-performance GPU rendering. He demonstrates techniques using Python and OpenGL to achieve anti-aliased text, complex paths, and large-scale data visualization (up to millions of points) while maintaining aesthetic quality. The talk introduces the **VisPy** and **glumpy** projects as unified frameworks for modern scientific visualization.
+:::
+:::
+
+
+## Le rôle des corps dans la cognition
+**Cognivence Paris** (2014, 01:05:33, [Watch on YouTube](https://www.youtube.com/watch?v=fqqGQhKvDj8))
+
+::: {.columns}
+
+::: {.column width="40%"}
+[![Le rôle des corps dans la cognition](https://i.ytimg.com/vi/fqqGQhKvDj8/mqdefault.jpg)](https://www.youtube.com/watch?v=fqqGQhKvDj8)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+
+**Abstract:** Dans cette conférence donnée lors de la Semaine du Cerveau, Nicolas Rougier explore le concept de **cognition incarnée**. Il explique comment l'intelligence n'est pas simplement une manipulation de symboles abstraits, mais qu'elle est intimement liée à la forme physique et aux interactions sensorielles du corps avec son environnement. À travers des exemples allant du comportement des chats et des pieuvres à des simulations robotiques, il démontre comment la structure même de nos organes sensoriels (comme la rétine) façonne nos processus de décision et notre perception du monde.
+:::
+:::
