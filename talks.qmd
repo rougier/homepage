@@ -354,7 +354,7 @@ Et si on tentait de mettre un peu d’ordre dans ce qu’on présente comme la p
 
 ::: {.column width="55%"}
 
-**Abstract:** Nicolas Rougier introduces **ReScience**, a peer-reviewed journal hosted on GitHub dedicated to the replication of computational research. He highlights the "reproducibility crisis" in science, where ambiguous paper descriptions and inaccessible source code (often in obsolete languages) make it nearly impossible to verify results.
+**Abstract:** ReScience is a peer-reviewed journal that target computational research and encourage the explicit reproduction of already published research promoting new and open-source implementations in order to ensure the original research is reproducible. To achieve such a goal, the whole editing chain is radically different from any other traditional scientific journal and ReScience lives on github.
 :::
 :::
 
@@ -373,9 +373,7 @@ Et si on tentait de mettre un peu d’ordre dans ce qu’on présente comme la p
 :::
 
 ::: {.column width="55%"}
-**Abstract:** Whereas the availability of data increases exponentially fast, the current visualization tools available today in Python do not scale gracefully to big data. The major plotting library in Python is Matplotlib and is mostly focused on the generation of static publication-ready figures rather than interactive visualization. These are really two different, and nearly orthogonal goals. For the former, high display quality is the major objective, whereas speed and reactivity is much more important for the latter. Matplotlib can be used for interactive visualization, but it has not been primarily designed for this. Consequently, the frame rate tends to be low on medium-size data sets, and million-points data sets can not be decently visualized in this way.
-
-Vispy is a new high-performance interactive 2D/3D data visualization library that leverages the computational power of modern Graphics Processing Units (GPUs) in order to offer both fast and high quality scientific visualization using the Python language and modern OpenGL (shaders). Our primary goal is not to make publication quality plots -- even if we expect high quality using modern and dedicated GPU techniques such as dashed lines, curves, markers, arrows, interpolations -- but rather to get a sense of the data by visualizing it interactively. The nature of the data can be anything: real-time signals, maps, high-dimensional points, surfaces, volumes, images, textures, etc.
+**Abstract:** Vispy is a new high-performance interactive 2D/3D data visualization library that leverages the computational power of modern Graphics Processing Units (GPUs) in order to offer both fast and high quality scientific visualization using the Python language and modern OpenGL (shaders). Our primary goal is not to make publication quality plots -- even if we expect high quality using modern and dedicated GPU techniques such as dashed lines, curves, markers, arrows, interpolations -- but rather to get a sense of the data by visualizing it interactively. The nature of the data can be anything: real-time signals, maps, high-dimensional points, surfaces, volumes, images, textures, etc.
 :::
 :::
 
