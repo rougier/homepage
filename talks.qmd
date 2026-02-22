@@ -126,7 +126,8 @@ move them to [PeerTube](https://peertube.tv/).
 :::
 
 ::: {.column width="55%"}
-**Abstract :** Lors de cette conférence "Happy Hour", Nicolas Rougier déconstruit les mythes actuels entourant l'intelligence artificielle. Il revient sur l'histoire de l'IA, marquée par des "hivers" successifs et l'évolution de la puissance de calcul. L'intervenant explique le fonctionnement des IA génératives comme ChatGPT, qu'il qualifie de "perroquets stochastiques" ne comprenant rien au sens de leurs productions. La discussion aborde les dangers concrets et immédiats : les biais algorithmiques, les hallucinations, le coût écologique colossal en eau et énergie, ainsi que les enjeux de surveillance liés aux caméras intelligentes pour les JO. Un plaidoyer pour une approche rationnelle loin de la "singularité" fantasmée.
+**Abstract :** Tout et son contraire. Voilà ce qui pourrait résumer ce qu’on entend sur l’intelligence artificielle.
+Et si on tentait de mettre un peu d’ordre dans ce qu’on présente comme la plus grande révolution de l’humanité – rien que ça ? Assiste-t-on réellement à un basculement de l’Histoire ? Qu’est-elle capable de faire aujourd’hui et de quoi sera-t-elle capable dans 10 ans ? Une vraie gouvernance internationale – avec des règles plus strictes sur les data, notamment – est-elle envisageable ? Enfin – et surtout, l’IA ayant besoin de beaucoup d’énergie pour fonctionner, aura-t-elle les moyens de ses ambitions ? Avec notre invité Nicolas Rougier, Directeur de Recherche à l’INRIA.
 :::
 :::
 
@@ -203,7 +204,7 @@ move them to [PeerTube](https://peertube.tv/).
 :::
 
 ::: {.column width="55%"}
-**Abstract:** Nicolas Rougier critiques the design of modern text editors (such as VS Code and Sublime Text), arguing that they suffer from wasted space—often dedicating only 35% of the window to actual text. He identifies issues with information redundancy, "Christmas tree" syntax highlighting, and cognitive overload caused by excessive sidebars and toolbars. To solve this, he presents **Nano Emacs**, a minimalist framework based on design principles like large margins, a restricted number of faces, and a simplified mode line to keep the focus strictly on the data.
+**Abstract:** Text editors are written by and for developers. They come with a large set of default and implicit choices in terms of layout, typography, colorization and interaction that hardly change from one editor to the other. It is not clear if these implicit choices derive from the ignorance of alternatives or if they derive from developers' habits, reproducing what they are used to. Durint this talk, I will characterize these implicit choices and illustrate what are some alternatives using GNU Emacs.
 :::
 :::
 
@@ -278,7 +279,7 @@ move them to [PeerTube](https://peertube.tv/).
 :::
 
 ::: {.column width="55%"}
-**Abstract:** Lors de cette conférence au Bordeaux Geekfest, Nicolas Rougier retrace l'évolution de l'IA depuis sa fondation en 1956 à Dartmouth. Il décrit l'âge d'or des systèmes experts et des premiers programmes de jeux, suivi des "hivers de l'IA" provoqués par des promesses non tenues. L'exposé met en lumière les succès récents comme la victoire d'AlphaGo et les progrès de la reconnaissance d'image, tout en soulignant les limites persistantes : l'absence d'intelligence "générale", la vulnérabilité aux biais (ex: lunettes de camouflage) et la difficulté de la robotique incarnée par rapport aux jeux abstraits. Enfin, il désamorce les fantasmes liés à la "singularité" en rappelant la nature purement algorithmique des systèmes actuels.
+**Abstract:** L'intelligence artificielle a nourri de nombreux fantasmes depuis sa création et encore aujourd'hui, certains redoutent l'avènement de robots qui pourraient venir détruire l'humanité à plus ou moins long terme en invoquant la singularité. Mais où en sommes-nous exactement aujourd'hui ? Peut-on réellement comparer les prouesses de l'intelligence artificielle aux merveilles de l'esprit humain ? Nous verrons au travers de l'histoire de l'IA que rien n'est simple et qu'il est facile de donner l'apparence de l'intelligence sans l'être pour autant. Et d'ailleurs, qu'est-ce que l'intelligence ?
 :::
 :::
 
@@ -334,7 +335,7 @@ move them to [PeerTube](https://peertube.tv/).
 :::
 
 ::: {.column width="55%"}
-**Abstract:** In this comprehensive SciPy 2016 tutorial, Nicolas Rougier guides beginners through the fundamentals of Matplotlib, Python's standard plotting library. The session begins with data generation using NumPy before introducing the `pyplot` interface to create basic sine and cosine plots. Nicolas Rougier details how to customize figure aesthetics, including adjusting axis limits, personalizing ticks with LaTeX support for mathematical symbols like π, and managing legends and line styles. The tutorial concludes with a review of complementary tools for image processing  and techniques for producing high-quality, publication-ready figures for scientific journals.
+**Abstract:** After reviewing the main concepts for scientific figures creation (based on the "Ten simple rules for better figures" article), we will experience specifically the matplotlib library that provides many different types of high-quality figures with only a few lines of code. We'll go through the creation of a simple, but carefully crafted figure and see in the meantime the main concepts of the library. Then, we'll go through an animation example showing the last 50 earthquakes on the planet and we'll finish the tutorial with a set of exercises showing the main type of plots. Last, we'll have a look at available resources for advanced uses.
 :::
 :::
 
@@ -372,7 +373,9 @@ move them to [PeerTube](https://peertube.tv/).
 :::
 
 ::: {.column width="55%"}
-**Abstract:** Nicolas Rougier presents his work on bridging the gap between high-quality scientific plotting (like Matplotlib) and high-performance GPU rendering. He demonstrates techniques using Python and OpenGL to achieve anti-aliased text, complex paths, and large-scale data visualization (up to millions of points) while maintaining aesthetic quality. The talk introduces the **VisPy** and **glumpy** projects as unified frameworks for modern scientific visualization.
+**Abstract:** Whereas the availability of data increases exponentially fast, the current visualization tools available today in Python do not scale gracefully to big data. The major plotting library in Python is Matplotlib and is mostly focused on the generation of static publication-ready figures rather than interactive visualization. These are really two different, and nearly orthogonal goals. For the former, high display quality is the major objective, whereas speed and reactivity is much more important for the latter. Matplotlib can be used for interactive visualization, but it has not been primarily designed for this. Consequently, the frame rate tends to be low on medium-size data sets, and million-points data sets can not be decently visualized in this way.
+
+Vispy is a new high-performance interactive 2D/3D data visualization library that leverages the computational power of modern Graphics Processing Units (GPUs) in order to offer both fast and high quality scientific visualization using the Python language and modern OpenGL (shaders). Our primary goal is not to make publication quality plots -- even if we expect high quality using modern and dedicated GPU techniques such as dashed lines, curves, markers, arrows, interpolations -- but rather to get a sense of the data by visualizing it interactively. The nature of the data can be anything: real-time signals, maps, high-dimensional points, surfaces, volumes, images, textures, etc.
 :::
 :::
 
@@ -391,6 +394,6 @@ move them to [PeerTube](https://peertube.tv/).
 
 ::: {.column width="55%"}
 
-**Abstract:** Dans cette conférence donnée lors de la Semaine du Cerveau, Nicolas Rougier explore le concept de **cognition incarnée**. Il explique comment l'intelligence n'est pas simplement une manipulation de symboles abstraits, mais qu'elle est intimement liée à la forme physique et aux interactions sensorielles du corps avec son environnement. À travers des exemples allant du comportement des chats et des pieuvres à des simulations robotiques, il démontre comment la structure même de nos organes sensoriels (comme la rétine) façonne nos processus de décision et notre perception du monde.
+**Abstract:** Les Sciences Cognitives, aux frontières de la psychologie cognitive, de la philosophie et des neurosciences, ont mis en avant depuis plusieurs décennies, la notion de cognition incarnée qui donne un rôle central au corps. Celui-ci est en effet considéré comme le vecteur privilégié de l'expression de la cognition mais aussi, et surtout, de sa construction. L'incarnation d'un organisme définit et limite simultanément les processus cognitifs qui lui sont accessibles. En ce sens, la cognition est ancrée très profondément dans le corps et dans ses interactions avec le monde extérieur. Dans le cadre d'une approche « systémique » de la cognition, il est donc important de comprendre que de tels systèmes ne peuvent être vraiment appréhendés que comme un tout et dans des situations comportementales naturelles. Or, pour le modélisateur, se pose alors un problème quant à savoir son rôle dans l'interprétation de ses modèles. Qu'est ce qui relève de l'observation objective et qu'est ce qui relève de l'interprétation subjective en rapport à notre propre cognition et donc à nos corps ? Au travers de la présentation de modèles issus des neurosciences computationelles, nous essaierons de donner quelques pistes de réflexions.
 :::
 :::
