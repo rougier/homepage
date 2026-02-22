@@ -40,23 +40,6 @@ move them to [PeerTube](https://peertube.tv/).
 :::
 :::
 
-## Déclencher les émotions
-**Le LAB des Écoles Créatives** (2025, 13:15, [Watch on YouTube](https://www.youtube.com/watch?v=xMrDgQIE-Vk))
-
-::: {.columns}
-
-::: {.column width="40%"}
-[![Déclencher les émotions](https://i.ytimg.com/vi/xMrDgQIE-Vk/mqdefault.jpg)](https://www.youtube.com/watch?v=xMrDgQIE-Vk)
-:::
-
-::: {.column width="5%"}
-:::
-
-::: {.column width="55%"}
-**Abstract:** Cette table ronde explore les liens entre émotions, sciences et création technologique. **Nicolas Rougier** (Inria) y explique les bases neurologiques des émotions, notamment le rôle de l'amygdale dans la mémoire et l'apprentissage. L'artiste **Olga Kisseleva** présente son projet de capture des "émotions" des arbres via des capteurs mathématiques, tandis que le socio-anthropologue **Jean-Paul Fourmentraux** aborde la codification historique des expressions faciales. Les intervenants analysent également notre propension à l'anthropomorphisme — projeter des émotions sur des objets comme la lampe de Pixar — et s'interrogent sur la persistance du choc esthétique à l'ère de l'image de synthèse.
-:::
-:::
-
 
 ## Déclencher les émotions 
 **Le LAB des Écoles Créatives** (2025, 1:50:56, [Watch on YouTube](https://www.youtube.com/watch?v=KjMv-nhi60w))
