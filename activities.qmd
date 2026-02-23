@@ -211,6 +211,40 @@ workshops, one Summer school and one hackathon](https://psyphine.hypotheses.org/
 
 :::
 
+### Other projects (some)
+
+::: {.history}
++---------------+----------------------------------------------------------------------------+
+| 2026-2030     | **REWIRE (Widera, 2M€)** with more than 10 European partners               |
+|               | (coordinated by OpenAIRE).                                                 |
++---------------+----------------------------------------------------------------------------+
+| 2021-2026     | **Vispy 2 (CZI Open Science, 200k€)** with International Brain Laboratory  |
++---------------+----------------------------------------------------------------------------+
+| 2019-2021     | **Scientific Reproducibility (FNSO, 60k€)** with Grenoble University       |
++---------------+----------------------------------------------------------------------------+
+| 2017-2020     | **SOMA (ANR, 420k€)** with                                                 |
+|               | HES-SO Haute école specialisée de la Suisse Occidentale,                   |
+|               | LEAT Laboratoire d'électronique antennes et télécommunications and         |
+|               | LORIA Laboratoire lorrain de recherche en informatique et ses applications |
++---------------+----------------------------------------------------------------------------+
+| 2016-2020     | **Macaque40 (ANR, 250k€)** with                                            |
+|               | UMR 8129 IJN UMR 8129 Institut Jean-Nicod,                                 |
+|               | IMN Institut des Maladies Neurodégénératives and                           |
++---------------+----------------------------------------------------------------------------+
+| 2007-2011     | **MAPS (ANR, 300k€)** with                                                 |
+|               | UMR Mouvement et Perception, Marseille,                                    |
+|               | INCM-CNRS, Marseille and LIRIS, Lyon                                       |
++---------------+----------------------------------------------------------------------------+
+| 2002-2006     | **MirrorBot (IST-FET, 2M€)** with                                          |
+|               | University of Sunderland (UK),                                             |
+|               | University of Ulm (Gemrany)                                                |
+|               | Medical Research Council, Cambridge (UK) and                               |
+|               | University of Parma (Italy)                                                |
++---------------+----------------------------------------------------------------------------+
+:::
+
+
+
 
 [Inria]: https://www.inria.fr/en/
 [Hypermondes]: https://hypermondes.fr
