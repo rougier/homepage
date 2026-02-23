@@ -1,14 +1,13 @@
 /* css styles */
 
+/*
 @import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@200..700&display=swap');
-
 h1, h2, h3, h4 {
-  font-family: "Yanone Kaffeesatz", sans-serif;
+  font-family: "Yanone Kaffeesatz", sans-serif !important;
   font-optical-sizing: auto;
   font-weight: 400;
 }
-
-
+*/
 
 /* Create a counter for the bibliography entries */
 .references {

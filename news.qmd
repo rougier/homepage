@@ -8,6 +8,9 @@ Trying to keep track of my activities. A kind of external memory.
 
 ### February 2026
 
+- **February 27, 2026** PhD defense of Xiaodan Chen that I reviewed (CY-Paris University). [#JURY]{.text-danger}
+
+- **February 18, 2026** Brand new website (you're reading it). Sources available at [GitHub](https://github.com/rougier/homepage). [#CODE]{.text-danger}
 
 - **February 18, 2026** Brand new website (you're reading it). Sources available at [GitHub](https://github.com/rougier/homepage). [#CODE]{.text-danger}
 - **February 17, 2026** Our MEDUSA project about journalism and surveillance has passed first selection step (ANR). [#GRANT]{.text-danger}
