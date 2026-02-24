@@ -9,9 +9,11 @@ Trying to keep track of my activities. A kind of external memory.
 ### February 2026
 
 - **February 27, 2026** PhD defense of Xiaodan Chen that I reviewed (CY-Paris University). [#JURY]{.text-danger}
+- **February 23, 2026** Talk accepted for the [11th Biennial Surveillance Studies Network](https://surveillance-studies.net/)
 - **February 18, 2026** Brand new website (you're reading it). Sources available at [GitHub](https://github.com/rougier/homepage). [#CODE]{.text-danger}
 - **February 18, 2026** Brand new website (you're reading it). Sources available at [GitHub](https://github.com/rougier/homepage). [#CODE]{.text-danger}
 - **February 17, 2026** Our MEDUSA project about journalism and surveillance has passed first selection step (ANR). [#GRANT]{.text-danger}
+- **February 10, 2026** First time I'll review for [SIGGRAPH](https://www.siggraph.org/)
 - **February 6, 2026** I'll be at the "Institut de sciences criminelles et de la Justice" [13th afterwork session](https://iscj.u-bordeaux.fr/evenements/garantir-la-confiance-dans-les-medias-la-sanction-de-desinformation) about law and AI. [#TALK]{.text-danger}
 - **February 1, 2026** Just released [Emacs agenda](https://github.com/rougier/agenda) providing Emacs with plain text agenda. [#CODE]{.text-danger} 
 
