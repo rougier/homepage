@@ -9,11 +9,11 @@ Trying to keep track of my activities. A kind of external memory.
 ### February 2026
 
 - **February 27, 2026** PhD defense of Xiaodan Chen that I reviewed (CY-Paris University). [#JURY]{.text-danger}
-- **February 23, 2026** Talk accepted for the [11th Biennial Surveillance Studies Network](https://surveillance-studies.net/)
+- **February 23, 2026** Two talks accepted for the [11th Biennial Surveillance Studies Network](https://surveillance-studies.net/)  [#CODE]{.text-danger}
 - **February 18, 2026** Brand new website (you're reading it). Sources available at [GitHub](https://github.com/rougier/homepage). [#CODE]{.text-danger}
 - **February 18, 2026** Brand new website (you're reading it). Sources available at [GitHub](https://github.com/rougier/homepage). [#CODE]{.text-danger}
 - **February 17, 2026** Our MEDUSA project about journalism and surveillance has passed first selection step (ANR). [#GRANT]{.text-danger}
-- **February 10, 2026** First time I'll review for [SIGGRAPH](https://www.siggraph.org/)
+- **February 10, 2026** First time I'll review for [SIGGRAPH](https://www.siggraph.org/) [#JURY]{.text-danger}
 - **February 6, 2026** I'll be at the "Institut de sciences criminelles et de la Justice" [13th afterwork session](https://iscj.u-bordeaux.fr/evenements/garantir-la-confiance-dans-les-medias-la-sanction-de-desinformation) about law and AI. [#TALK]{.text-danger}
 - **February 1, 2026** Just released [Emacs agenda](https://github.com/rougier/agenda) providing Emacs with plain text agenda. [#CODE]{.text-danger} 
 
@@ -31,130 +31,130 @@ decisions" has been accepted at Communication Biology.  [#ARTICLE]{.text-danger}
 
 ### December 2025
 
-* **December 30, 2025** Back from #39C3. What a fantastic journey.
-* **December 27, 2025** #39C3 [Showtime](https://app.media.ccc.de/v/39c3-the-art-of-text-rendering) [#TALK]{.text-danger}
-* **December 26, 2025** Flying to Hamburg for my first Chaos Congress Communication (39th edition) ! Eager to meet people and talk about hacking, any form.
-* **December 20, 2025** Preparing my [talk for 39C3](https://fahrplan.events.ccc.de/congress/2025/fahrplan/event/the-art-of-text-rendering) in one week for quite a big audience actually (more than 1000 people).
-* **December 17, 2025** Giving a talk about AI at the [Chambre Régionale des Comptes](https://www.ccomptes.fr/fr/crc-nouvelle-aquitaine). [#TALK]{.text-danger}
-* **December 15, 2025** Attending IHDN Winter school where I've been invited to present my work around art and science. [#TALK]{.text-danger}
-* **December 12, 2025** Presentation of the [African Reproducibility Network](https://www.recherche-reproductible.fr/webinaires/2025/12/12/AREN_Boakye.html) by Emmanuel Boakye, Quite impressive work already.
-* **December 8, 2025** Marina Gadonneix will in Bordeaux to present her [exhibition](https://galeriegaillard.com/exhibitions/243-marina-gadonneix-avec-victor-rambaud/overview/) for which we had many exchanges. 
-* **December 1, 2025** PhD defense of Paul Saighi that I reviewed (Université Paris Saclay). [#JURY]{.text-danger}
+- **December 30, 2025** Back from #39C3. What a fantastic journey.
+- **December 27, 2025** #39C3 [Showtime](https://app.media.ccc.de/v/39c3-the-art-of-text-rendering) [#TALK]{.text-danger}
+- **December 26, 2025** Flying to Hamburg for my first Chaos Congress Communication (39th edition) ! Eager to meet people and talk about hacking, any form.
+- **December 20, 2025** Preparing my [talk for 39C3](https://fahrplan.events.ccc.de/congress/2025/fahrplan/event/the-art-of-text-rendering) in one week for quite a big audience actually (more than 1000 people).
+- **December 17, 2025** Giving a talk about AI at the [Chambre Régionale des Comptes](https://www.ccomptes.fr/fr/crc-nouvelle-aquitaine). [#TALK]{.text-danger}
+- **December 15, 2025** Attending IHDN Winter school where I've been invited to present my work around art and science. [#TALK]{.text-danger}
+- **December 12, 2025** Presentation of the [African Reproducibility Network](https://www.recherche-reproductible.fr/webinaires/2025/12/12/AREN_Boakye.html) by Emmanuel Boakye, Quite impressive work already.
+- **December 8, 2025** Marina Gadonneix will in Bordeaux to present her [exhibition](https://galeriegaillard.com/exhibitions/243-marina-gadonneix-avec-victor-rambaud/overview/) for which we had many exchanges. 
+- **December 1, 2025** PhD defense of Paul Saighi that I reviewed (Université Paris Saclay). [#JURY]{.text-danger}
 
 ### November 2025
 
-* **November 19, 2025** En route for the technofascism conference in Pau where I'll give a talk on AI and surveillance. [#TALK]{.text-danger}
-* **November 14, 2025** I've been invited to participate to the 
+- **November 19, 2025** En route for the technofascism conference in Pau where I'll give a talk on AI and surveillance. [#TALK]{.text-danger}
+- **November 14, 2025** I've been invited to participate to the 
 [CIRCES annual seminar](https://cirses.fr/nos-evenements/seminaire-de-cirses-save-the-date) to talk about FAIR principles. [#TALK]{.text-danger}
-* **November 7, 2025** Meeting to define the Open Science roadmap for the university of Bordeaux (on the education side).
-* **November 3, 2025** My proposal has been accepted for the [39th Chaos Communication Congress](https://cfp.cccv.de/39c3/). See you in Hamburg at the end of the year.
-* **November 3, 2025** I'll give a talk at [Journée Robotique et ImaginaireS](https://imaginerobot25.sciencesconf.org/resource/page/id/1) about Arts & Sciences. [#TALK]{.text-danger}
-* **November 3, 2025** Welcome to Mélanie Romano who will start her PhD on surveillance technologies with me and [Pauline Gervier](https://www.u-bordeaux.fr/universite/espace-presse/repertoire-dexperts/pauline-gervier).
-* **November 1, 2025** Another interview for Charlie Hebdo about [data pillage by AI companies](https://charliehebdo.fr/2025/11/societe/tech/ia-les-geants-de-la-tech-orchestrent-le-pillage-dinternet/). [#CHAT]{.text-danger}
+- **November 7, 2025** Meeting to define the Open Science roadmap for the university of Bordeaux (on the education side).
+- **November 3, 2025** My proposal has been accepted for the [39th Chaos Communication Congress](https://cfp.cccv.de/39c3/). See you in Hamburg at the end of the year.
+- **November 3, 2025** I'll give a talk at [Journée Robotique et ImaginaireS](https://imaginerobot25.sciencesconf.org/resource/page/id/1) about Arts & Sciences. [#TALK]{.text-danger}
+- **November 3, 2025** Welcome to Mélanie Romano who will start her PhD on surveillance technologies with me and [Pauline Gervier](https://www.u-bordeaux.fr/universite/espace-presse/repertoire-dexperts/pauline-gervier).
+- **November 1, 2025** Another interview for Charlie Hebdo about [data pillage by AI companies](https://charliehebdo.fr/2025/11/societe/tech/ia-les-geants-de-la-tech-orchestrent-le-pillage-dinternet/). [#CHAT]{.text-danger}
 
 ### October 2025
 
-* **October 30, 2025** Another interview for Charlie Hebdo about new [Zignal contract](https://charliehebdo.fr/2025/11/societe/tech/chasse-aux-migrants-comment-trump-et-la-silicon-valley-construisent-le-techno-fascisme/) with ICE. [#CHAT]{.text-danger}
-* **October 22, 2025** Online conference about "CODE beyond FAIR" for the Open Science week at the University of Bordeaux. [#TALK]{.text-danger}
-* **October 12, 2025** Conference at Cap Sciences (Bordeaux) about the myth of general artificial intelligence. [#TALK]{.text-danger}
-* **October 11, 2025** Conference at Cap Sciences (Bordeaux) about the hidden costs of AI. [#TALK]{.text-danger}
-* **October 10, 2025** Conference and unplugged AI at Montendre high
+- **October 30, 2025** Another interview for Charlie Hebdo about new [Zignal contract](https://charliehebdo.fr/2025/11/societe/tech/chasse-aux-migrants-comment-trump-et-la-silicon-valley-construisent-le-techno-fascisme/) with ICE. [#CHAT]{.text-danger}
+- **October 22, 2025** Online conference about "CODE beyond FAIR" for the Open Science week at the University of Bordeaux. [#TALK]{.text-danger}
+- **October 12, 2025** Conference at Cap Sciences (Bordeaux) about the myth of general artificial intelligence. [#TALK]{.text-danger}
+- **October 11, 2025** Conference at Cap Sciences (Bordeaux) about the hidden costs of AI. [#TALK]{.text-danger}
+- **October 10, 2025** Conference and unplugged AI at Montendre high
   school with 120 teenagers. Quite a busy day. [#TALK]{.text-danger}
-* **October 3 2025** First public presentation of the [BrainCraft challenge](https://github.com/rougier/braincraft) at the Bordeaux workshop on metaconigition.
-* **October 1, 2025** My short interview on LLM capacity has been published in [Le Parisien](https://www.leparisien.fr/high-tech/jai-fait-un-concours-dintelligence-contre-lia-et-jai-gagne-on-vous-dit-pourquoi-cest-possible-01-10-2025-XJWFD77QSBDTXINZYOZ7AHWY3A.php) [#CHAT]{.text-danger}
+- **October 3 2025** First public presentation of the [BrainCraft challenge](https://github.com/rougier/braincraft) at the Bordeaux workshop on metaconigition.
+- **October 1, 2025** My short interview on LLM capacity has been published in [Le Parisien](https://www.leparisien.fr/high-tech/jai-fait-un-concours-dintelligence-contre-lia-et-jai-gagne-on-vous-dit-pourquoi-cest-possible-01-10-2025-XJWFD77QSBDTXINZYOZ7AHWY3A.php) [#CHAT]{.text-danger}
 
 ### September 2025
 
-* **September 30, 2025** Presiding the PhD jury of Marc Welter on BCI and art. [#JURY]{.text-danger}
-* **September 23, 2025** Attending the [second FNSO laureates workshop](https://fnso-2e-renc.sciencesconf.org/) in Aubervilliers
-* **September 23, 2025** Giving a talk about impact of AI on scientific edition at Inria IES seminar. [#TALK]{.text-danger}
-* **Septembre 20 & 21, 2025** Fifth edition of the [Hypermondes](http://hypermondes.fr) festival with more than 13,000
+- **September 30, 2025** Presiding the PhD jury of Marc Welter on BCI and art. [#JURY]{.text-danger}
+- **September 23, 2025** Attending the [second FNSO laureates workshop](https://fnso-2e-renc.sciencesconf.org/) in Aubervilliers
+- **September 23, 2025** Giving a talk about impact of AI on scientific edition at Inria IES seminar. [#TALK]{.text-danger}
+- **Septembre 20 & 21, 2025** Fifth edition of the [Hypermondes](http://hypermondes.fr) festival with more than 13,000
   visitors. Quite a success.
-* **Septembre 18, 2025** Our European WIDERA project has been submitted. Cross fingers.
-* **September 2, 2025** Podcast with Mike Driscoll about my experience in [Python and data visualization](https://www.pythonshow.com/p/neural-networks-and-data-visualization) [#CHAT]{.text-danger}
+- **Septembre 18, 2025** Our European WIDERA project has been submitted. Cross fingers.
+- **September 2, 2025** Podcast with Mike Driscoll about my experience in [Python and data visualization](https://www.pythonshow.com/p/neural-networks-and-data-visualization) [#CHAT]{.text-danger}
 
 ### August 2025
 
-* **August 28, 2025** Submitted a new package ([mode-line-maker](https://github.com/rougier/mode-line-maker)) to GNU Emacs. [#Code]{.text-primary} 
-* **August 26, 2025** Interview for "Le Parisien" about AI and general intelligence. [#CHAT]{.text-danger}
-* **August 24, 2025** Participating to the [Replication Games](https://i4replication.org/games.html) in Bordeaux
+- **August 28, 2025** Submitted a new package ([mode-line-maker](https://github.com/rougier/mode-line-maker)) to GNU Emacs. [#Code]{.text-primary} 
+- **August 26, 2025** Interview for "Le Parisien" about AI and general intelligence. [#CHAT]{.text-danger}
+- **August 24, 2025** Participating to the [Replication Games](https://i4replication.org/games.html) in Bordeaux
 
 ### July 2025
 
-* **July 12, 2025** Welcome to J.Etienne on the Vispy project
-* **July 10, 2025** Last COFIS meeting with Stephany Rufy as president.
-* **July 8, 2025** Psyphine meeting for preparing next conference and school
-* **July 7, 2025** Attending HDR of Marwen Belkaid as reviewer. [#JURY]{.text-danger}
-* **July 2, 2025** First physical meeting for the global network of   reproducibility networks, during metascience 2025.
+- **July 12, 2025** Welcome to J.Etienne on the Vispy project
+- **July 10, 2025** Last COFIS meeting with Stephany Rufy as president.
+- **July 8, 2025** Psyphine meeting for preparing next conference and school
+- **July 7, 2025** Attending HDR of Marwen Belkaid as reviewer. [#JURY]{.text-danger}
+- **July 2, 2025** First physical meeting for the global network of   reproducibility networks, during metascience 2025.
 [#TALK]{.text-danger}
-* **July 1, 2025** [BrainCraft challenge](https://github.com/rougier/braincraft) has been launched!
+- **July 1, 2025** [BrainCraft challenge](https://github.com/rougier/braincraft) has been launched!
 
 ### June 2025
 
-* **June 30, 2025** Flying to London for the [Metascience
+- **June 30, 2025** Flying to London for the [Metascience
   2025](https://metascience.info/) conference where I'll present the
   French Reproducibility Network
-* **June 27, 2025** Second Open Science council at Universty of
+- **June 27, 2025** Second Open Science council at Universty of
   Bordeaux where I represent Inria.
-* **June 26, 2025** I'll participating to the NeuroBIM M1 jury (all day).  [#JURY]{.text-danger} 
-* **June 24, 2025** Nice tutorial about FGPA by Roshni Borse
-* **June 17, 2025** I'll meet with the University of Bordeaux to talk
+- **June 26, 2025** I'll participating to the NeuroBIM M1 jury (all day).  [#JURY]{.text-danger} 
+- **June 24, 2025** Nice tutorial about FGPA by Roshni Borse
+- **June 17, 2025** I'll meet with the University of Bordeaux to talk
   about open source.
-* **June 16, 2025** Interviewed for the direction of
+- **June 16, 2025** Interviewed for the direction of
   [OFIS](https://www.ofis-france.fr/) but I was not selected. [#CHAT]{.text-danger}
-* **June 12, 2025** I'll attend the [45th APLIUT conference](https://apliut.fr/45e-edition-colmar-2025/) in Colmar where I've been invited to talk about AI and education.  [#TALK]{.text-danger}
-* **June 5, 2025** Back from the Orange Innovation Lab for the third
+- **June 12, 2025** I'll attend the [45th APLIUT conference](https://apliut.fr/45e-edition-colmar-2025/) in Colmar where I've been invited to talk about AI and education.  [#TALK]{.text-danger}
+- **June 5, 2025** Back from the Orange Innovation Lab for the third
   edition of the [Drôles d'objets](https://drolesdobjets25.sciencesconf.org/) conference.
   Very nice robotic demonstration by [Stelarc](http://stelarc.org/projects.php).
    
 ### May 2025
 
-* **May 26, 2025** Second edition of the [Open Science workshop in Bordeaux(https://bordeaux-neurocampus.github.io/OS-Workshop-2025/)
-* **May 20, 2025** Workshop with Swiss Universities to consolidate Open Science project reviews.  [#JURY]{.text-danger}
-* **May 19, 2025** Welcome to Yves Appriou that stars his 2 montsh internship with me.
-* **May 7, 2025** I'll give a (online talk about dataviz at LUT University (Finland)  [#TALK]{.text-danger}
-* **May 5, 2025** I'll be in Toulouse to talk about emotions for
+- **May 26, 2025** Second edition of the [Open Science workshop in Bordeaux(https://bordeaux-neurocampus.github.io/OS-Workshop-2025/)
+- **May 20, 2025** Workshop with Swiss Universities to consolidate Open Science project reviews.  [#JURY]{.text-danger}
+- **May 19, 2025** Welcome to Yves Appriou that stars his 2 montsh internship with me.
+- **May 7, 2025** I'll give a (online talk about dataviz at LUT University (Finland)  [#TALK]{.text-danger}
+- **May 5, 2025** I'll be in Toulouse to talk about emotions for
 the [Le Lab des écoles créatives](https://labecolescreatives.hypotheses.org/518).  [#TALK]{.text-danger}
-* **May 2, 2025** Welcoming Roshni Borse who has been hired as an
+- **May 2, 2025** Welcoming Roshni Borse who has been hired as an
   engineer to work on FPGA implementation of echo state networks.
 
 ### April 2025
 
-* **April 29, 2025** Comité de sélection in Cergy for a professor position. [#JURY]{.text-danger}
-* **April 22, 2025** Visiting the university of Tübingen for an invited talk (students colloquium).  [#TALK]{.text-danger}
-* **April 18, 2025** Big news for the team: Chloé Mercier will join us as CRCN in October
-* **April 15, 2025** I'll be present at the [AI and scientific integrity workshop](https://www.ofis-france.fr/comment-lia-generative-transforme-les-pratiques-de-recherche-nouveaux-enjeux-dintegrite-scientifique/) that I helped co-organizing.
-* **April 10, 2025** Meeting with Romain Thomas who is [teaching
+- **April 29, 2025** Comité de sélection in Cergy for a professor position. [#JURY]{.text-danger}
+- **April 22, 2025** Visiting the university of Tübingen for an invited talk (students colloquium).  [#TALK]{.text-danger}
+- **April 18, 2025** Big news for the team: Chloé Mercier will join us as CRCN in October
+- **April 15, 2025** I'll be present at the [AI and scientific integrity workshop](https://www.ofis-france.fr/comment-lia-generative-transforme-les-pratiques-de-recherche-nouveaux-enjeux-dintegrite-scientifique/) that I helped co-organizing.
+- **April 10, 2025** Meeting with Romain Thomas who is [teaching
   software engineering](https://rse.shef.ac.uk/training/fair4rs/) at Sheffield university.
-* **April 7, 2025** I'll be present at the [OSINT workshop](https://www.ijba.u-bordeaux-montaigne.fr/journee-detude-osint-ia-enquetes-augmentees/) to talk about AI and surveillance.  [#TALK]{.text-danger}
-* **April 3, 2025** [3rd conference of Reproducible Research](https://jrfrr-2025.sciencesconf.org/) in Lyon, organized by the [French Reproducible Research Network](https://www.recherche-reproductible.fr/). 2026 edition will be in Bordeaux.
-* **April 2, 2025** I just joined the editorial board of the [RockFeller Publishing company](https://www.rockefellerpub.com/) that is offering Diamond Open Access for books in science and technology.
-* **April 1, 2025** Ammar Khader that has been an apprentice in the team visited us.
+- **April 7, 2025** I'll be present at the [OSINT workshop](https://www.ijba.u-bordeaux-montaigne.fr/journee-detude-osint-ia-enquetes-augmentees/) to talk about AI and surveillance.  [#TALK]{.text-danger}
+- **April 3, 2025** [3rd conference of Reproducible Research](https://jrfrr-2025.sciencesconf.org/) in Lyon, organized by the [French Reproducible Research Network](https://www.recherche-reproductible.fr/). 2026 edition will be in Bordeaux.
+- **April 2, 2025** I just joined the editorial board of the [RockFeller Publishing company](https://www.rockefellerpub.com/) that is offering Diamond Open Access for books in science and technology.
+- **April 1, 2025** Ammar Khader that has been an apprentice in the team visited us.
 He's now a Phd Student in Finland.
 
 ### March 2025
 
-* **March 20, 2025** I'll be in Jonzac with Hypermondes to talk about AI and fiction.  [#TALK]{.text-danger}
-* **March 19, 2025** My participation in the AI in Toulouse has been summarized in 
+- **March 20, 2025** I'll be in Jonzac with Hypermondes to talk about AI and fiction.  [#TALK]{.text-danger}
+- **March 19, 2025** My participation in the AI in Toulouse has been summarized in 
 [Les Cahiers des ICC](https://labecolescreatives.hypotheses.org/publications).  [#TALK]{.text-danger}
-* **March 19, 2025** Just relased a simple [raycasted maze simulator](https://github.com/rougier/raycast) [#Code]{.text-primary} 
-* **March 17, 2025** I'll preside the PhD jury of Gauthier Hamon about "open-ended dynamics in Artificial Life and Artificial Intelligence". [#JURY]{.text-danger} 
-* **March 12, 2025** I'll participate to the general public conference "From neurons to algorithms" in Bordeaux, for the "Semaine du cerveau" event.  [#TALK]{.text-danger}
-* **March 8, 2025** I've been invited by [PULP](https://www.cc-hautlignon.fr/guides/la-pulp-petite-universite-libre-et-populaire-de-tence/) in Tence to give a talk on artificial intelligence.  [#TALK]{.text-danger}
+- **March 19, 2025** Just relased a simple [raycasted maze simulator](https://github.com/rougier/raycast) [#Code]{.text-primary} 
+- **March 17, 2025** I'll preside the PhD jury of Gauthier Hamon about "open-ended dynamics in Artificial Life and Artificial Intelligence". [#JURY]{.text-danger} 
+- **March 12, 2025** I'll participate to the general public conference "From neurons to algorithms" in Bordeaux, for the "Semaine du cerveau" event.  [#TALK]{.text-danger}
+- **March 8, 2025** I've been invited by [PULP](https://www.cc-hautlignon.fr/guides/la-pulp-petite-universite-libre-et-populaire-de-tence/) in Tence to give a talk on artificial intelligence.  [#TALK]{.text-danger}
 
 ### February 2025
 
-* **February 20, 2025** The program for the [Hypermondes](http://hypermondes.fr) is almost ready. Theme for 2025 is "Journey"
-* **February 13, 2025** I'll be at [Jeudi d'Ethique](https://ethiquepublique33.org/wp-content/uploads/2025/01/pub-jeudi-ethique-HD-V4.pdf) to talk about whether technology alieanates us.  [#TALK]{.text-danger}
-* **February 6, 2025** I'll animate a round table during the [conference on surveillance in democracy](https://observatoire-surveillance-democratie.fr/index.php/2025/01/16/colloque-interdisciplinaire-surveiller-en-democratie-quels-bilans-quelles-perspectives/) that I co-organized with the "Observatoire de la Surveillance en Démocratie".  [#TALK]{.text-danger}
-* **February 5, 2025** Interview with Reporterre on [the future of AI](https://reporterre.net/Ruee-sur-l-intelligence-artificielle-les-milliardaires-de-la-tech-jubilent). [#CHAT]{.text-danger}
+- **February 20, 2025** The program for the [Hypermondes](http://hypermondes.fr) is almost ready. Theme for 2025 is "Journey"
+- **February 13, 2025** I'll be at [Jeudi d'Ethique](https://ethiquepublique33.org/wp-content/uploads/2025/01/pub-jeudi-ethique-HD-V4.pdf) to talk about whether technology alieanates us.  [#TALK]{.text-danger}
+- **February 6, 2025** I'll animate a round table during the [conference on surveillance in democracy](https://observatoire-surveillance-democratie.fr/index.php/2025/01/16/colloque-interdisciplinaire-surveiller-en-democratie-quels-bilans-quelles-perspectives/) that I co-organized with the "Observatoire de la Surveillance en Démocratie".  [#TALK]{.text-danger}
+- **February 5, 2025** Interview with Reporterre on [the future of AI](https://reporterre.net/Ruee-sur-l-intelligence-artificielle-les-milliardaires-de-la-tech-jubilent). [#CHAT]{.text-danger}
 
 ### January 2025
 
-* **January 21, 2025** I'll give a talk on the art of dataviz for the whole IMN. [#TALK]{.text-danger}
-* **January 21, 2025** I'll give a talk online on AI & Neurosciences (overview).  [#TALK]{.text-danger}
-* **January 9, 2025** Meeting with our local *député* to talk about the Hypermondes festival.
-* **January 8, 2025** General meeting of the [Software and Source Codes
+- **January 21, 2025** I'll give a talk on the art of dataviz for the whole IMN. [#TALK]{.text-danger}
+- **January 21, 2025** I'll give a talk online on AI & Neurosciences (overview).  [#TALK]{.text-danger}
+- **January 9, 2025** Meeting with our local *député* to talk about the Hypermondes festival.
+- **January 8, 2025** General meeting of the [Software and Source Codes
   College](https://www.ouvrirlascience.fr/software-and-source-codes-college/) of COSO, welcoming new members.
 
 
@@ -162,39 +162,39 @@ He's now a Phd Student in Finland.
 
 ### December 2024
 
-* **December 20, 2024** After one year and as promised, we just
+- **December 20, 2024** After one year and as promised, we just
   distributed the "IA Logs" (physical) book to all the authors. Let's
   move to "Neuro Logs" for 2025.
-* **December 16, 2024** I'll present our work "CODE beyond FAIR" in Rennes for 
+- **December 16, 2024** I'll present our work "CODE beyond FAIR" in Rennes for 
 [2e Journée d'étude de l'atelier de la donnée ARDoISE](https://socle.univ-rennes2.fr/event/enjeu-reproductibilite-science-louverture-codes-sources-logiciels).  [#TALK]{.text-danger}
-* **December 13, 2024** Going to Lyon for the Habilitation of Mathieu Lefort that I reviewed.  [#JURY]{.text-danger}
-* **December 6, 2024** Axel Palaudé defended his PhD. 
+- **December 13, 2024** Going to Lyon for the Habilitation of Mathieu Lefort that I reviewed.  [#JURY]{.text-danger}
+- **December 6, 2024** Axel Palaudé defended his PhD. 
 
 ### November 2024
 
-* **Novembre 28-29, 2024** I'll give a two days Python advanced course at CNRS (Bordeaux). [#TEACH]{.text-danger}
-* **Novembre 27, 2024** COFIS meeting in Paris here we decided to organize a much needed workshop about AI and scientific integrity.
-* **November 22** Naomi Chaix-Eichel will defend her PhD thesis, exploring the role of neural network architecture onto decision-making.  [#JURY]{.text-danger}
-* **Novembre 18, 2024** Participation to the CogGames aiming at rebooting cognitives sciences in France.
-* **Novembre 14-15, 2024** I'll give a two days Python beginner course at CNRS (Bordeaux). [#TEACH]{.text-danger}
-* **November 7** Presiding the PhD jury of Eduarda Gervini Zampieri Centeno, netween neuroscience and Open Science. [#JURY]{.text-danger}
+- **Novembre 28-29, 2024** I'll give a two days Python advanced course at CNRS (Bordeaux). [#TEACH]{.text-danger}
+- **Novembre 27, 2024** COFIS meeting in Paris here we decided to organize a much needed workshop about AI and scientific integrity.
+- **November 22** Naomi Chaix-Eichel will defend her PhD thesis, exploring the role of neural network architecture onto decision-making.  [#JURY]{.text-danger}
+- **Novembre 18, 2024** Participation to the CogGames aiming at rebooting cognitives sciences in France.
+- **Novembre 14-15, 2024** I'll give a two days Python beginner course at CNRS (Bordeaux). [#TEACH]{.text-danger}
+- **November 7** Presiding the PhD jury of Eduarda Gervini Zampieri Centeno, netween neuroscience and Open Science. [#JURY]{.text-danger}
 
 ### October 2024
 
-* **October 28** First day of the [XIHO](https://xiho24.sciencesconf.org/) Autumn school: "Experiment human-machine interaction: theories, methods and analysis". 
-* **October 19** [Robotic demonstration](https://www.bordeaux.fr/e222360/robna-demonstrations-robotiques) in front of town hall in Bordeaux. Quite a challenge to organize but [huge success](https://www.sudouest.fr/insolite/video-des-robots-en-action-dans-le-centre-ville-de-bordeaux-21828256.php).
-* **October 18** Organization of the [Robotics & Ethics conference](https://sin.u-bordeaux.fr/actualites/journees-robna-robotique-en-nouvelle-aquitaine-18-et-19-octobre-bordeaux) in Bordeaux, followed by a [round table about agro-ecolorgy and robotics](https://www.bordeaux.fr/e222359/robna-robotique-agroecologie)
-* **October 17** Mnemosyne out of the lab!
-* **October 10** Quick presentation of the future team at Inria project committee 
-* **October 2** Going to Chemnitz.for the Phd defense of Helge Dinkelbach. [#JURY]{.text-danger}
+- **October 28** First day of the [XIHO](https://xiho24.sciencesconf.org/) Autumn school: "Experiment human-machine interaction: theories, methods and analysis". 
+- **October 19** [Robotic demonstration](https://www.bordeaux.fr/e222360/robna-demonstrations-robotiques) in front of town hall in Bordeaux. Quite a challenge to organize but [huge success](https://www.sudouest.fr/insolite/video-des-robots-en-action-dans-le-centre-ville-de-bordeaux-21828256.php).
+- **October 18** Organization of the [Robotics & Ethics conference](https://sin.u-bordeaux.fr/actualites/journees-robna-robotique-en-nouvelle-aquitaine-18-et-19-octobre-bordeaux) in Bordeaux, followed by a [round table about agro-ecolorgy and robotics](https://www.bordeaux.fr/e222359/robna-robotique-agroecologie)
+- **October 17** Mnemosyne out of the lab!
+- **October 10** Quick presentation of the future team at Inria project committee 
+- **October 2** Going to Chemnitz.for the Phd defense of Helge Dinkelbach. [#JURY]{.text-danger}
 
 ### September 2024
 
-* **September 27, 2024** Interview for the Foresight Institute about AI safety & Neurotechs. [#CHAT]{.text-danger}
-* **September 25, 2024** First meeting of the Bordeaux Theoretical Biology Club where I'll present the Art of BrainCrafting.  [#TALK]{.text-danger}
-* **September 21-22, 2024** Big success for [Hypermondes](https://hypermondes.fr) scifi festival with more than 10,000 visitors.
-* **September 18, 2024** Last meeting for the national network of experts in Open Science (REISO).
-* **September 11, 2024** I'll [talk](https://www.dihnamic.eu/fr/webinaire-14-construire-une-ia-digne-de-confiance-test-verification-des-systemes-dia/?iw_mailid=a75b11c2-8f75-ef11-9c35-6045bd8cf406&iw_scope=Event
+- **September 27, 2024** Interview for the Foresight Institute about AI safety & Neurotechs. [#CHAT]{.text-danger}
+- **September 25, 2024** First meeting of the Bordeaux Theoretical Biology Club where I'll present the Art of BrainCrafting.  [#TALK]{.text-danger}
+- **September 21-22, 2024** Big success for [Hypermondes](https://hypermondes.fr) scifi festival with more than 10,000 visitors.
+- **September 18, 2024** Last meeting for the national network of experts in Open Science (REISO).
+- **September 11, 2024** I'll [talk](https://www.dihnamic.eu/fr/webinaire-14-construire-une-ia-digne-de-confiance-test-verification-des-systemes-dia/?iw_mailid=a75b11c2-8f75-ef11-9c35-6045bd8cf406&iw_scope=Event
 ) about generative AI at the [DINHAMIC](https://www.dihnamic.eu/) webinar.  [#TALK]{.text-danger}
 
 ### August 2024
@@ -203,598 +203,598 @@ No events.
 
 ### July 2024
 
-* **July 24, 2024** Interview with [Charlie Hebdo](https://charliehebdo.fr/2024/07/societe/tech/entretien-il-faut-se-mefier-des-discours-colportes-par-les-geants-de-lia/) about generative AIs. [#CHAT]{.text-danger}
-* **July 25, 2024** Interview with [Usbek & Rica](https://usbeketrica.com/fr) about mind uploading. [#CHAT]{.text-danger}
-* **July 8, 2024** Invited course on scientific visualization [Observatoire Midi-Pyrénèes](https://www.odatis-ocean.fr/actualites/agenda/details-de-levenement/atelier-numerique-de-lomp-dataviz).  [#TALK]{.text-danger}
-* **July 3, 2024** I'll give a talk about Open Science at the [Hacking Cognition hackathon](https://hacking-cognition.u-paris-sciences.fr/).  [#TALK]{.text-danger}
+- **July 24, 2024** Interview with [Charlie Hebdo](https://charliehebdo.fr/2024/07/societe/tech/entretien-il-faut-se-mefier-des-discours-colportes-par-les-geants-de-lia/) about generative AIs. [#CHAT]{.text-danger}
+- **July 25, 2024** Interview with [Usbek & Rica](https://usbeketrica.com/fr) about mind uploading. [#CHAT]{.text-danger}
+- **July 8, 2024** Invited course on scientific visualization [Observatoire Midi-Pyrénèes](https://www.odatis-ocean.fr/actualites/agenda/details-de-levenement/atelier-numerique-de-lomp-dataviz).  [#TALK]{.text-danger}
+- **July 3, 2024** I'll give a talk about Open Science at the [Hacking Cognition hackathon](https://hacking-cognition.u-paris-sciences.fr/).  [#TALK]{.text-danger}
 
 ### June 2024
 
-* **June 27, 2024** Invited by the [Club des ambassadeurs](https://congres.bordeaux-tourisme.com/congres/club-ambassadeurs-bordeaux) onboard the Morgenster.
-* **June 25, 2024** Co-organizing the event ["Should I stay or should I
+- **June 27, 2024** Invited by the [Club des ambassadeurs](https://congres.bordeaux-tourisme.com/congres/club-ambassadeurs-bordeaux) onboard the Morgenster.
+- **June 25, 2024** Co-organizing the event ["Should I stay or should I
 go?"](https://sygefor.reseau-urfist.fr/#/training/10399/12766?from=true) to talk about free and distributed tools for research, including communication.
-* **June 19, 2024** IMN day, Naomi will present our work on splitter cells.
-* **June 18, 2024** Talk about decision making at the "Rhodia Laboratoire du Futur", commissioned by the French Neuroscience Society.  [#TALK]{.text-danger}
-* **June 8, 2024** Our preprint [On the epistemic role of hippocampal cells: the case of splitter cells](https://www.biorxiv.org/content/10.1101/2024.06.07.597927v1) is online.
-* **June 6, 2024** I've been given 30 minutes to talk about Open Science and Reproducibility at "Comité des projets". Quite a challenge.  [#TALK]{.text-danger}
-* **June 5, 2024** Interview with the [Conseil National des Barreaux](https://www.cnb.avocat.fr/) to talk about AI. [#CHAT]{.text-danger}
-* **June 4, 2024** Publication of the report [Software Pillar of Open Science](https://www.ouvrirlascience.fr/publication-of-the-report-highlights-of-the-software-pillar-of-open-science-workshop/). 
-* **June 3, 2024** Welcome to Héloïse Troublé (ENS Rennes) and Pierre Schmittbul (ENS Lyon) who start their intersnhip today.
+- **June 19, 2024** IMN day, Naomi will present our work on splitter cells.
+- **June 18, 2024** Talk about decision making at the "Rhodia Laboratoire du Futur", commissioned by the French Neuroscience Society.  [#TALK]{.text-danger}
+- **June 8, 2024** Our preprint [On the epistemic role of hippocampal cells: the case of splitter cells](https://www.biorxiv.org/content/10.1101/2024.06.07.597927v1) is online.
+- **June 6, 2024** I've been given 30 minutes to talk about Open Science and Reproducibility at "Comité des projets". Quite a challenge.  [#TALK]{.text-danger}
+- **June 5, 2024** Interview with the [Conseil National des Barreaux](https://www.cnb.avocat.fr/) to talk about AI. [#CHAT]{.text-danger}
+- **June 4, 2024** Publication of the report [Software Pillar of Open Science](https://www.ouvrirlascience.fr/publication-of-the-report-highlights-of-the-software-pillar-of-open-science-workshop/). 
+- **June 3, 2024** Welcome to Héloïse Troublé (ENS Rennes) and Pierre Schmittbul (ENS Lyon) who start their intersnhip today.
 
 ### May 2024
 
-* **May 31, 2024** First meeting of the Theoretical Biology Club in Bordeaux.
-* **May 23-24, 2024** Organization of [AI & Neurosciences conference](https://www.bordeaux-neurocampus.fr/en/event/journees-thematiques-societe-des-neurosciences/) with the French society of neurosciences.
-* **May 22, 2024** I'll animate the round table about [AI between science and fiction](https://www.cap-sciences.net/au-programme/evenement/grand-public/intelligence-artificielle-entre-science-et-fiction/) at Cap Sciences.  [#TALK]{.text-danger}
-* **May 18, 2024** I've signed the [letter](AlphaFold3 Transparency and Reproducibility) asking for more transparency to Nature.
-* **May 16, 2024** [Happy hour at Cap Sciences](https://www.cap-sciences.net/au-programme/evenement/grand-public/happy-hour-ia-et-si-on-arretait-de-raconter-nimporte-quoi/) where I'll answer questions around AI. 
-* **May 2, 2024** I'll give a talk at [hyperhumain](https://www.hyperhumain.org/) conference about embodied and situated cognition. 
+- **May 31, 2024** First meeting of the Theoretical Biology Club in Bordeaux.
+- **May 23-24, 2024** Organization of [AI & Neurosciences conference](https://www.bordeaux-neurocampus.fr/en/event/journees-thematiques-societe-des-neurosciences/) with the French society of neurosciences.
+- **May 22, 2024** I'll animate the round table about [AI between science and fiction](https://www.cap-sciences.net/au-programme/evenement/grand-public/intelligence-artificielle-entre-science-et-fiction/) at Cap Sciences.  [#TALK]{.text-danger}
+- **May 18, 2024** I've signed the [letter](AlphaFold3 Transparency and Reproducibility) asking for more transparency to Nature.
+- **May 16, 2024** [Happy hour at Cap Sciences](https://www.cap-sciences.net/au-programme/evenement/grand-public/happy-hour-ia-et-si-on-arretait-de-raconter-nimporte-quoi/) where I'll answer questions around AI. 
+- **May 2, 2024** I'll give a talk at [hyperhumain](https://www.hyperhumain.org/) conference about embodied and situated cognition. 
 
 ### April 2024
 
-* **April 22, 2024** I've been invited by "Ecoles Créatives" to talk about [Art and AI (Toulouse)](https://www.ecole-pivaut.fr/mois-de-limpact-les-ecoles-creative).  [#TALK]{.text-danger}
-* **April 12, 2024** We found a project manager for the [French Reproducibility network](http://www.recherche-reproductible.fr/).
-* **April 4, 2024** Nikolaos Vardalakis will defend his PhD on the
+- **April 22, 2024** I've been invited by "Ecoles Créatives" to talk about [Art and AI (Toulouse)](https://www.ecole-pivaut.fr/mois-de-limpact-les-ecoles-creative).  [#TALK]{.text-danger}
+- **April 12, 2024** We found a project manager for the [French Reproducibility network](http://www.recherche-reproductible.fr/).
+- **April 4, 2024** Nikolaos Vardalakis will defend his PhD on the
 effects of entorhinal cortex electrical stimulation on the functional interactions between the hippocampus and prefrontal cortex. [#JURY]{.text-danger}
 
 ### March 2024
 
-* **March 26-28, 2024** Second conference for [reproducible research in Grenoble](https://jrfrr-2024.sciencesconf.org/)
-* **March 25, 2024** First meeting of the [OFIS advisory board](https://www.ofis-france.fr/ofis-advisory-board/)
-* **March 21, 2024** I'll give a conference with Natacha Vas-Deyres about AI and Science Fiction for the Comité de la Légion d'Honneur.  [#TALK]{.text-danger}
-* **March 20, 2024** Attending the event on the future of SIGAPS (HCERES)
-* **March 13, 2024** I'll attend the opening conference for the [Observatoire de la surveillance en démocratie](https://observatoire-surveillance-democratie.fr) that I'm member of.
-* **March 7, 2024** I'll be in Poitiers to talk about AI and arts with ALCA Nouvelle Aquitaine (« #IA et #création – Quels défis à venir ? »). 
+- **March 26-28, 2024** Second conference for [reproducible research in Grenoble](https://jrfrr-2024.sciencesconf.org/)
+- **March 25, 2024** First meeting of the [OFIS advisory board](https://www.ofis-france.fr/ofis-advisory-board/)
+- **March 21, 2024** I'll give a conference with Natacha Vas-Deyres about AI and Science Fiction for the Comité de la Légion d'Honneur.  [#TALK]{.text-danger}
+- **March 20, 2024** Attending the event on the future of SIGAPS (HCERES)
+- **March 13, 2024** I'll attend the opening conference for the [Observatoire de la surveillance en démocratie](https://observatoire-surveillance-democratie.fr) that I'm member of.
+- **March 7, 2024** I'll be in Poitiers to talk about AI and arts with ALCA Nouvelle Aquitaine (« #IA et #création – Quels défis à venir ? »). 
 
 ### February 2024
 
-* **February 22, 2024** I've been invited to give a talk on computational reproducibility at the [DKM days](https://www.irisa.fr/date/2024-02/journees-du-departement-dkm-22-et-23-fevrier-2024) at Irisa (Rennes).  [#TALK]{.text-danger}
-* **February 8, 2024** I'll be at [Utopia cinema](https://www.cinemas-utopia.org/bordeaux/index.php?id=1111&mode=cycle) for talking about robotics and artificial intelligence.  [#TALK]{.text-danger}
-* **February 6, 2024** My TEDx talk is [online](https://www.youtube.com/watch?v=6yl_j5g9Mj8).  [#TALK]{.text-danger}
-* **February 3, 2024** Texture mapping (3d) for [GSP-matplotlib](https://github.com/rougier/gsp-matplotlib). [#Code]{.text-primary} 
+- **February 22, 2024** I've been invited to give a talk on computational reproducibility at the [DKM days](https://www.irisa.fr/date/2024-02/journees-du-departement-dkm-22-et-23-fevrier-2024) at Irisa (Rennes).  [#TALK]{.text-danger}
+- **February 8, 2024** I'll be at [Utopia cinema](https://www.cinemas-utopia.org/bordeaux/index.php?id=1111&mode=cycle) for talking about robotics and artificial intelligence.  [#TALK]{.text-danger}
+- **February 6, 2024** My TEDx talk is [online](https://www.youtube.com/watch?v=6yl_j5g9Mj8).  [#TALK]{.text-danger}
+- **February 3, 2024** Texture mapping (3d) for [GSP-matplotlib](https://github.com/rougier/gsp-matplotlib). [#Code]{.text-primary} 
 
 ### January 2024
 
-* **January 24, 2024** I'll give a talk on dataviz at [AI4IIndustry](https://www.ai4industry.fr/). [#TALK]{.text-danger}
-* **January 21, 2024** [Github](https://github.com/rougier) update: 6.5k followers — Scientific Visualization book (9.9k★) — From Python to Numpy (2k★) — Matplotlib cheat sheets (7.1k★) — 100 Numpy exercises (11k★) — Matplotlib tutorial (2.8k★) — Glumpy (1.2k★) — Vispy (3.2k★) — Freetype-gl (1.6k★) - Emacs / N Λ N O (2.3k★)
-* **January 16, 2024** Welcome to [Ann Collins](https://ccn.berkeley.edu/) who is visiting us for 6 months as an invited professor.
-* **January 3, 2024** I've been selected to join the [OFIS advisory board](https://www.ofis-france.fr/ofis-advisory-board/)
+- **January 24, 2024** I'll give a talk on dataviz at [AI4IIndustry](https://www.ai4industry.fr/). [#TALK]{.text-danger}
+- **January 21, 2024** [Github](https://github.com/rougier) update: 6.5k followers — Scientific Visualization book (9.9k★) — From Python to Numpy (2k★) — Matplotlib cheat sheets (7.1k★) — 100 Numpy exercises (11k★) — Matplotlib tutorial (2.8k★) — Glumpy (1.2k★) — Vispy (3.2k★) — Freetype-gl (1.6k★) - Emacs / N Λ N O (2.3k★)
+- **January 16, 2024** Welcome to [Ann Collins](https://ccn.berkeley.edu/) who is visiting us for 6 months as an invited professor.
+- **January 3, 2024** I've been selected to join the [OFIS advisory board](https://www.ofis-france.fr/ofis-advisory-board/)
 
 
 ## 2023
 
 ### December 2023
 
-* **December 21, 2023** Inria closed door where I'll present experimental research at Inria and participate in the round table on generative AI.  [#TALK]{.text-danger}
-* **December 18, 2023** First session of #IA Logs, a writing workshop for scientist organized by Silene Edgar and me.
-* **December 11, 2023** Presiding PhD defense of Rafael Bergoin at Cergy University. [#JURY]{.text-danger}
-* **December 7 & 8, 2023** Teaching advanced Scientific Python at CNRS. 
-* **December 1, 2023** Cannot attend PhD defense of Aimen Zerroug in Toulouse since Fjola is defending at the same time. [#JURY]{.text-danger}
-* **December 1, 2023** Fjola Hyseni will defend her PhD thesis on timing in songbirds. [#JURY]{.text-danger}
+- **December 21, 2023** Inria closed door where I'll present experimental research at Inria and participate in the round table on generative AI.  [#TALK]{.text-danger}
+- **December 18, 2023** First session of #IA Logs, a writing workshop for scientist organized by Silene Edgar and me.
+- **December 11, 2023** Presiding PhD defense of Rafael Bergoin at Cergy University. [#JURY]{.text-danger}
+- **December 7 & 8, 2023** Teaching advanced Scientific Python at CNRS. 
+- **December 1, 2023** Cannot attend PhD defense of Aimen Zerroug in Toulouse since Fjola is defending at the same time. [#JURY]{.text-danger}
+- **December 1, 2023** Fjola Hyseni will defend her PhD thesis on timing in songbirds. [#JURY]{.text-danger}
 
 ### November 2023
 
-* **Novembre 29, 2023** I'll chair the reproducibility session during the [International workshop “Software, Pillar of Open Science](https://www.ouvrirlascience.fr/international-workshop-software-pillar-of-open-science/) that I helped to co-organize.l. 
-* **November 25, 2023** The [AI for teachers](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/) MOOC is officiallly open. I contributed a bit on the AI history strip.
-* **Novembre 23, 2023** I'll give a 2 days Python beginner course at CNRS (Bordeaux).  [#TEACH]{.text-danger}
-* **Novembre 21, 2023** Oral presentation for the data analysis course, part of the Bordeaux Neurocampus Gradudate program.  [#TEACH]{.text-danger}
-* **Novembre 21, 2023** Meetings students from ENS Lyon.  [#TEACH]{.text-danger}
-* **Novembre 18, 2023** [TEDx Quartier Latin](https://www.ted.com/tedx/events/53458) at the Institut National des Jeunes Sourds de Paris.  [#TALK]{.text-danger}
-* **Novembre 15, 2023** [HackATech](https://hackatechbordeaux.inria.fr/) starts à La Faïencerie (Bordeaux) with Vispy listed as a potential technology to be used.
+- **Novembre 29, 2023** I'll chair the reproducibility session during the [International workshop “Software, Pillar of Open Science](https://www.ouvrirlascience.fr/international-workshop-software-pillar-of-open-science/) that I helped to co-organize.l. 
+- **November 25, 2023** The [AI for teachers](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/) MOOC is officiallly open. I contributed a bit on the AI history strip.
+- **Novembre 23, 2023** I'll give a 2 days Python beginner course at CNRS (Bordeaux).  [#TEACH]{.text-danger}
+- **Novembre 21, 2023** Oral presentation for the data analysis course, part of the Bordeaux Neurocampus Gradudate program.  [#TEACH]{.text-danger}
+- **Novembre 21, 2023** Meetings students from ENS Lyon.  [#TEACH]{.text-danger}
+- **Novembre 18, 2023** [TEDx Quartier Latin](https://www.ted.com/tedx/events/53458) at the Institut National des Jeunes Sourds de Paris.  [#TALK]{.text-danger}
+- **Novembre 15, 2023** [HackATech](https://hackatechbordeaux.inria.fr/) starts à La Faïencerie (Bordeaux) with Vispy listed as a potential technology to be used.
 
 ### October 2023
 
-* **October 26, 2023** En route for Nancy (France) to give an invited workshop on scientific visualization using Matplotlib.  [#TALK]{.text-danger}
-* **October 24, 2023** Steeting committee meeting for the [Hyperhum@in](https://www.mshbx.fr/en/cerveau-machine-modele-analogie-identite-neurosciences-et-intelligence-artificielle-en-miroir-hyperhumin/) project
-* **October 23, 2023** Kick-off meeting for the [observatory on surveillance tools in democracy](https://observatoire-surveillance-democratie.fr/)
-* **October 16-20, 2023** [1st Open Science Workshop](https://www.bordeaux-neurocampus.fr/en/1st-open-science-workshop-2023/) will be held at University of Bordeaux, I'll give talks about open science, reproducibility, code design and teach during workshops on version control and public outreach.   [#TALK]{.text-danger}
-* **October 9, 2023** Keynote talk on digital typography at Huawei Technical Summit in Helsinki.  [#TALK]{.text-danger}
+- **October 26, 2023** En route for Nancy (France) to give an invited workshop on scientific visualization using Matplotlib.  [#TALK]{.text-danger}
+- **October 24, 2023** Steeting committee meeting for the [Hyperhum@in](https://www.mshbx.fr/en/cerveau-machine-modele-analogie-identite-neurosciences-et-intelligence-artificielle-en-miroir-hyperhumin/) project
+- **October 23, 2023** Kick-off meeting for the [observatory on surveillance tools in democracy](https://observatoire-surveillance-democratie.fr/)
+- **October 16-20, 2023** [1st Open Science Workshop](https://www.bordeaux-neurocampus.fr/en/1st-open-science-workshop-2023/) will be held at University of Bordeaux, I'll give talks about open science, reproducibility, code design and teach during workshops on version control and public outreach.   [#TALK]{.text-danger}
+- **October 9, 2023** Keynote talk on digital typography at Huawei Technical Summit in Helsinki.  [#TALK]{.text-danger}
 
 ### September 2023
 
-* **September 27, 2023** As a laureate, I've been invited to participate to the FNSO workshop in Paris. Quite an interesting day.
-* **September 23, 2023** The third edition of the [Hypermondes](https://hypermondes.fr) festival will be held on September 23 & 24, 2023. This year the theme is "Monsters".
-* **September 22, 2023** I've invited [Audrey Dussutour](https://www.cnrs.fr/fr/personne/audrey-dussutour-0) to give a talk at the Neurocampus.
-* **September 18, 2023** I've started training for an upcoming TEDx talk (Quartier Latin).
-* **September 7, 2023** Second year for the new course of data analysis in the neuroscience master. We still have a lot of interested students.  [#TEACH]{.text-danger}
-* **September 7, 2023** Attending the [ENRIO Conference](http://www.enrio.eu/) where I'll present a poster on "Ten Simple Rules for Scientific Fraud & Misconduct"  [#TALK]{.text-danger}
+- **September 27, 2023** As a laureate, I've been invited to participate to the FNSO workshop in Paris. Quite an interesting day.
+- **September 23, 2023** The third edition of the [Hypermondes](https://hypermondes.fr) festival will be held on September 23 & 24, 2023. This year the theme is "Monsters".
+- **September 22, 2023** I've invited [Audrey Dussutour](https://www.cnrs.fr/fr/personne/audrey-dussutour-0) to give a talk at the Neurocampus.
+- **September 18, 2023** I've started training for an upcoming TEDx talk (Quartier Latin).
+- **September 7, 2023** Second year for the new course of data analysis in the neuroscience master. We still have a lot of interested students.  [#TEACH]{.text-danger}
+- **September 7, 2023** Attending the [ENRIO Conference](http://www.enrio.eu/) where I'll present a poster on "Ten Simple Rules for Scientific Fraud & Misconduct"  [#TALK]{.text-danger}
 
 ### August 2023
 
-* **August 30, 2023** T.Chambon will defend his PhD thesis for which I serve as a reviewer. [#JURY]{.text-danger} 
-* **August 18, 2023** Vispy sprint at Euroscipy. We've been working on [numpy-glm](https://github.com/rougier/numpy-glm).
-* **August 15, 2023** Heading to Basel for Euroscipy 2023 where I'll present the [Graphic Server Protocol](https://github.com/rougier/gsp-matplotlib).  [#TALK]{.text-danger}
+- **August 30, 2023** T.Chambon will defend his PhD thesis for which I serve as a reviewer. [#JURY]{.text-danger} 
+- **August 18, 2023** Vispy sprint at Euroscipy. We've been working on [numpy-glm](https://github.com/rougier/numpy-glm).
+- **August 15, 2023** Heading to Basel for Euroscipy 2023 where I'll present the [Graphic Server Protocol](https://github.com/rougier/gsp-matplotlib).  [#TALK]{.text-danger}
 
 ### July 2023
 
-* **July 11, 2023** Our communication with C.Rossant on the Graphic
+- **July 11, 2023** Our communication with C.Rossant on the Graphic
   Server Protocol has been accepted at [Euroscipy
   2023](https://www.euroscipy.org/2023/index.html) 
-* **July 8, 2023** I'll animate a discussion at the [2023 Robocup](https://2023.robocup.org/en/home/) in association with Hypermondes. We'll explore robots from science fiction with N.Vas Deyres, O.Ly, L.Queyssi, F.Carré and M.Vulliez.  [#TALK]{.text-danger}
-* **July 5, 2023** I'll a talk on Open Science at the [Hacking Cognition](https://hacking-cognition.u-paris-sciences.fr/) school.
-* **July 4, 2023** I've been invited by the European College of Sport Science to give a [master class on data visualization](https://sport-science.org/index.php/scientific-programme/masterclasses/data-visualization).  [#TALK]{.text-danger}
+- **July 8, 2023** I'll animate a discussion at the [2023 Robocup](https://2023.robocup.org/en/home/) in association with Hypermondes. We'll explore robots from science fiction with N.Vas Deyres, O.Ly, L.Queyssi, F.Carré and M.Vulliez.  [#TALK]{.text-danger}
+- **July 5, 2023** I'll a talk on Open Science at the [Hacking Cognition](https://hacking-cognition.u-paris-sciences.fr/) school.
+- **July 4, 2023** I've been invited by the European College of Sport Science to give a [master class on data visualization](https://sport-science.org/index.php/scientific-programme/masterclasses/data-visualization).  [#TALK]{.text-danger}
 
 ### June 2023
 
-* **June 29, 2023** I'll give a talk at Labri for the Sage group about the design of scientific visualization.  [#TALK]{.text-danger}
-* **June 26, 2023**  Our paper [A dynamical computational model of theta generation in hippocampal circuits to study theta-gamma oscillations during neurostimulation](https://elifesciences.org/reviewed-preprints/87356) is out at eLife. [#ARTICLE]{.text-danger}
-* **June 26, 2023** Interview with Michelle Barker (Knowledge Exchange) about scaling up reproducibility practices. [#CHAT]{.text-danger}
-* **June 22, 2023** I'll introduce the French Network for Reproducible Research at the [SOFT Days](https://changes.u-bordeaux.fr/evenements/les-journees-soft) in Bordeaux.  [#TALK]{.text-danger}
-* **June 22, 2023** I'll give a talk about the aesthetic of notebooks at the [Notebook webinaire #4](https://www.canal-u.tv/chaines/gt-notebook/gt-notebook-webinaire-4-esthetique-notebook).  [#TALK]{.text-danger}
-* **June 16, 2023** Victor Leroy will present our work on the automatic quantification of normal & pathological behavior in mice at the [IBAGS XIV conference](https://2023.ibags.global/).  [#TALK]{.text-danger}
-* **June 14, 2023** I'll talk on the design of scientific visualization at the [colloquium of the Mathematics Institute of the University of Potsdam](https://www.math.uni-potsdam.de/en/institute/colloquium-of-the-institute). In the morning, I'll give a talk about computational reproducibility.  [#TALK]{.text-danger}
-* **June 8, 2023** Interview with Jean Francois Mondot for "Le Monde" newspaper about AI and mind uploading. [#CHAT]{.text-danger}
-* **June 6, 2023** I'll introduce the French Network for Reproducible Research at the [SOFT Days](https://changes.u-bordeaux.fr/evenements/les-journees-soft) in Bordeaux.  [#TALK]{.text-danger}
-* **June 5, 2023** Anthony Strock, Trang-Anh Nghiem & Vinod Menon (Stanford) are visiting us.
-* **June 2, 2023** [nano-modeline 1.0](https://github.com/rougier/nano-modeline) is out (now with buttons). [#Code]{.text-primary} 
-* **June 2, 2023** [Hack1robo](https://www.u-bordeaux.fr/evenements/hack1robo-3-jours-de-creation-autour-des-robots-et-de-lintelligence-artificielle) starts tonight. I'll present a project around decision making.  [#TALK]{.text-danger}
+- **June 29, 2023** I'll give a talk at Labri for the Sage group about the design of scientific visualization.  [#TALK]{.text-danger}
+- **June 26, 2023**  Our paper [A dynamical computational model of theta generation in hippocampal circuits to study theta-gamma oscillations during neurostimulation](https://elifesciences.org/reviewed-preprints/87356) is out at eLife. [#ARTICLE]{.text-danger}
+- **June 26, 2023** Interview with Michelle Barker (Knowledge Exchange) about scaling up reproducibility practices. [#CHAT]{.text-danger}
+- **June 22, 2023** I'll introduce the French Network for Reproducible Research at the [SOFT Days](https://changes.u-bordeaux.fr/evenements/les-journees-soft) in Bordeaux.  [#TALK]{.text-danger}
+- **June 22, 2023** I'll give a talk about the aesthetic of notebooks at the [Notebook webinaire #4](https://www.canal-u.tv/chaines/gt-notebook/gt-notebook-webinaire-4-esthetique-notebook).  [#TALK]{.text-danger}
+- **June 16, 2023** Victor Leroy will present our work on the automatic quantification of normal & pathological behavior in mice at the [IBAGS XIV conference](https://2023.ibags.global/).  [#TALK]{.text-danger}
+- **June 14, 2023** I'll talk on the design of scientific visualization at the [colloquium of the Mathematics Institute of the University of Potsdam](https://www.math.uni-potsdam.de/en/institute/colloquium-of-the-institute). In the morning, I'll give a talk about computational reproducibility.  [#TALK]{.text-danger}
+- **June 8, 2023** Interview with Jean Francois Mondot for "Le Monde" newspaper about AI and mind uploading. [#CHAT]{.text-danger}
+- **June 6, 2023** I'll introduce the French Network for Reproducible Research at the [SOFT Days](https://changes.u-bordeaux.fr/evenements/les-journees-soft) in Bordeaux.  [#TALK]{.text-danger}
+- **June 5, 2023** Anthony Strock, Trang-Anh Nghiem & Vinod Menon (Stanford) are visiting us.
+- **June 2, 2023** [nano-modeline 1.0](https://github.com/rougier/nano-modeline) is out (now with buttons). [#Code]{.text-primary} 
+- **June 2, 2023** [Hack1robo](https://www.u-bordeaux.fr/evenements/hack1robo-3-jours-de-creation-autour-des-robots-et-de-lintelligence-artificielle) starts tonight. I'll present a project around decision making.  [#TALK]{.text-danger}
 
 ### May 2023
 
-* **May 31, 2023** SBDM conference (Paris) where Naomi Chaix and Snigdha Dagar will present our work.  [#TALK]{.text-danger}
-* **May 25, 2023** Kick-off meeting at the MSH Bordeaux for our Hyperhum@n project. Exploring the notion of model in Science.
-* **May 16, 2023** Second edition of [Drôles d'objets, un nouvel art de faire](https://drolesdobjets23.sciencesconf.org) in Nancy.
-* **May 12, 2023** Second (online) meeting of the French Reproducibility Network for organizing our future.
+- **May 31, 2023** SBDM conference (Paris) where Naomi Chaix and Snigdha Dagar will present our work.  [#TALK]{.text-danger}
+- **May 25, 2023** Kick-off meeting at the MSH Bordeaux for our Hyperhum@n project. Exploring the notion of model in Science.
+- **May 16, 2023** Second edition of [Drôles d'objets, un nouvel art de faire](https://drolesdobjets23.sciencesconf.org) in Nancy.
+- **May 12, 2023** Second (online) meeting of the French Reproducibility Network for organizing our future.
 
 ### April 2023
 
-* **April 25, 2023** Joined the ICANN 2023 Program Committee. 
-* **April 24, 2023** I'm visiting University of Lancaster to give a talk on reproducibility and to have a repro hack session with students.  [#TALK]{.text-danger}
-* **April 21, 2023** Snigdha Dagar will defend he PhD thesis on cognitive control. [#JURY]{.text-danger}
-* **April 18, 2023** Just released [nano-dialog](https://github.com/rougier/nano-dialog) providing Emacs with native dialogs. [#Code]{.text-primary} 
-* **April 18, 2023** Participating in the preselection Committee for Professor position at CY university. [#JURY]{.text-danger}
-* **April 4, 2023** The Hyperhum@in project has been accepted by MSH Bordeaux Montaigne.
+- **April 25, 2023** Joined the ICANN 2023 Program Committee. 
+- **April 24, 2023** I'm visiting University of Lancaster to give a talk on reproducibility and to have a repro hack session with students.  [#TALK]{.text-danger}
+- **April 21, 2023** Snigdha Dagar will defend he PhD thesis on cognitive control. [#JURY]{.text-danger}
+- **April 18, 2023** Just released [nano-dialog](https://github.com/rougier/nano-dialog) providing Emacs with native dialogs. [#Code]{.text-primary} 
+- **April 18, 2023** Participating in the preselection Committee for Professor position at CY university. [#JURY]{.text-danger}
+- **April 4, 2023** The Hyperhum@in project has been accepted by MSH Bordeaux Montaigne.
 
 ### March 2023
 
-* **March 27, 2023** Our preprint [A dynamical computational model of theta generation in hippocampal circuits to study theta-gamma oscillations during neurostimulation](https://www.biorxiv.org/content/10.1101/2023.03.24.534142v1) is on review at eLife. [#ARTICLE]{.text-danger}
-* **March 27, 2023** Welcome to Gautham Venugopal who will be in Birdeaux for a three months internship, working on decision making under time pressure.
-* **March 20, 2023** Third Causer’IES to talk about authors publishing rights.  [#TALK]{.text-danger}
-* **March 8, 2023** [Recherche Reproductible: état des lieux](http://www.recherche-reproductible.fr/rr-days/) co-organized by myself, S.Cohen-Boulakia, F.Lemoine & A.Legrand at Institut Pasteur. 
+- **March 27, 2023** Our preprint [A dynamical computational model of theta generation in hippocampal circuits to study theta-gamma oscillations during neurostimulation](https://www.biorxiv.org/content/10.1101/2023.03.24.534142v1) is on review at eLife. [#ARTICLE]{.text-danger}
+- **March 27, 2023** Welcome to Gautham Venugopal who will be in Birdeaux for a three months internship, working on decision making under time pressure.
+- **March 20, 2023** Third Causer’IES to talk about authors publishing rights.  [#TALK]{.text-danger}
+- **March 8, 2023** [Recherche Reproductible: état des lieux](http://www.recherche-reproductible.fr/rr-days/) co-organized by myself, S.Cohen-Boulakia, F.Lemoine & A.Legrand at Institut Pasteur. 
 
 ### February 2023
 
-* **February 24, 2023** Program for the [Hypermondes](http://hypermondes.fr/) festival #3 is almost done. Topic for 2023 is "Monsters".
-* **February 20, 2023** We organized ou second Causer'IES o talk about H-index and impact factor.  [#TALK]{.text-danger}
-* **February 9, 2023** Attending the PhD defense of M.Ju at Cergy university for which I served as a reviewer. [#JURY]{.text-danger}
+- **February 24, 2023** Program for the [Hypermondes](http://hypermondes.fr/) festival #3 is almost done. Topic for 2023 is "Monsters".
+- **February 20, 2023** We organized ou second Causer'IES o talk about H-index and impact factor.  [#TALK]{.text-danger}
+- **February 9, 2023** Attending the PhD defense of M.Ju at Cergy university for which I served as a reviewer. [#JURY]{.text-danger}
 
 ### January 2023
 
-* **January 30, 2023** First meeting between Napari and Vispy to discuss the compatibility of the Vispy 2.0 API. [#Code]{.text-primary} 
-* **January 23, 2023** Visiting our colleagues in Hyderabad (India) in the framework of the Saraswati associated team. 
-* **January 2, 2023** Welcome to Gautham Venugopal who will start a 6 months internship on decision making under time pressure.
+- **January 30, 2023** First meeting between Napari and Vispy to discuss the compatibility of the Vispy 2.0 API. [#Code]{.text-primary} 
+- **January 23, 2023** Visiting our colleagues in Hyderabad (India) in the framework of the Saraswati associated team. 
+- **January 2, 2023** Welcome to Gautham Venugopal who will start a 6 months internship on decision making under time pressure.
 
 
 ## 2022
 
 ### December 2022
 
-* **December 21, 2022** Github update: 6.6k followers — Scientific Visualization book (8.6k ★) — From Python to Numpy (1.9k ★) — Matplotlib cheat sheets (6.7k ★) — 100 Numpy exercises (9.5k ★) — Matplotlib tutorial (2.6k ★) — Glumpy (1.1k ★) — Vispy (3.0k ★) — Freetype-gl (1.5k ★) - Emacs / N Λ N O  (1.9k★). [#Code]{.text-primary} 
-* **December 16, 2022** The program for "Recherche Reproductible: état
+- **December 21, 2022** Github update: 6.6k followers — Scientific Visualization book (8.6k ★) — From Python to Numpy (1.9k ★) — Matplotlib cheat sheets (6.7k ★) — 100 Numpy exercises (9.5k ★) — Matplotlib tutorial (2.6k ★) — Glumpy (1.1k ★) — Vispy (3.0k ★) — Freetype-gl (1.5k ★) - Emacs / N Λ N O  (1.9k★). [#Code]{.text-primary} 
+- **December 16, 2022** The program for "Recherche Reproductible: état
 des lieux" is [online](http://www.recherche-reproductible.fr/rr-days/)
-* **December 12, 2022** Remy Sankar, co-supervised by me and Arthur
+- **December 12, 2022** Remy Sankar, co-supervised by me and Arthur
 Leblois is defending her PhD about the dual pathway architecture
 underlying vocal learning in songbirds. [#JURY]{.text-danger}
-* **December 9, 2022** I'm organizing a round-table at Inria Bordeaux to
+- **December 9, 2022** I'm organizing a round-table at Inria Bordeaux to
 talk about "Why AI is so badass (in books, movies and games)?" with
 Natacha Vas-Deyres, Fabrice Carré, Laurent Queyssi and Nicolas Roussel. [#TALK]{.text-danger}
-* **December 7, 2022** I'll be at Centrale Lille to give an invited talk on reproducibility. [#TALK]{.text-danger}
+- **December 7, 2022** I'll be at Centrale Lille to give an invited talk on reproducibility. [#TALK]{.text-danger}
 
 ### November 2022
 
-* **November 30, 2022** [Fourth edition](https://psyphine.hypotheses.org/86) of the Psyphine days to talk about our interaction with machines.
-* **November 20 2022** Defense day for our neuroscience master students.  [#TEACH]{.text-danger}
-* **November 17 2022** Long day of review for [Swiss Universities](https://www.swissuniversities.ch/en/?r=1) Open Science call. [#JURY]{.text-danger}
-* **November 7, 2022** I'll give a talk to Inria Rennes team leaders about reproducible science (one bit at a time). [#TALK]{.text-danger}
-* **November 3-4, 2022** I'll give a Python beginner course at URFIST Bordeaux. [#TEACH]{.text-danger}
+- **November 30, 2022** [Fourth edition](https://psyphine.hypotheses.org/86) of the Psyphine days to talk about our interaction with machines.
+- **November 20 2022** Defense day for our neuroscience master students.  [#TEACH]{.text-danger}
+- **November 17 2022** Long day of review for [Swiss Universities](https://www.swissuniversities.ch/en/?r=1) Open Science call. [#JURY]{.text-danger}
+- **November 7, 2022** I'll give a talk to Inria Rennes team leaders about reproducible science (one bit at a time). [#TALK]{.text-danger}
+- **November 3-4, 2022** I'll give a Python beginner course at URFIST Bordeaux. [#TEACH]{.text-danger}
 
 ### October 2022
 
-* **October 31, 2022** Start of the coding week for our neuroscience master students.
-* **October 24-25, 2022** Team green days in Lacanau.
-* **October 19, 2022** I'll talk about open science at the first editon of [GT8 school](https://sites.google.com/view/ecoledugt8/accueil)
-* **October 17, 2022** Plenary meeting of the software branch of the open science committee. 
-* **October 3, 2022** We had youjr first CauseeIES & Coffee (Season #1, Episode #1) to talk about scientific edition and information. Today, we'll explore this question "Do I really need to pay 9500 euros to publish in Nature?"
+- **October 31, 2022** Start of the coding week for our neuroscience master students.
+- **October 24-25, 2022** Team green days in Lacanau.
+- **October 19, 2022** I'll talk about open science at the first editon of [GT8 school](https://sites.google.com/view/ecoledugt8/accueil)
+- **October 17, 2022** Plenary meeting of the software branch of the open science committee. 
+- **October 3, 2022** We had youjr first CauseeIES & Coffee (Season #1, Episode #1) to talk about scientific edition and information. Today, we'll explore this question "Do I really need to pay 9500 euros to publish in Nature?"
 
 ### September 2022
 
-* **September 23-24, 2022** [Hypermondes](https://hypermondes.fr) festival!!!
-* **September 15, 2022** We got the best paper award at [ICDL 2022](https://icdl2022.qmul.ac.uk/) for [Dual pathway architecture underlying vocal learning in songbirds](https://www.biorxiv.org/content/10.1101/2022.04.02.486814v1)
-* **September 2, 2022** Just released [sideframe](https://github.com/rougier/sideframe) for GNU Emacs.
-* **September 1, 2022** The program for the [Hypermondes](https://hypermondes.fr) festival is online.
+- **September 23-24, 2022** [Hypermondes](https://hypermondes.fr) festival!!!
+- **September 15, 2022** We got the best paper award at [ICDL 2022](https://icdl2022.qmul.ac.uk/) for [Dual pathway architecture underlying vocal learning in songbirds](https://www.biorxiv.org/content/10.1101/2022.04.02.486814v1)
+- **September 2, 2022** Just released [sideframe](https://github.com/rougier/sideframe) for GNU Emacs.
+- **September 1, 2022** The program for the [Hypermondes](https://hypermondes.fr) festival is online.
 
 ### August 2022
 
-* **August 6, 2022** Just released a [minibuffer header](https://github.com/rougier/minibuffer-header) for GNU Emacs. It is available on ELPA.
+- **August 6, 2022** Just released a [minibuffer header](https://github.com/rougier/minibuffer-header) for GNU Emacs. It is available on ELPA.
 
 ### July 2022
 
-* **July 15, 2022** Joined the [International Symposium on Benchmarking, Measuring and Optimizing](https://bench2022.hotcrp.com) program committee.
-* **July 8, 2022** Victor Leroy defended his internship , co-supervised by myself and Nicolas Mallet.
-* **July 7, 2022** [Short interview](https://www.syntopikon.com/workflows/nicolas-rougier/) by Yuvrak Singh about my work on GNU Emacs.
-* **July 6, 2022** I'll talk about Open Science for the [Hacking Cognition Summer school](https://hacking-cognition.u-paris-sciences.fr/program/) in Paris. [#TALK]{.text-danger}
+- **July 15, 2022** Joined the [International Symposium on Benchmarking, Measuring and Optimizing](https://bench2022.hotcrp.com) program committee.
+- **July 8, 2022** Victor Leroy defended his internship , co-supervised by myself and Nicolas Mallet.
+- **July 7, 2022** [Short interview](https://www.syntopikon.com/workflows/nicolas-rougier/) by Yuvrak Singh about my work on GNU Emacs.
+- **July 6, 2022** I'll talk about Open Science for the [Hacking Cognition Summer school](https://hacking-cognition.u-paris-sciences.fr/program/) in Paris. [#TALK]{.text-danger}
 
 ### June 2022
 
-* **June 30, 2022** Our paper [Create Efficient and Complex Reservoir Computing Architectures with ReservoirPy](https://hal.inria.fr/hal-03761440/file/TrouvainHinaut2022_SAB_HAL-v1.pdf) has been accepted to SAB 2022. [#ARTICLE]{.text-danger}
-* **June 22, 2022** The final program for the [Hypermondes](http://hypermondes.fr/) festival (theme "Utopia") is finished and will be soon be online.
-* **June 15, 2022** Our paper  [Dual pathway architecture underlying vocal learning in songbirds](https://www.biorxiv.org/content/10.1101/2022.04.02.486814v1) has been accepted at [ICDL 2022](https://icdl2022.qmul.ac.uk/). [#ARTICLE]{.text-danger}
-* **June 14, 2022** Psyphine green days, celebrating ten year of multidisciplinary research between computer science, neuroscience, psychology, linguistic, philosophy and anthropology.
-* **June 1, 2022** Our paper [From concrete to abstract rules : A computational sketch](https://hal.inria.fr/hal-03695814) has been accepted at Brain Informatics 2022. [#ARTICLE]{.text-danger}
+- **June 30, 2022** Our paper [Create Efficient and Complex Reservoir Computing Architectures with ReservoirPy](https://hal.inria.fr/hal-03761440/file/TrouvainHinaut2022_SAB_HAL-v1.pdf) has been accepted to SAB 2022. [#ARTICLE]{.text-danger}
+- **June 22, 2022** The final program for the [Hypermondes](http://hypermondes.fr/) festival (theme "Utopia") is finished and will be soon be online.
+- **June 15, 2022** Our paper  [Dual pathway architecture underlying vocal learning in songbirds](https://www.biorxiv.org/content/10.1101/2022.04.02.486814v1) has been accepted at [ICDL 2022](https://icdl2022.qmul.ac.uk/). [#ARTICLE]{.text-danger}
+- **June 14, 2022** Psyphine green days, celebrating ten year of multidisciplinary research between computer science, neuroscience, psychology, linguistic, philosophy and anthropology.
+- **June 1, 2022** Our paper [From concrete to abstract rules : A computational sketch](https://hal.inria.fr/hal-03695814) has been accepted at Brain Informatics 2022. [#ARTICLE]{.text-danger}
 
 ### May 2022
 
-* **May 18, 2022** I'll give a talk about dataviz at [INSEP](https://www.insep.fr/fr). [#TALK]{.text-danger}.
-* **May 18, 2022** Attenting the [Swiss universities Open Science workshop](https://www.swissuniversities.ch/en/topics/digitalisation/open-science-2021-2024) for preparing expertise.  [#JURY]{.text-danger}. [#JURY]{.text-danger}
-* **May 10, 2022** Two days training in economic intelligence at [IHEDN](https://ihedn.fr/) (Paris) for the French Open Science Committee. 
-* **May 4, 2022** Attending the PhD thesis of Nathalie Azevedo as a reviewer. [#JURY]{.text-danger}
+- **May 18, 2022** I'll give a talk about dataviz at [INSEP](https://www.insep.fr/fr). [#TALK]{.text-danger}.
+- **May 18, 2022** Attenting the [Swiss universities Open Science workshop](https://www.swissuniversities.ch/en/topics/digitalisation/open-science-2021-2024) for preparing expertise.  [#JURY]{.text-danger}. [#JURY]{.text-danger}
+- **May 10, 2022** Two days training in economic intelligence at [IHEDN](https://ihedn.fr/) (Paris) for the French Open Science Committee. 
+- **May 4, 2022** Attending the PhD thesis of Nathalie Azevedo as a reviewer. [#JURY]{.text-danger}
 
 ### April 2022
 
-* **April 29, 2022** First meeting for the machine learning aspect of [GPR 2030](https://www.bordeaux-neurocampus.fr/recherche/gpr-brain_2030/)
-* **April 13, 2022** First meeting of the Free Research Software college for the Commitee for Open Science. I'll co-supervise the working group on international aspects.
-* **April 7, 2022** New preprint available [From implicit learning to explicit representations](https://arxiv.org/abs/2204.02484). [#ARTICLE]{.text-danger}
-* **April 3, 2022** New preprint available [Dual pathway architecture underlying vocal learning in songbirds](https://www.biorxiv.org/content/10.1101/2022.04.02.486814v1). [#ARTICLE]{.text-danger}
+- **April 29, 2022** First meeting for the machine learning aspect of [GPR 2030](https://www.bordeaux-neurocampus.fr/recherche/gpr-brain_2030/)
+- **April 13, 2022** First meeting of the Free Research Software college for the Commitee for Open Science. I'll co-supervise the working group on international aspects.
+- **April 7, 2022** New preprint available [From implicit learning to explicit representations](https://arxiv.org/abs/2204.02484). [#ARTICLE]{.text-danger}
+- **April 3, 2022** New preprint available [Dual pathway architecture underlying vocal learning in songbirds](https://www.biorxiv.org/content/10.1101/2022.04.02.486814v1). [#ARTICLE]{.text-danger}
 
 ### March 2022
 
-* **March 27, 2022** I published the [Reviewer manifesto](https://github.com/rougier/reviewer-manifesto). [#ARTICLE]{.text-danger}
-* **March 18, 2022** Remya Sankar will present our work at [Cosyne](https://www.cosyne.org/):  Dual pathway architecture in songbirds boosts sensorimotor learning. [#TALK]{.text-danger}
-* **March 17, 2022** Fjola Hyseni will present our work at [Cosyne](https://www.cosyne.org/): Temporal Dynamics in an Attractor Model of the Songbird’s Premotor Nucleus.  [#TALK]{.text-danger}
-* **March 17, 2022** I'll be present at [CinéScience](https://www.cinemerignac.fr/film/376572/) for commenting the documentary "Cinq nouvelles du cerveau"
+- **March 27, 2022** I published the [Reviewer manifesto](https://github.com/rougier/reviewer-manifesto). [#ARTICLE]{.text-danger}
+- **March 18, 2022** Remya Sankar will present our work at [Cosyne](https://www.cosyne.org/):  Dual pathway architecture in songbirds boosts sensorimotor learning. [#TALK]{.text-danger}
+- **March 17, 2022** Fjola Hyseni will present our work at [Cosyne](https://www.cosyne.org/): Temporal Dynamics in an Attractor Model of the Songbird’s Premotor Nucleus.  [#TALK]{.text-danger}
+- **March 17, 2022** I'll be present at [CinéScience](https://www.cinemerignac.fr/film/376572/) for commenting the documentary "Cinq nouvelles du cerveau"
 
 ### February 2022
 
-* **February 23, 2022** Joined the International Workshop on Self-Organizing Maps and Learning Vector Quantization, Clustering and Data Visualization [(WSOM+ 2022)](https://wsom22.fel.cvut.cz/) program committee.
-* **February 14, 2022** Movie from the AI trial is [online](https://www.youtube.com/watch?v=7sv-fuQrOcI). 
-* **February 4, 2022** Joined the Cognitive Science Conference ([CogSci 2022](https://cognitivesciencesociety.org/) programm committee.
+- **February 23, 2022** Joined the International Workshop on Self-Organizing Maps and Learning Vector Quantization, Clustering and Data Visualization [(WSOM+ 2022)](https://wsom22.fel.cvut.cz/) program committee.
+- **February 14, 2022** Movie from the AI trial is [online](https://www.youtube.com/watch?v=7sv-fuQrOcI). 
+- **February 4, 2022** Joined the Cognitive Science Conference ([CogSci 2022](https://cognitivesciencesociety.org/) programm committee.
 
 ### January 2022
 
-* **January 31, 2022** Two abstracts accepted at COSYNE 2022: "Dual pathway architecture in songbirds boosts sensorimotor learning" & "Temporal Dynamics in an Attractor Model of the Songbird’s Premotor Nucleus". [#ARTICLE]{.text-danger}
-* **January 11, 2022** I'll give a talk about Scientific Visualization at [Open Planetary Lunch](https://www.openplanetary.org/vlunch). [#TALK]{.text-danger}
-* **January 8, 2022** The French Reproducibility Network in [online](https://www.recherche-reproductible.fr/)
+- **January 31, 2022** Two abstracts accepted at COSYNE 2022: "Dual pathway architecture in songbirds boosts sensorimotor learning" & "Temporal Dynamics in an Attractor Model of the Songbird’s Premotor Nucleus". [#ARTICLE]{.text-danger}
+- **January 11, 2022** I'll give a talk about Scientific Visualization at [Open Planetary Lunch](https://www.openplanetary.org/vlunch). [#TALK]{.text-danger}
+- **January 8, 2022** The French Reproducibility Network in [online](https://www.recherche-reproductible.fr/)
 
 
 ## 2021
 
 ### December 2021
 
-* **December 24, 2021** Github update: 4.2k followers — Scientific Visualization book (6.4k ★) — From Python to Numpy (1.7k ★) — Matplotlib cheat sheets (5.8k ★) — 100 Numpy exercises (7.7k ★) — Matplotlib tutorial (2.2k ★) — Glumpy (1k ★) — Vispy (2.8k ★) — Freetype-gl (1.4k ★) - Emacs / N Λ N O  (1.4k★). [#Code]{.text-primary} 
-* **December 22, 2021** I just entered the top 500 on GitHub (out of 80 million users). [#Code]{.text-primary} 
-* **December 20, 2021** I've released a GNU Emacs [notebook-mode](https://github.com/rougier/notebook-mode) for orgmode. [#Code]{.text-primary} 
-* **December 10, 2021** I've been invited to give a talk on AI for the conference
+- **December 24, 2021** Github update: 4.2k followers — Scientific Visualization book (6.4k ★) — From Python to Numpy (1.7k ★) — Matplotlib cheat sheets (5.8k ★) — 100 Numpy exercises (7.7k ★) — Matplotlib tutorial (2.2k ★) — Glumpy (1k ★) — Vispy (2.8k ★) — Freetype-gl (1.4k ★) - Emacs / N Λ N O  (1.4k★). [#Code]{.text-primary} 
+- **December 22, 2021** I just entered the top 500 on GitHub (out of 80 million users). [#Code]{.text-primary} 
+- **December 20, 2021** I've released a GNU Emacs [notebook-mode](https://github.com/rougier/notebook-mode) for orgmode. [#Code]{.text-primary} 
+- **December 10, 2021** I've been invited to give a talk on AI for the conference
 [L'intelligence artificielle dans le domaine de la santé](https://cerfaps.u-bordeaux.fr/Recherche/Manifestations-scientifiques/Ordre-chronologique/L-intelligence-artificielle-dans-le-domaine-de-la-sante). [#TALK]{.text-danger}
-* **December 9, 2021** I've just released an experimental [GNU Emacs notebook](https://github.com/rougier/notebook-mode). [#Code]{.text-primary} 
-* **December 9, 2021** Lise Aubin's PhD defense for which I served as reviewer. [#JURY]{.text-danger}
-* **December 7, 2021** Louis Annabi's PhD defense for which I served as examiner. [#JURY]{.text-danger}
+- **December 9, 2021** I've just released an experimental [GNU Emacs notebook](https://github.com/rougier/notebook-mode). [#Code]{.text-primary} 
+- **December 9, 2021** Lise Aubin's PhD defense for which I served as reviewer. [#JURY]{.text-danger}
+- **December 7, 2021** Louis Annabi's PhD defense for which I served as examiner. [#JURY]{.text-danger}
 
 ### November 2021
 
-* **November 29, 2021** Almost 100,000 downloads in 2 weeks for my book
+- **November 29, 2021** Almost 100,000 downloads in 2 weeks for my book
 on scientific visualization (see
 [hal.inria.fr/hal-03427242/](https://hal.inria.fr/hal-03427242/)). Seems to be a huge success. [#ARTICLE]{.text-danger}
-* **November 24, 2021** Team green days (2) in Gradignan.
-* **November 22, 2021** Our replication of A Reservoir Computing Model of Reward-Modulated Motor Learning and Automaticity is [online](https://rescience.github.io/bibliography/Sankar_2021.html). [#ARTICLE]{.text-danger}
-* **November 23, 2021** We got a small grant from FNSO (Fond National pour la Science Ouver) to migrate ReScience C to [open journals](https://www.theoj.org/). 
-* **November 19, 2021** I attended the Emacs conference over the week-end. Great conference with many great talks. Mine was [on the design of text editors](https://arxiv.org/abs/2008.06030), using Emacs, of course. [#TALK]{.text-danger}
-* **November 15, 2021** My book on scientific visualization is [online](https://https://www.labri.fr/perso/nrougier/scientific-visualization.html) and you can [buy](https://www.amazon.com/dp/2957990105) a printed edition. [#ARTICLE]{.text-danger}
-* **November 8, 2021** We organized our first [R4 workshop](https://r4-robotique.fr/workshop) in Bidard (Pays Basque).
+- **November 24, 2021** Team green days (2) in Gradignan.
+- **November 22, 2021** Our replication of A Reservoir Computing Model of Reward-Modulated Motor Learning and Automaticity is [online](https://rescience.github.io/bibliography/Sankar_2021.html). [#ARTICLE]{.text-danger}
+- **November 23, 2021** We got a small grant from FNSO (Fond National pour la Science Ouver) to migrate ReScience C to [open journals](https://www.theoj.org/). 
+- **November 19, 2021** I attended the Emacs conference over the week-end. Great conference with many great talks. Mine was [on the design of text editors](https://arxiv.org/abs/2008.06030), using Emacs, of course. [#TALK]{.text-danger}
+- **November 15, 2021** My book on scientific visualization is [online](https://https://www.labri.fr/perso/nrougier/scientific-visualization.html) and you can [buy](https://www.amazon.com/dp/2957990105) a printed edition. [#ARTICLE]{.text-danger}
+- **November 8, 2021** We organized our first [R4 workshop](https://r4-robotique.fr/workshop) in Bidard (Pays Basque).
 
 ### October 2021
 
-* **October 29, 2021** [Knowledge extraction from the learning of sequences in a long short term memory (LSTM) architecture](https://www.sciencedirect.com/science/article/abs/pii/S0950705121009199?via%3Dihub) has been published. [#ARTICLE]{.text-danger}
-* **October 27, 2021** Opening of the conference
+- **October 29, 2021** [Knowledge extraction from the learning of sequences in a long short term memory (LSTM) architecture](https://www.sciencedirect.com/science/article/abs/pii/S0950705121009199?via%3Dihub) has been published. [#ARTICLE]{.text-danger}
+- **October 27, 2021** Opening of the conference
 [Drôles d'objets, Un nouvel art de faire](https://drolesdobjets20.sciencesconf.org/) that I'm co-organizing with the Psyphine group. [#TALK]{.text-danger}
-* **October 25, 2021** Our paper "Computational benefits of structural plasticity, illustrated in songbirds" has been accepted in Neuroscience and Biobehavioral Reviews. [#ARTICLE]{.text-danger}
-* **October 14, 2021** I've been invited to give a talk on embodied cognition at the [Journées Scientifiques](https://journees-scientifiques.fr/?202110CorpsApp). [#TALK]{.text-danger}
-* **October 12, 2021** [nano-agenda.el](https://github.com/rougier/nano-agenda) is now on [ELPA](https://elpa.gnu.org/packages/nano-agenda.html). [#Code]{.text-primary} 
-* **October 3, 2021** [nano-theme.el](https://github.com/rougier/nano-theme) is now on [ELPA](https://elpa.gnu.org/packages/nano-theme.html). [#Code]{.text-primary} 
-* **October 1, 2021** [AI Trial (in French)](https://www.fetedelascience.fr/le-proces-de-l-intelligence-artificielle) to be played during the science festival.
-* **October 1, 2021** Welcome to Naomi Chaix who will start her PhD under the co-supervision of my self and Thomas Boraud.
+- **October 25, 2021** Our paper "Computational benefits of structural plasticity, illustrated in songbirds" has been accepted in Neuroscience and Biobehavioral Reviews. [#ARTICLE]{.text-danger}
+- **October 14, 2021** I've been invited to give a talk on embodied cognition at the [Journées Scientifiques](https://journees-scientifiques.fr/?202110CorpsApp). [#TALK]{.text-danger}
+- **October 12, 2021** [nano-agenda.el](https://github.com/rougier/nano-agenda) is now on [ELPA](https://elpa.gnu.org/packages/nano-agenda.html). [#Code]{.text-primary} 
+- **October 3, 2021** [nano-theme.el](https://github.com/rougier/nano-theme) is now on [ELPA](https://elpa.gnu.org/packages/nano-theme.html). [#Code]{.text-primary} 
+- **October 1, 2021** [AI Trial (in French)](https://www.fetedelascience.fr/le-proces-de-l-intelligence-artificielle) to be played during the science festival.
+- **October 1, 2021** Welcome to Naomi Chaix who will start her PhD under the co-supervision of my self and Thomas Boraud.
 
 ### September 2021
 
-* **September 30, 2021** I'll participate to the 8th edition of the
+- **September 30, 2021** I'll participate to the 8th edition of the
 URFIST symposium about [numerical methods and scientific practices](https://urfistjne2021.univ-lyon1.fr/). [#TALK]{.text-danger}
-* **September 28, 2021** [svg-lib.el](https://github.com/rougier/svg-lib) is now on [ELPA](https://elpa.gnu.org/packages/svg-lib.html).[#Code]{.text-primary} 
-* **September 21, 2021** Our climackathon event get rewarded by the University of Bordeaux (["Talents U"](https://www.bordeaux-neurocampus.fr/trophees-talents-u-frederic-alexandre-et-nicolas-rougier-parmi-les-laureats/)).
-* **September 13, 2021** First meeting of the French network of international Open Science experts.
-* **September 1, 2021**  Back to the lab!
+- **September 28, 2021** [svg-lib.el](https://github.com/rougier/svg-lib) is now on [ELPA](https://elpa.gnu.org/packages/svg-lib.html).[#Code]{.text-primary} 
+- **September 21, 2021** Our climackathon event get rewarded by the University of Bordeaux (["Talents U"](https://www.bordeaux-neurocampus.fr/trophees-talents-u-frederic-alexandre-et-nicolas-rougier-parmi-les-laureats/)).
+- **September 13, 2021** First meeting of the French network of international Open Science experts.
+- **September 1, 2021**  Back to the lab!
 
 ### August 2021
 
-* **August 31, 2021** We got a grant from the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/eoss/proposals/vispy-2-0-next-generation-interactive-scientific-visualization-in-python/) to work on Vispy 2.0! [Grant]{.badge .rounded-pill .bg-primary} 
-* **August 22, 2021** Start of the [13th Advanced Scientific Python Programming](https://aspp.school/wiki/) Summer school in Bordeaux. [#TEACH]{.text-danger}
+- **August 31, 2021** We got a grant from the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/eoss/proposals/vispy-2-0-next-generation-interactive-scientific-visualization-in-python/) to work on Vispy 2.0! [Grant]{.badge .rounded-pill .bg-primary} 
+- **August 22, 2021** Start of the [13th Advanced Scientific Python Programming](https://aspp.school/wiki/) Summer school in Bordeaux. [#TEACH]{.text-danger}
 
 ### July 2021  
 
-* **July 15, 2021** [Interview](https://dataanalyticspost.com/nicolas-rougier-progres-reproductibilite-des-codes) for the Data Analytics Post (in French). [#CHAT]{.text-danger}
-* **July 5, 2021** [Computational Neuroscience Crash Course](https://github.com/bordeaux-neurocampus/CNCC-2021-beginner) starts.  [#TEACH]{.text-danger}
-* **July 2, 2021** [Anthologie Hypermondes #1 Robots](https://hypermondes.fr/anthologie-hypermondes-1-robots/) announced!
+- **July 15, 2021** [Interview](https://dataanalyticspost.com/nicolas-rougier-progres-reproductibilite-des-codes) for the Data Analytics Post (in French). [#CHAT]{.text-danger}
+- **July 5, 2021** [Computational Neuroscience Crash Course](https://github.com/bordeaux-neurocampus/CNCC-2021-beginner) starts.  [#TEACH]{.text-danger}
+- **July 2, 2021** [Anthologie Hypermondes #1 Robots](https://hypermondes.fr/anthologie-hypermondes-1-robots/) announced!
   
 ### June 2021  
 
-* **June 25, 2021** Working on a [Matplotlib course](https://github.com/NFAcademy/2021_course_dev-rougier/tree/main/notebooks) for NumFocus Academy to be launched early September 2021. [#TEACH]{.text-danger}
-* **June 18, 2021** Final dates for the [hypermondes](http://hypermondes.fr/) festival have been announced: Friday 1st October to Sunday 3rd October 2021.
-* **June 16, 2021** I've been appointed Director of Research at Inria.
-* **June 14, 2021** I've been nominated permanent expert for the Open
+- **June 25, 2021** Working on a [Matplotlib course](https://github.com/NFAcademy/2021_course_dev-rougier/tree/main/notebooks) for NumFocus Academy to be launched early September 2021. [#TEACH]{.text-danger}
+- **June 18, 2021** Final dates for the [hypermondes](http://hypermondes.fr/) festival have been announced: Friday 1st October to Sunday 3rd October 2021.
+- **June 16, 2021** I've been appointed Director of Research at Inria.
+- **June 14, 2021** I've been nominated permanent expert for the Open
 Research Europe publishing platform (for French Ministère de
 l’Enseignement Supérieur, de la Recherche et de l’Innovation)
-* **June 8, 2021** Get my first vaccine shot for Sars-Cov2.
-* **June 8, 2021** Slides for "The Art of Braincrafting" are [online](https://www.slideshare.net/NicolasRougier1/the-art-of-braincrafting). 
-* **June 4, 2021** I'll give a keynote lecture at the European Neuroscience Conference by Doctoral Students ([ENCODS](https://www.fens.org/Training/ENCODS/ENCODS2021/)) about the Art of Braincrafting. [#TALK]{.text-danger}
-* **June 2, 2021** Nice [Report](https://inacheve-dimprimer.net/articles/2021-05-27-nicolas-rougier.html) on my talk for Inachevé d'imprimer (in French).
+- **June 8, 2021** Get my first vaccine shot for Sars-Cov2.
+- **June 8, 2021** Slides for "The Art of Braincrafting" are [online](https://www.slideshare.net/NicolasRougier1/the-art-of-braincrafting). 
+- **June 4, 2021** I'll give a keynote lecture at the European Neuroscience Conference by Doctoral Students ([ENCODS](https://www.fens.org/Training/ENCODS/ENCODS2021/)) about the Art of Braincrafting. [#TALK]{.text-danger}
+- **June 2, 2021** Nice [Report](https://inacheve-dimprimer.net/articles/2021-05-27-nicolas-rougier.html) on my talk for Inachevé d'imprimer (in French).
 
 ### May 2021
   
-* **May 27, 2021** I've been invited by [Inachevé
+- **May 27, 2021** I've been invited by [Inachevé
 d'imprimer](https://inacheve-dimprimer.net) group to talk about my
 typographic perenigrations and Emacs hacking. [#TALK]{.text-danger}
-* **May 26, 2021** Our article "Randomized Self-Organizing Map" is online at [Neural Computation](https://direct.mit.edu/neco/article/doi/10.1162/neco_a_01406/101860/Randomized-Self-Organizing-Map) (open access). [#ARTICLE]{.text-danger}
-* **May 17, 2021** Just reached 3k followers on GitHub.
-* **May 10, 2021** I've been invited by the "Société Informatique de France" to talk about [long term reproducibility](https://www.societe-informatique-de-france.fr/journee-reproductibilite). [#TALK]{.text-danger}
-* **May 5, 2021** We (with [Cyrille Rossant](https://cyrille.rossant.net/)) will publish a department article in [Computer in Science & Engineering](https://www.computer.org/csdl/magazine/cs/2021/02) about [Datoviz](https://datoviz.org/) and the future of [Vispy](https://vispy.org/). [#ARTICLE]{.text-danger}
-* **May 2, 2021** The [Bordeaux Neurocampus](https://github.com/bordeaux-neurocampus) GitHub organization is now live and will host our computational neuroscience crash course in association with the [Bordeaux Neurocampus Graduate School](https://neurocampus-graduateprogram.u-bordeaux.fr).
-* **May 1, 2021** Our Vispy/CZI grant passed first phase. We now have 2 week to write the full proposal.
+- **May 26, 2021** Our article "Randomized Self-Organizing Map" is online at [Neural Computation](https://direct.mit.edu/neco/article/doi/10.1162/neco_a_01406/101860/Randomized-Self-Organizing-Map) (open access). [#ARTICLE]{.text-danger}
+- **May 17, 2021** Just reached 3k followers on GitHub.
+- **May 10, 2021** I've been invited by the "Société Informatique de France" to talk about [long term reproducibility](https://www.societe-informatique-de-france.fr/journee-reproductibilite). [#TALK]{.text-danger}
+- **May 5, 2021** We (with [Cyrille Rossant](https://cyrille.rossant.net/)) will publish a department article in [Computer in Science & Engineering](https://www.computer.org/csdl/magazine/cs/2021/02) about [Datoviz](https://datoviz.org/) and the future of [Vispy](https://vispy.org/). [#ARTICLE]{.text-danger}
+- **May 2, 2021** The [Bordeaux Neurocampus](https://github.com/bordeaux-neurocampus) GitHub organization is now live and will host our computational neuroscience crash course in association with the [Bordeaux Neurocampus Graduate School](https://neurocampus-graduateprogram.u-bordeaux.fr).
+- **May 1, 2021** Our Vispy/CZI grant passed first phase. We now have 2 week to write the full proposal.
 
 ### April 2021
 
-* **April 27, 2021** A modern and efficient mail client using [Emacs and mu4e](https://www.reddit.com/r/emacs/comments/mzgsm0/mu4e_look_and_feel). [#Code]{.text-primary} 
-* **April 24, 2021** I got the [Mars 2020 Helicopter Contributor](https://github.com/readme/nasa-ingenuity-helicopter) badge on GitHub! [#Code]{.text-primary} 
-* **April 15, 2021** Application is now [opened](https://aap.u-bordeaux.fr/siaap/pub/appel/view/166) for our PhD position "Bags O' Neurons". 
-* **April 14, 2021** Output of the climackathon is [online](https://www.u-bordeaux.fr/Actualites/De-la-vie-de-campus/Climackathon-une-premiere-edition-reussie)
-* **April 10, 2021** Our paper (with S.Dagar and F.Alexandre) has been accepted at IJCNN with one of the best reviews I ever received. [#ARTICLE]{.text-danger}
-* **April 8, 2021** We (with T.Boraud) got a PhD grant from the ANR AI
+- **April 27, 2021** A modern and efficient mail client using [Emacs and mu4e](https://www.reddit.com/r/emacs/comments/mzgsm0/mu4e_look_and_feel). [#Code]{.text-primary} 
+- **April 24, 2021** I got the [Mars 2020 Helicopter Contributor](https://github.com/readme/nasa-ingenuity-helicopter) badge on GitHub! [#Code]{.text-primary} 
+- **April 15, 2021** Application is now [opened](https://aap.u-bordeaux.fr/siaap/pub/appel/view/166) for our PhD position "Bags O' Neurons". 
+- **April 14, 2021** Output of the climackathon is [online](https://www.u-bordeaux.fr/Actualites/De-la-vie-de-campus/Climackathon-une-premiere-edition-reussie)
+- **April 10, 2021** Our paper (with S.Dagar and F.Alexandre) has been accepted at IJCNN with one of the best reviews I ever received. [#ARTICLE]{.text-danger}
+- **April 8, 2021** We (with T.Boraud) got a PhD grant from the ANR AI
   call. We'll work on the newt in order to define the original
   blueprint of the decision-making network in vertebrates.
-* **April 7, 2021** Alexandre Zenon will defend his Habilitation on
+- **April 7, 2021** Alexandre Zenon will defend his Habilitation on
   "Formalisation of cognitive resources as information gain". I've
   reviewed the manuscript and I'm now eager to hear him. [#JURY]{.text-danger}
-* **April 1, 2021** A new preprint [A Mathematical Bias](https://hal.archives-ouvertes.fr/hal-03184805) authored with Cédric Brun and Thomas Boraud. [#ARTICLE]{.text-danger}
+- **April 1, 2021** A new preprint [A Mathematical Bias](https://hal.archives-ouvertes.fr/hal-03184805) authored with Cédric Brun and Thomas Boraud. [#ARTICLE]{.text-danger}
 
 ### March 2021
 
-* **March 27, 2021** Just finished my chapter for the Robot Anthology
+- **March 27, 2021** Just finished my chapter for the Robot Anthology
   that will be published by [Les Moutons électriques](https://www.moutons-electriques.fr/) in 2021. [#ARTICLE]{.text-danger}
-* **March 17, 2021** We received the draft of our book "Que prêtons-nous aux machines" to be published by the Presse Universitaires de Nancy in 2021. [#ARTICLE]{.text-danger}
-* **March 12-13, 2021** I'll participate to the [first climackathon](https://www.u-bordeaux.fr/Actualites/De-la-vie-de-campus/Premier-climackathon-pour-l-universite-de-Bordeaux) of the University of Bordeaux. Our role, with F.Alexandre, will be to enlighten participants on decision making and habits.
-* **March 11, 2021** Our correspondence "Self-Organizing Machine Architecture" has been accepted for the [ERCIM News](https://ercim-news.ercim.eu/) issue on brain inspired computing. [#ARTICLE]{.text-danger}
-* **March 11, 2021** Our correspondence "Higher Cognitive Functions in Bio-Inspired Artificial Intelligence" has been accepted for the [ERCIM News](https://ercim-news.ercim.eu/) issue on brain inspired computing. [#ARTICLE]{.text-danger}
-* **March 4, 2021** Our [Randomized Self Organizing Map](https://arxiv.org/abs/2011.09534) article has been formally accepted at Neural Computation. [#ARTICLE]{.text-danger}
-* **March 2, 2021** Our ANR pre-proposal on the cognitive biases accross primate
+- **March 17, 2021** We received the draft of our book "Que prêtons-nous aux machines" to be published by the Presse Universitaires de Nancy in 2021. [#ARTICLE]{.text-danger}
+- **March 12-13, 2021** I'll participate to the [first climackathon](https://www.u-bordeaux.fr/Actualites/De-la-vie-de-campus/Premier-climackathon-pour-l-universite-de-Bordeaux) of the University of Bordeaux. Our role, with F.Alexandre, will be to enlighten participants on decision making and habits.
+- **March 11, 2021** Our correspondence "Self-Organizing Machine Architecture" has been accepted for the [ERCIM News](https://ercim-news.ercim.eu/) issue on brain inspired computing. [#ARTICLE]{.text-danger}
+- **March 11, 2021** Our correspondence "Higher Cognitive Functions in Bio-Inspired Artificial Intelligence" has been accepted for the [ERCIM News](https://ercim-news.ercim.eu/) issue on brain inspired computing. [#ARTICLE]{.text-danger}
+- **March 4, 2021** Our [Randomized Self Organizing Map](https://arxiv.org/abs/2011.09534) article has been formally accepted at Neural Computation. [#ARTICLE]{.text-danger}
+- **March 2, 2021** Our ANR pre-proposal on the cognitive biases accross primate
     species has been accepted. If proposal is accepted, we'll have a unique
     opportunity to study the phylogenesis of decision making. 
 
 ### February 2021
 
-* **February 25 & 26, 2021** VisPy sprint with three of the four original
+- **February 25 & 26, 2021** VisPy sprint with three of the four original
   co-founders (including me). Lots of issue closed & pull request
   merged and talks about the future of Vispy. [#Code]{.text-primary} 
-* **February 12, 2021** ReScience C has its own [wikipedia page](https://en.wikipedia.org/wiki/ReScience_C).
-* **February 2, 2021**We received our very first submission to [ReScience X](http://rescience.org/x). The journal is now officially launched!
+- **February 12, 2021** ReScience C has its own [wikipedia page](https://en.wikipedia.org/wiki/ReScience_C).
+- **February 2, 2021**We received our very first submission to [ReScience X](http://rescience.org/x). The journal is now officially launched!
 
 ### January 2021
 
-* **January 26-27, 2021** HCERES Evaluation (IMN). Online.
-* **January 20-21, 2021** HCERES Evaluation (Labri). Online.
-* **January 18-22, 2021** I'll give a course on data visualization at
+- **January 26-27, 2021** HCERES Evaluation (IMN). Online.
+- **January 20-21, 2021** HCERES Evaluation (Labri). Online.
+- **January 18-22, 2021** I'll give a course on data visualization at
   the [AI for Industry](https://www.ai4industry.fr/) workshop. [#TEACH]{.text-danger} 
-* **January 16, 2021** Nightly curfew in metropolitan France, from 6pm to 6am.
+- **January 16, 2021** Nightly curfew in metropolitan France, from 6pm to 6am.
 
 
 ## 2020
 
 ### December 2020
 
-* **December 15, 2020** Nightly curfew in metropolitan France, from 8pm to 6am.
+- **December 15, 2020** Nightly curfew in metropolitan France, from 8pm to 6am.
 
 ### November 2020
 
-* **November 29, 2020** Just started the [GNU Emacs / N Λ N O](https://github.com/rougier/nano-emacs) project. [#Code]{.text-primary} 
-* **November 26, 2020** I'll give a talk (online) for the 
+- **November 29, 2020** Just started the [GNU Emacs / N Λ N O](https://github.com/rougier/nano-emacs) project. [#Code]{.text-primary} 
+- **November 26, 2020** I'll give a talk (online) for the 
     [Science et science-fiction, quelle histoire !](https://www.maisons-pour-la-science.org/node/1481030) course proposed by [Maison pour la Science en Aquitaine](https://www.maisons-pour-la-science.org/). [#TALK]{.text-danger}
-* **November 25, 2020** Participation to the first workshop ont the "Co-evolution of Science and Science-Fiction" from the Origins project.
-* **November 20, 2020** Just published [Intelligence artificielle : entre science et fiction](https://theconversation.com/intelligence-artificielle-entre-science-et-fiction-147281) with Marie Coris and Natacha Vas-Deyres. [#ARTICLE]{.text-danger}
-* **November 20, 2020** New preprint available [Randomized Self Organizing Map](https://arxiv.org/abs/2011.09534). [Article]{.badge .rounded-pill .bg-dar}k
-* **November 19, 2020** My PhD student, Anthony Strock, will defend his thesis
+- **November 25, 2020** Participation to the first workshop ont the "Co-evolution of Science and Science-Fiction" from the Origins project.
+- **November 20, 2020** Just published [Intelligence artificielle : entre science et fiction](https://theconversation.com/intelligence-artificielle-entre-science-et-fiction-147281) with Marie Coris and Natacha Vas-Deyres. [#ARTICLE]{.text-danger}
+- **November 20, 2020** New preprint available [Randomized Self Organizing Map](https://arxiv.org/abs/2011.09534). [Article]{.badge .rounded-pill .bg-dar}k
+- **November 19, 2020** My PhD student, Anthony Strock, will defend his thesis
   on the modelling of working memory with reservoir computing.  [#JURY]{.text-danger}
-* **November 18, 2020** Just released [mu4e dashboard](https://github.com/rougier/mu4e-dashboard) using org mode. [#Code]{.text-primary} 
-* **November 2, 2020** Our preprint "Stability analysis of a neural field
+- **November 18, 2020** Just released [mu4e dashboard](https://github.com/rougier/mu4e-dashboard) using org mode. [#Code]{.text-primary} 
+- **November 2, 2020** Our preprint "Stability analysis of a neural field
   self-organizing map" has been accepted at the Journal of Mathematical
   Neuroscience. [#ARTICLE]{.text-danger}
 
 ### October 2020
 
-* **October 29, 2020** Second global lockdown in France
-* **October 28, 2020** Welcome to Christopher Stevens, a visiting PhD who will
+- **October 29, 2020** Second global lockdown in France
+- **October 28, 2020** Welcome to Christopher Stevens, a visiting PhD who will
   work with me on a computational model on confirmation bias in decision making.
-* **October 17, 2020** Just published a [SVG tag minor mode](https://github.com/rougier/svg-tag-mode) for Emacs. [#Code]{.text-primary} 
-* **October 12, 2020** Github update: 2k followers — 
+- **October 17, 2020** Just published a [SVG tag minor mode](https://github.com/rougier/svg-tag-mode) for Emacs. [#Code]{.text-primary} 
+- **October 12, 2020** Github update: 2k followers — 
 [Scientific Visualization book](https://github.com/rougier/scientific-visualization-book) (1.4k ★) — [From Python to Numpy](https://github.com/rougier/from-python-to-numpy) (1.5k ★) — [Matplotlib cheat sheets](https://github.com/matplotlib/cheatsheets) (2.8k ★) — [100 Numpy exercises](https://github.com/rougier/numpy-100) (5.8k ★) — [Matplotlib tutorial](https://github.com/rougier/matplotlib-tutorial) (1.7k ★) —
   [Glumpy](https://github.com/glumpy/glumpy) (810 ★) —
   [Vispy](https://github.com/vispy/vispy) (2.5k ★) —
   [Freetype-gl](https://github.com/rougier/freetype-gl) (1.2k ★). [#Code]{.text-primary} 
-* **October 10, 2020** Our article [Latent space exploration and
+- **October 10, 2020** Our article [Latent space exploration and
   functionalization of a gated working memory model using
   conceptors](https://arxiv.org/abs/2003.11640) has been accepted at Cognitive
   Computation. [#ARTICLE]{.text-danger}
-* **October 8, 2020** The article [Sustainable computational science: the
+- **October 8, 2020** The article [Sustainable computational science: the
   ReScience initiative](https://peerj.com/articles/cs-142) is among the top 5
   most viewed at PeerJ Computer Science. [#ARTICLE]{.text-danger}
-* **October 1, 2020** Just realized I can endorse for cs.AI, cs.AR, cs.CY,
+- **October 1, 2020** Just realized I can endorse for cs.AI, cs.AR, cs.CY,
   cs.DC, cs.DL, cs.GL, cs.GR, cs.HC, cs.LG, cs.NE, cs.SE, q-bio.NC, stat.ML on
   [arXiv](https://arxiv.org/).
 
 ### September 2020
 
-* **September 26, 2020** Half a million views for [Ten Simple Rules for Better
+- **September 26, 2020** Half a million views for [Ten Simple Rules for Better
   Figures (2014)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833). Kind of a classic now! [#ARTICLE]{.text-danger}
-* **September 24, 2020** Our paper [The adaptive value of probability distortion
+- **September 24, 2020** Our paper [The adaptive value of probability distortion
   and risk-seeking in macaques’ decision-making](https://hal.inria.fr/hal-03005035) has been accepted at the Philosophical Transactions of the Royal Society B. [#ARTICLE]{.text-danger}
-* **September 20, 2020** My first emacs package proposal (ELPA):
+- **September 20, 2020** My first emacs package proposal (ELPA):
   [splash-screen](https://github.com/rougier/emacs-splash). [#Code]{.text-primary} 
-* **September 14, 2020** I just published [Get Things Done with Emacs](https://www.labri.fr/perso/nrougier/GTD/index.html). [#Code]{.text-primary} 
-* **September 9, 2020** Our [Robust Model of Gated Working Memory](https://www.mitpressjournals.org/doi/10.1162/neco_a_01249) article has been accepted in the [journal track](https://cdstc.gitlab.io/icdl-2020/program/journal-track/) of [ICDL 2020](https://cdstc.gitlab.io/icdl-2020/program/schedule/). [#ARTICLE]{.text-danger}
-* **September 5, 2020** [My
+- **September 14, 2020** I just published [Get Things Done with Emacs](https://www.labri.fr/perso/nrougier/GTD/index.html). [#Code]{.text-primary} 
+- **September 9, 2020** Our [Robust Model of Gated Working Memory](https://www.mitpressjournals.org/doi/10.1162/neco_a_01249) article has been accepted in the [journal track](https://cdstc.gitlab.io/icdl-2020/program/journal-track/) of [ICDL 2020](https://cdstc.gitlab.io/icdl-2020/program/schedule/). [#ARTICLE]{.text-danger}
+- **September 5, 2020** [My
   interview](https://www.youtube.com/watch?v=JGiqaTcUuxg&feature=youtu.be) for
   "[L'écho Vaporiste](https://www.youtube.com/channel/UCfa75GAFhPmgFWQ1Id5VoJQ):
   c'était demain" is online (in French). [#CHAT]{.text-danger}
-* **September 1, 2020** Welcome to Fjola Hyseni who will start her PhD with
+- **September 1, 2020** Welcome to Fjola Hyseni who will start her PhD with
   [Arthur Leblois](https://www.bordeaux-neurocampus.fr/staff/arthur-leblois/)
   and me.
 
 ### August 2020
 
-* **August 26, 2020** My Nature podcast is online: [The challenge of
+- **August 26, 2020** My Nature podcast is online: [The challenge of
   reproducing results from ten-year-old
   code](https://www.nature.com/articles/d41586-020-02484-1). [#CHAT]{.text-danger}  
-* **August 26, 2020** [Communication of the ACM](https://cacm.acm.org/careers/247004-challenge-to-scientists-does-your-ten-year-old-code-still-run/fulltext
+- **August 26, 2020** [Communication of the ACM](https://cacm.acm.org/careers/247004-challenge-to-scientists-does-your-ten-year-old-code-still-run/fulltext
 ) about the Ten Years reproducilibity Challenge. [#CHAT]{.text-danger}
-* **August 24, 2020** [Challenge to scientists: does your ten-year-old code
+- **August 24, 2020** [Challenge to scientists: does your ten-year-old code
   still run?](https://www.nature.com/articles/d41586-020-02462-7) is online at
   Nature. A nice account of our Ten Years Reproducibility Challenge. Also on
   [Hacker news](https://news.ycombinator.com/item?id=24260337) and
   [Slashdot](https://developers.slashdot.org/story/20/08/25/1958241/will-your-code-run-ten-years-from-now). [#ARTICLE]{.text-danger} 
-* **August 20, 2020** Welcome to Nikolaos Vardalakis who will start his Phd with
+- **August 20, 2020** Welcome to Nikolaos Vardalakis who will start his Phd with
   [Fabien Wagner](https://www.bordeaux-neurocampus.fr/staff/fabien-wagner/) and
   me.
-* **August 20, 2020** 1 hour interview for Nature podcast but the Ten Years
+- **August 20, 2020** 1 hour interview for Nature podcast but the Ten Years
   Reproducibility Challenge should last approximately 5 minutes in the final
   podcast. [#CHAT]{.text-danger}
-* **August 13, 2020** Just published a preprint [on the design of text
+- **August 13, 2020** Just published a preprint [on the design of text
   editors](https://arxiv.org/abs/2008.06030) based on my GNU Emacs hacking
   experiments. [#ARTICLE]{.text-danger}
 
 ### July 2020
 
-* **July 24, 2020** The [IA³ website](http://ia3.u-bordeaux.fr) is online,
+- **July 24, 2020** The [IA³ website](http://ia3.u-bordeaux.fr) is online,
   originated from our [scientific
   wandering](https://www.youtube.com/watch?v=2ySQ1oIs1c8&feature=youtu.be) in
   2018 at the Bordeaux observatory.
-* **July 10, 2020** I've designed [brand new
+- **July 10, 2020** I've designed [brand new
   cheatsheets](https://github.com/matplotlib/cheatsheets) for matplotlib, with
   the financial support of NumFOCUS. ~700 retweets, ~2000 likes, ~2500 stars on
   GitHub and ~4500 upvotes on
   [Reddit](https://www.reddit.com/r/Python/comments/hmoabi/ive_designed_brand_new_cheatsheets_x2_and/). This
   was much needed. [#Code]{.text-primary} 
-* **July 9, 2020** [Interview for CNET
+- **July 9, 2020** [Interview for CNET
 France](https://www.cnetfrance.fr/news/la-reconnaissance-faciale-est-elle-devenue-raciste-et-sexiste-des-experts-de-l-ai-nous-repondent-39906301.htm)
   about "racist" AI has been published. [#CHAT]{.text-danger}
 
 ### June 2020
 
-* **June 12-19, 2020** Our [computational neuroscience crash
+- **June 12-19, 2020** Our [computational neuroscience crash
   course](https://github.com/rougier/CNCC-2020) will be online this year. [#TEACH]{.text-danger}
-* **June 9, 2020** My Ten Years Reproducibility Challenge entry just got
+- **June 9, 2020** My Ten Years Reproducibility Challenge entry just got
   [published](https://rescience.github.io/bibliography/Rougier_2020.html). It's
   a reproduction of a 32 years old program that I published when I was a
   teenager. Coded in Applesoft Basic on an Apple IIe. [#ARTICLE]{.text-danger}
 
 ### May 2020
 
-* **May 27, 2020** The VisPy project that I co-funded with C.Rossant, A.Klein
+- **May 27, 2020** The VisPy project that I co-funded with C.Rossant, A.Klein
   and L.Campagnola and now lead by David Hoese got funded by the Chan Zuckerberg
   Initiative. [#Code]{.text-primary} 
-* **May 22, 2020** Articles (x10) and editorial from the [2019 NeurIPS
+- **May 22, 2020** Articles (x10) and editorial from the [2019 NeurIPS
   Reproducibility
   Challenge](https://reproducibility-challenge.github.io/neurips2019/dates/) are
   [online](http://rescience.github.io). 
-* **May 18, 2020** I'm now review editor for [Decision
+- **May 18, 2020** I'm now review editor for [Decision
   Neuroscience](https://www.frontiersin.org/journals/neuroscience/sections/decision-neuroscience),
   shared between [Frontiers in
   Neuroscience](https://www.frontiersin.org/journals/neuroscience#) and
   [Frontiers in Psychology](https://www.frontiersin.org/journals/psychology#).
-* **May 14, 2020** I've made a [minimal but
+- **May 14, 2020** I've made a [minimal but
   elegant](https://github.com/rougier/elegant-emacs) theme for emacs. [#Code]{.text-primary} 
-* **May 13, 2020** Our article [Identification of distinct pathological
+- **May 13, 2020** Our article [Identification of distinct pathological
   signatures induced by patient-derived α-synuclein structures in nonhuman
   primates](https://advances.sciencemag.org/content/6/20/eaaz9165) is online at
   Science Advances. [#ARTICLE]{.text-danger}
-* **May 12, 2020** Joining the Bordeaux University expert group.
-* **May 11, 2020** End of global lockdown.
-* **May 5, 2020** New
+- **May 12, 2020** Joining the Bordeaux University expert group.
+- **May 11, 2020** End of global lockdown.
+- **May 5, 2020** New
   [comment](https://www.nature.com/articles/d41586-020-01328-2) in Nature about
   the upcoming creation of ReScience X with Etienne Roesch. [#ARTICLE]{.text-danger}
-* **May 3, 2020** 24 entries sor far for the [Ten Years Reproducibility
+- **May 3, 2020** 24 entries sor far for the [Ten Years Reproducibility
   Challenge](http://rescience.github.io/ten-years/) and a few more need extra
   time.
-* **May 1, 2020** [Ten Years Reproducibility
+- **May 1, 2020** [Ten Years Reproducibility
   Challenge](http://rescience.github.io/ten-years/) deadline! Only a few hours
   to submit your entries.
 
 ### April 2020
 
-* **April 17, 2020** Arthur Leblois and me have been awarded a PhD Grant in
+- **April 17, 2020** Arthur Leblois and me have been awarded a PhD Grant in
   Theoretical Neuroscience by the University of Bordeaux. 
 
 ### March 2020
 
-* **March 29, 2020** The [Ten Years Reproducibility
+- **March 29, 2020** The [Ten Years Reproducibility
   Challenge](http://rescience.github.io/ten-years/) workshop is postponed
   sometime later in the year.  
-* **March 29, 2020** The [Ten Years Reproducibility
+- **March 29, 2020** The [Ten Years Reproducibility
   Challenge](http://rescience.github.io/ten-years/) deadline has been extended
   to 30/04/2020.
-* **March 28, 2020** [100 Numpy exercises](https://github.com/rougier/numpy-100)
+- **March 28, 2020** [100 Numpy exercises](https://github.com/rougier/numpy-100)
   reached 5000 ★. [#TEACH]{.text-danger}
-* **March 27, 2020** New experimental [Matplotlib 3d
+- **March 27, 2020** New experimental [Matplotlib 3d
   axis](https://github.com/rougier/matplotlib-3d). [#Code]{.text-primary} 
-* **March 21, 2020** New preprint [Transfer between long-term and short-term
+- **March 21, 2020** New preprint [Transfer between long-term and short-term
   memory using Conceptors](https://arxiv.org/abs/2003.11640}) available on
   arXiv. [#ARTICLE]{.text-danger}
-* **March 17, 2020** France global lockdown
-* **March 13, 2020** Universities shutdown in France because of COVID-19.
-* **March 5, 2020** [Le 5 mars l’université et la recherche
+- **March 17, 2020** France global lockdown
+- **March 13, 2020** Universities shutdown in France because of COVID-19.
+- **March 5, 2020** [Le 5 mars l’université et la recherche
   s’arrêtent.](https://universiteouverte.org)
-* **March 4, 2020** Joining the Technical Committee of the upcoming [SAB 2020 :
+- **March 4, 2020** Joining the Technical Committee of the upcoming [SAB 2020 :
 From Animals to Animats 16](https://sab2020.sciencesconf.org), the 16th
 international conference on the simulation of adaptive behavior.
-* **March 3, 2020** I'll give a keynote at the upcoming [European Neuroscience
+- **March 3, 2020** I'll give a keynote at the upcoming [European Neuroscience
   Conference by Doctoral
   Students](https://www.fens.org/Training/ENCODS/ENCODS2020/Program) (ENCODS)
   2020 in Glasgow (UK), a [FENS](https://www.fens.org/) event.  [#TALK]{.text-danger} 
 
 ### February 2020
 
-* **February 29, 2020** ReScience C will publish a special issue on the [NeurIPS
+- **February 29, 2020** ReScience C will publish a special issue on the [NeurIPS
   2019 Reproducibility Challenge](https://github.com/ReScience/NeurIPS-2019) in
   association with [Joelle Pineau](Joelle Pineau) and Koustuv Sinha.
-* **February 25, 2020** I've been officially appointed as a scientific expert by
+- **February 25, 2020** I've been officially appointed as a scientific expert by
   the University of Bordeaux.
-* **February 24, 2020** Happy to be a keynote for the upcoming [NeuroDoWo
+- **February 24, 2020** Happy to be a keynote for the upcoming [NeuroDoWo
   2020](https://neurodowo.nwg-info.de/) in Cologne organized by German PhD
   students in Neurobiology under the patronage of the German Neuroscience
   Society.  [#TALK]{.text-danger}
-* **February 21, 2020** Our article [Identification of distinct pathological
+- **February 21, 2020** Our article [Identification of distinct pathological
   signatures induced by patient-derived α-synuclein structures in non-human
   primates](https://doi.org/10.1101/825216) has been accepted at [Science
   Advances](https://advances.sciencemag.org/). [#ARTICLE]{.text-danger}
-* **February 19, 2020** Our book [Vers une recherche reproductible, faire
+- **February 19, 2020** Our book [Vers une recherche reproductible, faire
   évoluer ses pratiques](https://rr-france.github.io/bookrr/) is now available
   at the [Bibliothèque Nationale de [#ARTICLE]{.text-danger}
   France](https://nouveautes-editeurs.bnf.fr/annonces.html?id_declaration=10000000533158&titre_livre=Vers_une_recherche_reproductible_)
   (ISBN: 979-10-97595-04-3)
-* **February 17, 2020** Participating to the PhD defense of Aliaa Moualla at
+- **February 17, 2020** Participating to the PhD defense of Aliaa Moualla at
   Cergy University about a robot
   ([Berenson](https://www.u-cergy.fr/fr/recherche-et-valorisation/actualites-recherche/berenson-le-robot-amateur-d-art.html))
   wandering in a musem while developping a sense of aesthetic.  [#JURY]{.text-danger}  
-* **February 6 & 7, 2020** Meeting of the [Drôles d'objets, un nouvel art de
+- **February 6 & 7, 2020** Meeting of the [Drôles d'objets, un nouvel art de
   faire](https://drolesdobjets20.sciencesconf.org/) scientific committee in
   Nancy. We established the program of the conference that promises to be fun
   and interesting.
     
 ### January 2020
   
-* **January 27, 2020** Official start of the
+- **January 27, 2020** Official start of the
   [Hypermondes](http://hypermondes.fr/) festival. Follow us on twitter
   [@hypermondes](https://twitter.com/hypermondes).
-* **January 24, 2020** Our Saraswati associated team proposal has been accepted.
-* **January 21, 2020** My interview for GrandLabo is
+- **January 24, 2020** Our Saraswati associated team proposal has been accepted.
+- **January 21, 2020** My interview for GrandLabo is
   [online](https://www.grandlabo.com/10-years-reproducibility-challenge). [#CHAT]{.text-danger}
-* **January 20, 2020** Start of the [AI4Industry](https://www.ai4industry.fr/)
+- **January 20, 2020** Start of the [AI4Industry](https://www.ai4industry.fr/)
   workshop. 5 days of conferences, training and hackatons.
-* **January 7, 2020** Just submitted the
+- **January 7, 2020** Just submitted the
   [reproduction](https://github.com/rougier/TYRC-apple) of my very first (non
   scientific) published article 32 years ago for the [Ten Years Reproducibility
   Challenge](http://rescience.github.io/ten-years/). [#ARTICLE]{.text-danger}
@@ -804,88 +804,88 @@ international conference on the simulation of adaptive behavior.
 
 ### December 2019
   
-* **December 20, 2019** "Scandale à la Macropole !", the (fake) trial of an
+- **December 20, 2019** "Scandale à la Macropole !", the (fake) trial of an
   artificial intelligence is [online](https://youtu.be/wh2XtXabyAM).  
-* **December 17, 2019** On strike and demonstrating!
-* **December 10, 2019** On strike and demonstrating!
-* **December 5, 2019** My former internship student Bhargav Teja Nallapu will
+- **December 17, 2019** On strike and demonstrating!
+- **December 10, 2019** On strike and demonstrating!
+- **December 5, 2019** My former internship student Bhargav Teja Nallapu will
   defend his PhD Thesis: "A closed-loop framework of decision-making and
   learning in primate prefrontal circuits : Computational modeling and virtual
   experimentation".  [#JURY]{.text-danger}
-* **December 3, 2019** I'll give an invited talk("Boostrapping Cognition") at
+- **December 3, 2019** I'll give an invited talk("Boostrapping Cognition") at
 the [NeuroDevRob : robotics, development and
 neurosciences](https://neurodevrob.sciencesconf.org/resource/page/id/1)
 conference.  [#TALK]{.text-danger}
 
 ### November 2019
 
-* **November 29, 2019** I'll participate to the [national meeting of digital libraries](https://www.culture.gouv.fr/Sites-thematiques/Livre-et-Lecture/Bibliotheques/Numerique-et-bibliotheques/Les-Bibliotheques-numeriques-de-reference/JNBNR2019) in Bordeaux.  [#TALK]{.text-danger}
-* **November 26, 2019** Attending the [Robotic
+- **November 29, 2019** I'll participate to the [national meeting of digital libraries](https://www.culture.gouv.fr/Sites-thematiques/Livre-et-Lecture/Bibliotheques/Numerique-et-bibliotheques/Les-Bibliotheques-numeriques-de-reference/JNBNR2019) in Bordeaux.  [#TALK]{.text-danger}
+- **November 26, 2019** Attending the [Robotic
   GDR](https://www.gdr-robotique.org/) workshop (GT8, robotic &
   neuroscience). Very nice talks, especially the one by Olivier Ly at the end of
   the day.
-* **November 20, 2019** "Scandale à la Macropole !", a
+- **November 20, 2019** "Scandale à la Macropole !", a
   [FACTS](http://www.facts-bordeaux.fr/) event.  I will testify at the (fake)
   trial of an artificial intelligence. Trial will start at 19h at the Hôtel de
   Région in Bordeaux.
-* **November 18, 2019** Submission deadline is today for the conference [Drôles
+- **November 18, 2019** Submission deadline is today for the conference [Drôles
   d'objets, un nouvel art de faire](https://drolesdobjets20.sciencesconf.org/)
-* **November 13, 2019** I added a new entry for the [Ten Years Reproducibility
+- **November 13, 2019** I added a new entry for the [Ten Years Reproducibility
   Challenge](http://rescience.github.io/ten-years/) with my very first published
   article in a (non-scientific) journal, published 31 years ago (for apple IIe). [#ARTICLE]{.text-danger}
-* **November 5, 2019** Our article about the emergence of money under
+- **November 5, 2019** Our article about the emergence of money under
   information scarcity has been accepted in Palgrave Communications (Springer
   Nature). [#ARTICLE]{.text-danger}
-* **November 4, 2019** You can now [sponsor
+- **November 4, 2019** You can now [sponsor
   me](https://github.com/sponsors/rougier) using the Github sponsorship
   program. From $1/month up to 100$/month (for companies).
-* **November 2, 2019** Together with T.Boraud and C.Brun, we submitted our ERC
+- **November 2, 2019** Together with T.Boraud and C.Brun, we submitted our ERC
   Synergy project "BRAINCRAFT: Unraveling cognition using systemic,
   computational & intelligible models: from newts to non-human primates"
 
 ### October 2019
   
-* **October 31, 2019** New preprint online: [Identification of distinct
+- **October 31, 2019** New preprint online: [Identification of distinct
   pathological signatures induced by patient-derived α-synuclein structures in
   non-human primates](https://doi.org/10.1101/825216). [#ARTICLE]{.text-danger}
-* **October 29, 2019** [Challenge to test reproducibility of old computer
+- **October 29, 2019** [Challenge to test reproducibility of old computer
   code](https://www.nature.com/articles/d41586-019-03296-8). Correspondence in
   Nature about the [Ten Years Reproducibility
   Challenge](http://rescience.github.io/ten-years/). [#ARTICLE]{.text-danger}
-* **October 22, 2019** Kick-off meeting at La Rochelle for our EcoMob project
+- **October 22, 2019** Kick-off meeting at La Rochelle for our EcoMob project
   funded by Région Nouvelle-Aquitaine.
-* **October 21, 2019** [Why your cat is lousy at chess yet way smarter than even
+- **October 21, 2019** [Why your cat is lousy at chess yet way smarter than even
   the most advanced
   AI](https://theconversation.com/why-your-cat-is-lousy-at-chess-yet-way-smarter-than-even-the-most-advanced-ai-125581)
   in The Conversation. [#ARTICLE]{.text-danger}
-* **October 18, 2019** Fastest peer-review in my personal history. Six hours
+- **October 18, 2019** Fastest peer-review in my personal history. Six hours
   between submission and acceptance for a correspondence in Nature: "Putting
   Reproducibility to the test". [#ARTICLE]{.text-danger}
-* **October 17, 2019** [Pourquoi votre chat est nul aux éches at pourtant plus
+- **October 17, 2019** [Pourquoi votre chat est nul aux éches at pourtant plus
   intelligent qu'une
   IA](https://theconversation.com/pourquoi-votre-chat-est-nul-aux-echecs-et-pourtant-plus-intelligent-quune-ia-123584)
   (in French in The Conversation, France) [#ARTICLE]{.text-danger}
-* **October 12, 2019** I'll be present at the [Discussion with the general
+- **October 12, 2019** I'll be present at the [Discussion with the general
   public](http://tousensciences.fr/prochain-debat-sms-12-10-2019/) about
   science, fiction and AI at Cap-Sciences (17h-19h). This event is part of the
   [AI Trial and Bordeaux
   Macropole](http://tousensciences.fr/bdxmacropole-controverse/).  [#TALK]{.text-danger}  
-* **October 11, 2019** Announcing the [Ten Years Reproducibility
+- **October 11, 2019** Announcing the [Ten Years Reproducibility
   Challenge](http://rescience.github.io/ten-years/) whose goal is to try to run
   your old code (older than 10 years). Good luck. Deadline set to 01/04/2020.
-* **October 9, 2019** Submission of our associated team Saraswati (Hindu goddess
+- **October 9, 2019** Submission of our associated team Saraswati (Hindu goddess
   of knowledge, music, art, wisdom, and learning) with our Indian partners from
   Hyderabad (Raju Surampudi Bapi) and Chenai (Srinivasa Shakravarty).
-* **October 8, 2019** Science outreach day at the Montendre high-school to talk
+- **October 8, 2019** Science outreach day at the Montendre high-school to talk
   about Artificial Intelligence and do some experiment on unplugger AI.  [#TALK]{.text-danger}
 
 ### September 2019
   
-* **September 23, 2019** Our article [Attributing and Referencing (Research)
+- **September 23, 2019** Our article [Attributing and Referencing (Research)
   Software: Best Practices and Outlook from
   Inria](https://hal.archives-ouvertes.fr/hal-02135891) has been accepted to
   CiSE special issue on Software and Data Citations. [#ARTICLE]{.text-danger}
-* **September 18, 2019** Github update: [From Python to
+- **September 18, 2019** Github update: [From Python to
   Numpy](https://github.com/rougier/from-python-to-numpy) (1.2k ★) — [Matplotlib
   cheat sheet](https://github.com/rougier/matplotlib-cheatsheet) (1.1k ★) — [100
   Numpy exercises](https://github.com/rougier/numpy-100) (4.1k ★) — [Matplotlib
@@ -893,224 +893,224 @@ conference.  [#TALK]{.text-danger}
   [Glumpy](https://github.com/glumpy/glumpy) (660 ★) —
   [Vispy](https://github.com/vispy/vispy) (2.1k ★) -
   [Freetype-gl](https://github.com/rougier/freetype-gl) (1k ★). [#Code]{.text-primary} 
-* **September 2, 2019** Our paper on a robust model of working memory has been
+- **September 2, 2019** Our paper on a robust model of working memory has been
   accepted in Neural Computation. [#ARTICLE]{.text-danger}
-* **September 1, 2019** [Recursive
+- **September 1, 2019** [Recursive
   voronoi](https://github.com/rougier/recursive-voronoi) are fascinating
   mathematical objects. I had to try to make one using matplotlib and shapely.
 
 ### August 2019
 
-* **August 30, 2019** Interesting meeting with P.Couillard, former Premier of
+- **August 30, 2019** Interesting meeting with P.Couillard, former Premier of
   Québec, to talk about AI, health & medicine. [#CHAT]{.text-danger}
-* **August 16, 2019** My 2020 book project [Scientific Visualization — Python &
+- **August 16, 2019** My 2020 book project [Scientific Visualization — Python &
   Matplotlib](https://github.com/rougier/scientific-visualization-book) is
   online. You can support it and have access to the private repository while I
   write it. [#ARTICLE]{.text-danger}
-* **August 11, 2019** I designed a [matplotlib
+- **August 11, 2019** I designed a [matplotlib
   cheatsheet](https://github.com/rougier/matplotlib-cheatsheet) from figures
   I've made for the upcoming scientific viualization book. [#Code]{.text-primary} 
-* **August 3, 2019** Just released a [calendar
+- **August 3, 2019** Just released a [calendar
   heatmap](https://github.com/rougier/calendar-heatmap) made with matplotlib
   (from my upcoming book on scientific visusalization). [#Code]{.text-primary} 
 
 ### July 2019
 
-* **July 30, 2019** Our paper [ReScience C: A Journal for Reproducible
+- **July 30, 2019** Our paper [ReScience C: A Journal for Reproducible
   Replications in Computational Science](https://hal.inria.fr/hal-02199854) has
   been published in *Reproducible Research in Pattern Recognition (Lecture Notes
   in Computer Science)*. [#ARTICLE]{.text-danger}
-* **July 23, 2019** Preparation of the [Artificial Intelligence
+- **July 23, 2019** Preparation of the [Artificial Intelligence
   trial](http://tousensciences.fr/bdxmacropole-proces/) that will be held on
   November 20 2019, somewhere in Bordeaux.
-* **July 20, 2019** Our project EcoMob with the University of La Rochelle has
+- **July 20, 2019** Our project EcoMob with the University of La Rochelle has
   been accepted and funded. We'll study and model the formation of habits in
   Humans with a special emphasis on the cortex and the basal ganglia.
-* **July 7-12, 2019** *En route* for Oslo to attend the [International Society
+- **July 7-12, 2019** *En route* for Oslo to attend the [International Society
   for the History, Philosophy and Social Studies of
   Biology](https://ishpssb2019.tekniskmuseum.no/). I'll give a talk about the
   difficulties in evaluating non-predictive models.  [#TALK]{.text-danger}
-* **July 1-5, 2019** Start of the [Computational Neuroscience Crash
+- **July 1-5, 2019** Start of the [Computational Neuroscience Crash
   Course](https://github.com/rougier/CNCC-2019) week with Arthur Leblois and in
   association with the Bordeaux Neuroscience Grad School. [#TEACH]{.text-danger}
 
 ### June 2019
 
-* **June 24, 2019** Meeting with Etienne Coutureau's lab. Anthony Strock will
+- **June 24, 2019** Meeting with Etienne Coutureau's lab. Anthony Strock will
   present our (robust) model of working memory.
-* **June 21, 2019** APEIA day (Artificial Intelligence & Education) at Inria
+- **June 21, 2019** APEIA day (Artificial Intelligence & Education) at Inria
   BSO. I'll introduce some unplugged AI activities: maze building & solving and
   perceptrons with pen, papers and dices.  [#TALK]{.text-danger}
-* **June 11, 2019** We are movie stars ! The team is shooting a short movie
+- **June 11, 2019** We are movie stars ! The team is shooting a short movie
     about our ongoing cooperation with our fellow neurobiologist colleagues.
-* **June 7, 2019** Very much excited to visit [The Atelier National de Recherche
+- **June 7, 2019** Very much excited to visit [The Atelier National de Recherche
     Typographique (ANRT)](https://anrt-nancy.fr/en/presentation-en/) in Nancy in
     order to meet Jérémie Hornus from Black\[Foundry\]. 
-* **June 6, 2019** Auditions for a MdC LRU position at centrale-supélec Metz. [#JURY]{.text-danger}
-* **June 4, 2019** Our book [Vers une recherche reproductible, faire évoluer ses
+- **June 6, 2019** Auditions for a MdC LRU position at centrale-supélec Metz. [#JURY]{.text-danger}
+- **June 4, 2019** Our book [Vers une recherche reproductible, faire évoluer ses
     pratiques](https://rr-france.github.io/bookrr/) has been edited and is now
     online.  [#ARTICLE]{.text-danger} 
     
 ### May 2019
     
-* **May 28, 2019** The website for the upcoming conference [Drôles d'objets, un
+- **May 28, 2019** The website for the upcoming conference [Drôles d'objets, un
     nouvel art de faire](images/psyphine-2020.pdf) (2020) is online at
     <https://drolesdobjets20.sciencesconf.org/>
-* **May 25, 2019** Our preprint [Attributing and Referencing (Research)
+- **May 25, 2019** Our preprint [Attributing and Referencing (Research)
     Software: Best Practices and Outlook from
     Inria](https://hal.archives-ouvertes.fr/hal-02135891) is online. Submitted
     to CiSE for the special issue on Software and Data Citations.  [#ARTICLE]{.text-danger}
-* **May 23, 2019** Our very first ReScience C special issue is online.  Many
+- **May 23, 2019** Our very first ReScience C special issue is online.  Many
     thanks to Joelle Pineau, Koustuv Sinha and all the students that worked hard
     on the [ICLR 2019 Reproducibility
     Challenge](https://github.com/reproducibility-challenge/iclr_2019).
-* **May 23, 2019** Many contributions from Jérémy Fix to the [machine learning
+- **May 23, 2019** Many contributions from Jérémy Fix to the [machine learning
     recipes](https://github.com/rougier/ML-Recipes) repository.
-* **May 22, 2019** Our brand new ReScience C website with a smoother and simpler
+- **May 22, 2019** Our brand new ReScience C website with a smoother and simpler
     submission and publishing process is live. Have a look at
     <https://rescience.github.io/>.
-* **May 15, 2019** SOMA meeting at Inria Lille (following the BioComp conference
+- **May 15, 2019** SOMA meeting at Inria Lille (following the BioComp conference
     in Lille). Each of us will give update on their research concerning the
     project.
-* **May 13, 2019** Lab retreat in Lacanau for 2 days. Second and third year PhD
+- **May 13, 2019** Lab retreat in Lacanau for 2 days. Second and third year PhD
     students will introduce their work.
-* **May 9, 2019** Audition and selection for the Inria National young graduate
+- **May 9, 2019** Audition and selection for the Inria National young graduate
     scientist recruiting campaign. One long day for auditions, one day for
     discussions.  [#JURY]{.text-danger}
-* **May 7, 2019** Preselection for an assistant professor position in machine
+- **May 7, 2019** Preselection for an assistant professor position in machine
     Learning for Central/Supélec, Metz.  [#JURY]{.text-danger}
-* **May 2, 2019** Audition and selection for the Inria Sophia-Antipolis
+- **May 2, 2019** Audition and selection for the Inria Sophia-Antipolis
     Méditerranée (SAM) young graduate scientist recruiting campaign. One day for
     auditions, one day for discussions.  [#JURY]{.text-danger}
 
 ### April 2019
 
-* **April 28-30, 2019** We'll present a poster on the [Natural History of
+- **April 28-30, 2019** We'll present a poster on the [Natural History of
     Skills](https://www.sciencedirect.com/science/article/pii/S0301008218300194)
     at the [iBags conference](http://www.ibags2019.com/) to be held in Biarritz,
     France from April 28 to May 2, 2019.  [#TALK]{.text-danger}
-* **April 26, 2019** Third and last lesson for the theoretical part of our
+- **April 26, 2019** Third and last lesson for the theoretical part of our
     [computational neuroscience crash    course](https://neurocampus-graduateprogram.u-bordeaux.fr/News/Starting-in-April-2019-Computationnal-Neuroscience-Workshop)
     for the Bordeaux Neurocampus Graduate Program. Today, we'll review and
     practice signal processing. [#TEACH]{.text-danger}
-* **April 24, 2019** [Fabien Benureau](http://fabien.benureau.com/) will present
+- **April 24, 2019** [Fabien Benureau](http://fabien.benureau.com/) will present
     our work on [Transforming Code into Scientific
     Contribution](https://www.frontiersin.org/articles/10.3389/fninf.2017.00069/full)
     at [Scipy Japan](https://www.scipyjapan2019.scipy.org/) to be held in Tokyo,
     23-24 April 2019.  [#TALK]{.text-danger}
-* **April 23, 2019** The [100 Numpy
+- **April 23, 2019** The [100 Numpy
     exercises](https://github.com/rougier/numpy-100) repository reached 3,000
     stars on GitHub and the open access book [From Python to
     Numpy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/) reached
     1,000 stars. [#Code]{.text-primary} 
-* **April 19, 2019** Amazing, we did it! We wrote a complete book on
+- **April 19, 2019** Amazing, we did it! We wrote a complete book on
     reproducible science in three days. The book is now edited and will be
     online (open access) in a few weeks.  [#ARTICLE]{.text-danger}
-* **April 16, 2019** A brand new [Mag
+- **April 16, 2019** A brand new [Mag
     U](https://www.u-bordeaux.fr/content/download/85949/662113/version/1/file/magU9_2019.pdf)
     (University of Bordeaux) has been published where I give a short interview
     on brain and artificial intelligence. [#CHAT]{.text-danger}    
-* **April 15, 2019** I'll participate in a [book
+- **April 15, 2019** I'll participate in a [book
     sprint](https://en.wikipedia.org/wiki/Book_sprint) organized by Sabrina
     Granger ([URFIST](http://weburfist.univ-bordeaux.fr/)) with Loïc Desquilbet,
     Boris Hejblum, Arnaud Legrand and Pascal Pernot. We are supposed to write a
     complete book on reproducible science in three days. Quite a challenge
     indeed.
-* **April 14, 2019** I just published another absurd dialogue between two
+- **April 14, 2019** I just published another absurd dialogue between two
     immortals: [Immortel
     (dialogues)](https://medium.com/@nicolas.rougier/immortel-443b0f2c476b) (in
     French). 
-* **April 12, 2019** Second lesson of our [computational neuroscience crash course](https://neurocampus-graduateprogram.u-bordeaux.fr/News/Starting-in-April-2019-Computationnal-Neuroscience-Workshop)
+- **April 12, 2019** Second lesson of our [computational neuroscience crash course](https://neurocampus-graduateprogram.u-bordeaux.fr/News/Starting-in-April-2019-Computationnal-Neuroscience-Workshop)
     for the Bordeaux Neurocampus Graduate Program. Today, we'll review and
     practice differential equations.  [#TEACH]{.text-danger}
-* **April 9, 2019** Videos of our initiation to Artifical Intelligence for math
+- **April 9, 2019** Videos of our initiation to Artifical Intelligence for math
     teachers are now online ([part 1](https://youtu.be/N1OiczpDH34) & [part
     2](https://youtu.be/yHSPlnIc-pw)) thanks to Didier Roy who also organised
     this meeting in 2018.  [#TEACH]{.text-danger}
-* **April 5, 2019** First lesson of our [computational neuroscience crash
+- **April 5, 2019** First lesson of our [computational neuroscience crash
   course](https://neurocampus-graduateprogram.u-bordeaux.fr/News/Starting-in-April-2019-Computationnal-Neuroscience-Workshop)
     for the Bordeaux Neurocampus Graduate Program. Today, we'll review and
     practice basic linear algebra.  [#TEACH]{.text-danger}
-* **April 4, 2019** Our talk proposal with [Fabien
+- **April 4, 2019** Our talk proposal with [Fabien
     Benureau](http://fabien.benureau.com/) has been accepted for [Scipy
     2019](https://www.scipy2019.scipy.org/) but none of us can attend the
     conference. We had to decline.  [#ARTICLE]{.text-danger}
-* **April 4, 2019** Pre-selection phase for the Inria National young graduate
+- **April 4, 2019** Pre-selection phase for the Inria National young graduate
     scientist recruiting campaign in Paris. Another long day ahead.  [#JURY]{.text-danger}
-* **April 3, 2019** Joint interview with [Natacha
+- **April 3, 2019** Joint interview with [Natacha
     Vas-Deyres](https://www.facebook.com/natacha.vasdeyres) for the [Bordeaux
     Geek Festival](https://www.geek-festival.fr/) (BGF) whose theme, this year,
     is the rise of the machines. [#CHAT]{.text-danger}
-* **April 2, 2019** Just published another absurd dialogue "[Connecté
+- **April 2, 2019** Just published another absurd dialogue "[Connecté
     (dialogues)](https://medium.com/@nicolas.rougier/connecte-4a2cfa49f925)" (in
     French) between a man and a door.
-* **April 1, 2019** I'll give a course on neural field and cortical plasticity
+- **April 1, 2019** I'll give a course on neural field and cortical plasticity
     at the University Côte d'Azur for the master of science in Modelling for
     Neurosciences and Cognitives Systems.  [#TEACH]{.text-danger}
 
 ### March 2019
 
-* **March 30, 2019** Just published "[Autonome
+- **March 30, 2019** Just published "[Autonome
     (dialogues)](https://medium.com/@nicolas.rougier/autonome-c54a37b067f8)", a
     short and absurd dialogue (in French) between an autonomous car and its
     principal user, inspired by a recent and ongoing collaboration with the
     [blOp](http://blopinterjection.com/) artistic group.
-* **March 29, 2019** During the workshop organized by
+- **March 29, 2019** During the workshop organized by
     [URFIST](http://weburfist.univ-bordeaux.fr/) and
     [Inria](https://www.inria.fr/centre/bordeaux), [Etienne
     Roesch](http://etienneroes.ch/who) gave a very nice talk and introduced
     ReScience X, a journal dedicated to the publication of experimental
     replications that we'll launch this summer (hopefully). Stay tuned!
-* **March 28, 2019** [A Robust Model of Gated Working
+- **March 28, 2019** [A Robust Model of Gated Working
     Memory](https://www.biorxiv.org/content/10.1101/589564v1), a work where we
     introduce a robust yet simple reservoir model of gated working memory with
     instantaneous updates is now online on biorXiv.  [#ARTICLE]{.text-danger}
-* **March 27, 2019** Our experimental and theoretical work on decision making
+- **March 27, 2019** Our experimental and theoretical work on decision making
     with limited information has been published: A.Nioche, B.Garcia, T.Boraud,
     N.Rougier & S. Bourgeois-Gironde, [Interaction effects between consumer
     information and firms' decision rules in a duopoly: how cognitive features
     can impact market
     dynamics](https://www.nature.com/articles/s41599-019-0241-x), *Palgrave
     Communications (Nature)*, volume 5 (2019).  [#ARTICLE]{.text-danger}
-* **March 27, 2019** Pre-selection phase for the Inria Sophia-Antipolis
+- **March 27, 2019** Pre-selection phase for the Inria Sophia-Antipolis
     Méditerranée (SAM) young graduate scientist recruiting campaign. Long day
     ahead.  [#JURY]{.text-danger}
-* **March 26, 2019** My open access book "[From Python to
+- **March 26, 2019** My open access book "[From Python to
     Numpy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/)" is now
     runnable at
     [educative.io](https://www.educative.io/collection/10370001/5678140542156800?authorName=Nicolas%20P.%20Rougier)
     who provides interactive in-browser environments that keep you engaged and
     test your progress as you go.  [#ARTICLE]{.text-danger}
-* **March 23, 2019** Huge success for our [computational neuroscience crash   course](https://neurocampus-graduateprogram.u-bordeaux.fr/News/Starting-in-April-2019-Computationnal-Neuroscience-Workshop)
+- **March 23, 2019** Huge success for our [computational neuroscience crash   course](https://neurocampus-graduateprogram.u-bordeaux.fr/News/Starting-in-April-2019-Computationnal-Neuroscience-Workshop)
     co-directed by myself and [Arthur
     Leblois](https://neurophys.biomedicale.parisdescartes.fr/members/arthur-leblois/).
     Registrations are now closed (we already have too many people). All the
     material will be available online for those who could not register.  [#TEACH]{.text-danger}
-* **March 20, 2019** Welcome to Gabriel Gouraud who will work with me for three
+- **March 20, 2019** Welcome to Gabriel Gouraud who will work with me for three
     months on spatial distributed and adaptive computing.
-* **March 15, 2019** En route for La Rochelle to give a 4 hours course on
+- **March 15, 2019** En route for La Rochelle to give a 4 hours course on
     dataviz. We'll use INSEE database ("mariages in 2016") and try to achieve
     some nice visualization.  [#TEACH]{.text-danger}
-* **March 13, 2019** I'm visiting [Black\[Foundry\]](https://black-foundry.com/)
+- **March 13, 2019** I'm visiting [Black\[Foundry\]](https://black-foundry.com/)
     with [Samuel Hornus](https://members.loria.fr/samuel.hornus/) and [Adrien
     Tétar](https://adrientetar.github.io/). We are collaborating on the design
     of a flawless font hardware-accelerated rendering engine, including
     variational fonts. [#Code]{.text-primary} 
-* **March 10, 2019** Psyphine, our multidisciplinary group (computer science,
+- **March 10, 2019** Psyphine, our multidisciplinary group (computer science,
     psychology, philosophy, linguistic, neuroscience, ethnology) for the
     theoretical and experimental study on cognition has been funded for one more
     year (CNRS PEPS).
-* **March 9, 2019** I've coded a small and pure Python 3D renderer (100 lines
+- **March 9, 2019** I've coded a small and pure Python 3D renderer (100 lines
     with loader, z-buffer, transformation, texture & light) available at
     <https://github.com/rougier/tiny-renderer>. [#Code]{.text-primary} 
-* **March 7, 2019** In collaboration with
+- **March 7, 2019** In collaboration with
     [URFIST](http://weburfist.univ-bordeaux.fr/) and
     [EDMI](https://ed-mi.u-bordeaux.fr/), I'll give a talk on scientific
     integrity for Bordeaux PhD students, based on the preprint [Ten Simple Rules
     for Scientific Fraud and Misconduct](https://peerj.com/preprints/27395/) I
     wrote with [John Timmers](https://arstechnica.com/author/john-timmer/) from
     [Ars Technica](https://arstechnica.com/).  [#TALK]{.text-danger}
-* **March 3, 2019** Our session "Idealizations in Computational Neuroscience:
+- **March 3, 2019** Our session "Idealizations in Computational Neuroscience:
     Facticity, Pragmatics and the Coding Heuristics", with Daniel Kostic and
     Cédric Brun, has been accepted for the biennal meeting of the [International
     Society for the History, Philosophy and Social Studies of
@@ -1119,26 +1119,26 @@ conference.  [#TALK]{.text-danger}
 
 ### February 2019
 
-* **February 28, 2019** I've created a small GitHub repository at
+- **February 28, 2019** I've created a small GitHub repository at
     <https://github.com/rougier/ML-Recipes> with stand-alone Python recipes for
     some basic machine learning algorithms. Very far from scikit-learn coverage
     or quality, but this might come handy for a quick experiment. [#Code]{.text-primary} 
-* **February 28, 2019** I'll be teaching [advanced scientific
+- **February 28, 2019** I'll be teaching [advanced scientific
     Python](https://github.com/rougier/Scipy-Bordeaux-2019) to Bordeaux PhD
     students (and faculty as well). Make sure to have conda installed and to
     know the basics of Python.  [#TEACH]{.text-danger}
-* **February 26, 2019** The UNESCO Paris Call I helped to review is now online
+- **February 26, 2019** The UNESCO Paris Call I helped to review is now online
     at <https://en.unesco.org/foss/paris-call-software-source-code>. It
     emphasizes the importance of the Software Heritage archive to collect,
     preserve and share software source code.  [#ARTICLE]{.text-danger}
-* **February 21, 2019** Fourth year I'm teaching [scientific Python for
+- **February 21, 2019** Fourth year I'm teaching [scientific Python for
     beginners](https://github.com/rougier/Scipy-Bordeaux-2019) to Bordeaux PhD
     students. It was sold out (actually it is free) after only a few days
     following the annoucement.  [#TEACH]{.text-danger}
-* **February 19, 2019** Our ANR grant proposal on reproducible research
+- **February 19, 2019** Our ANR grant proposal on reproducible research
     (Software Heritage, Inria, CBM, CASCaD, Leo, LIG and MAP5) coordinated by
     [Konrad Hinsen](http://khinsen.net/) has passed the first stage. 
-* **February 1, 2019** Together with [Sophie
+- **February 1, 2019** Together with [Sophie
     Sakka](https://www.facebook.com/sophie.sakka.1) and [Natacha
     Vas-Deyres](https://www.facebook.com/natacha.vasdeyres), I'll participate to
     the "Conférence Décalée" during the [Reboot science  festival](https://www.u-bordeaux-montaigne.fr/fr/actualites/formation/reboot-humains-et-machines-un-monde-en-evolution.html).
@@ -1146,10 +1146,10 @@ conference.  [#TALK]{.text-danger}
 
 ### January 2019
 
-* **January 14, 2019** First Psyphine meeting of the year. We met at the FMSM
+- **January 14, 2019** First Psyphine meeting of the year. We met at the FMSM
     (Fondation des Maison des Sciences de l'Homme) in Paris in order to prepare
     our conference to be held next year in La Rochelle.    
-* **January 7, 2019** [Olivia Guest](http://oliviaguest.com/) and myself will
+- **January 7, 2019** [Olivia Guest](http://oliviaguest.com/) and myself will
     chair the track on Neuroscience and Cognitive science during the [SciPy
     conference](https://www.scipy2019.scipy.org/) to be held in Austin, Texas,
     USA, July 10--12, 2019.  [#TALK]{.text-danger}
