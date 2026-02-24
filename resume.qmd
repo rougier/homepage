@@ -142,30 +142,30 @@ Alistair Bray 1998-2000
 
 ### Interns
 
-**Yves Apriou** (2025, Bordeaux)
-**Héloise Troublé** (2024, ENS Rennes)
-**Pierre Schmittbuhl** (2024, ENS Lyon)
+**Yves Apriou** (2025, ENSC, Bordeaux)
+**Héloise Troublé** (2024, ENS, Rennes)
+**Pierre Schmittbuhl** (2024, ENS, Lyon)
 **Gautham Venugopal** (2023, IIIT Hyderabad, India)
 **Victor Leroy** (2022, ENST, Bordeaux)
 **Rebecca Lafont** (2022, Bordeaux INP)
-**Bhushan Rugbursing** (2021, Médecine/Science, Bordeaux),
-**Karen Sobriel** (2021, Université de Nantes),
+**Bhushan Rugbursing** (2021, Medicine/Science, Bordeaux),
+**Karen Sobriel** (2021, Univ. de Nantes),
 **Quentin Lanneau** (2021, ENSEIRB, Bordeaux),
-**Kepa Labescau** (2020, Médecine/Science, Bordeaux),
-**Dimitri Lerévérend** (2020, ENS Rennes),
+**Kepa Labescau** (2020, Medicine/Science, Bordeaux),
+**Dimitri Lerévérend** (2020, ENS, Rennes),
 **Nicolas Thou** (2020, ENSEIRB, Bordeaux),
 **Adrien Tétar** (2019, ESIEE, Paris),
 **Gabriel Gouraud** (2019, Polytechnique, Saclay),
 **Théophile Boraud** (2018, Univ. Warwick, UK),
 **Edwige Cyffers** (2018, ENS, Lyon),
-**Basile Garcia** (2018, Univ. Bordeaux, Bordeaux),
+**Basile Garcia** (2018, Univ. Bordeaux),
 **Remya Sankar** (2017, IIIT Hyderabad, India),
 **Anthony Strock** (2017, ENS, Rennes),
 **Sabyasachi Shivkumar** (2016, IIIT Madras, India),
-**Barghav teja Nallapu** (2015, IIIT Hyderabad, Indoa),
-**Aurélien Marie** (2015, Univ. Bordeaux, Bordeaux),
-**Hima Mehta** (2014, IIIT Hyderabad, Inde),
-**Meropi Topalidou** (2013, Univ. Crete, Greece),
+**Barghav teja Nallapu** (2015, IIIT Hyderabad, India),
+**Aurélien Marie** (2015, Univ. Bordeaux),
+**Hima Mehta** (2014, IIIT Hyderabad, India),
+**Meropi Topalidou** (2013, Univ. Crête, Greece),
 **Zoé Barbanneau** (2011, Ecole Estienne, Paris),
 **Wahiba Taouali** (2009, Ecole des Mines, Nancy),
 **Andrew Szabados** (2008, Univ. Jussieu, Paris),
