@@ -218,6 +218,8 @@ workshops, one Summer school and one hackathon](https://psyphine.hypotheses.org/
 | 2026-2030     | **REWIRE (Widera, 2M€)** with more than 10 European partners               |
 |               | (coordinated by OpenAIRE).                                                 |
 +---------------+----------------------------------------------------------------------------+
+| 2025-2028     | **OSD (University of Bordeaux, 130k€)** with UBM (Bordeaux)                |
++---------------+----------------------------------------------------------------------------+
 | 2021-2026     | **Vispy 2 (CZI Open Science, 200k€)** with International Brain Laboratory  |
 +---------------+----------------------------------------------------------------------------+
 | 2019-2021     | **Scientific Reproducibility (FNSO, 60k€)** with Grenoble University       |
