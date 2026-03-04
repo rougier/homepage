@@ -6,6 +6,10 @@ Trying to keep track of my activities. A kind of external memory.
 
 ## 2026
 
+### March 2026
+
+- **March 3, 2026** I'll present ReScience C at the [Love Replications Week](https://forrt.org/LoveReplicationsWeek/)" workshop. [#TALK]{.text-danger}
+
 ### February 2026
 
 - **February 27, 2026** PhD defense of Xiaodan Chen that I reviewed (CY-Paris University). [#JURY]{.text-danger}
