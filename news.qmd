@@ -8,6 +8,7 @@ Trying to keep track of my activities. A kind of external memory.
 
 ### March 2026
 
+- **March 8, 2026** Welcome to Andrea Terlizzi who is a PhD student at Università degli Studi di Salerno. Andrea  is visiting us for a 6 month internship.
 - **March 3, 2026** I'll present ReScience C at the [Love Replications Week](https://forrt.org/LoveReplicationsWeek/)" workshop. [#TALK]{.text-danger}
 
 ### February 2026
@@ -133,7 +134,7 @@ the [Le Lab des écoles créatives](https://labecolescreatives.hypotheses.org/51
 - **April 7, 2025** I'll be present at the [OSINT workshop](https://www.ijba.u-bordeaux-montaigne.fr/journee-detude-osint-ia-enquetes-augmentees/) to talk about AI and surveillance.  [#TALK]{.text-danger}
 - **April 3, 2025** [3rd conference of Reproducible Research](https://jrfrr-2025.sciencesconf.org/) in Lyon, organized by the [French Reproducible Research Network](https://www.recherche-reproductible.fr/). 2026 edition will be in Bordeaux.
 - **April 2, 2025** I just joined the editorial board of the [RockFeller Publishing company](https://www.rockefellerpub.com/) that is offering Diamond Open Access for books in science and technology.
-- **April 1, 2025** Ammar Khader that has been an apprentice in the team visited us.
+- **April 1, 2025** Ammar Kheder that has been an apprentice in the team visited us.
 He's now a Phd Student in Finland.
 
 ### March 2025
